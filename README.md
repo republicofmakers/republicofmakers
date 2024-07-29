@@ -13,10 +13,10 @@ I am specialized in Integrated Circuit Engineer, expert in chatting, playing and
 * ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
 ![Verilog/SystemVerilog](https://img.shields.io/badge/-Verilog/SystemVerilog-white?style=flat-square&logo=V)
 * 🗺 Embedded: ![ARM MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=Arm)
-![Arduino](https://img.shields.io/badge/-Arduino2-white?style=flat-square&logo=Arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=Arduino)
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=Linux)
-* ⚡ Hardware: ![电源](https://img.shields.io/badge/-PowerSupply-white?style=flat-square)
-![接口](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
+* ⚡ Hardware: ![power](https://img.shields.io/badge/-PowerCircuitryDesign-00629B?style=flat-square)
+![interface](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
 * 🚀 Digital Logic: 
 ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
 ![ISP](https://img.shields.io/badge/-ISP-76B900?style=flat-square)
