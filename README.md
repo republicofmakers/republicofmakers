@@ -17,9 +17,9 @@ I am specialized in Integrated Circuit Engineer, expert in chatting, playing and
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=Linux)
 * ⚡ Hardware: ![power](https://img.shields.io/badge/-PowerCircuitryDesign-00629B?style=flat-square)
 ![interface](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
-* 🚀 Digital Logic: 
+* 🚀 Digital Core: 
 ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
-![M-Series](https://img.shields.io/badge/-M0--M4--M7-76B900?style=flat-square)
+![M-Series](https://img.shields.io/badge/-ARM:M0--M4--M7-76B900?style=flat-square)
 
 
 **Tools&FrameWork**
