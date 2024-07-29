@@ -1,13 +1,13 @@
 ### Republic of Makers Repo ###
 
-republicofmakers's Repo, alias "republicofmaker"
+republicofmakers's Repo, alias "republicofmakers"
 
 
 
-Real name is "Ceyhun Pempeci"... "RepublicofMakers" is more memorable so that's why I called it
+Real name is "Ceyhun Pempeci"... "Republic of Makers" is more memorable so that's why I called it.
 
 
-I am specialized in Integrated Circuit Engineer, expert in chatting, playing and eating.
+I am specialized in Embedded System Engineering.
 
 **Tech Stack**
 * ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
@@ -19,7 +19,7 @@ I am specialized in Integrated Circuit Engineer, expert in chatting, playing and
 ![interface](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
 * 🚀 Digital Core: 
 ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
-![M-Series](https://img.shields.io/badge/-ARM:M0--M4--M7-76B900?style=flat-square)
+![M-Series](https://img.shields.io/badge/-ARM:M0--M3--M4--M7-76B900?style=flat-square)
 
 
 **Tools&FrameWork**
@@ -32,4 +32,5 @@ I am specialized in Integrated Circuit Engineer, expert in chatting, playing and
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
 ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
+
 
