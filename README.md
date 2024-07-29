@@ -30,5 +30,6 @@ I am specialized in Integrated Circuit Engineer, expert in chatting, playing and
 ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
 * ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
+![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 
