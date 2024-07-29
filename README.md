@@ -4,7 +4,7 @@ republicofmakers's Repo, alias "republicofmakers"
 
 
 
-Real name is "Ceyhun Pempeci"... "Republic of Makers" is more memorable so that's why I called it.
+My name is "Ceyhun Pempeci"... "Republic of Makers" is more memorable so that's why I called it.
 
 
 I am specialized in Embedded System Engineering.
