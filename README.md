@@ -38,12 +38,14 @@ I am specialized in Embedded System Engineering.
 I build hundreds of projects. These are the naming for easy search.
 
 **For Hardware**
+
 HW-> Stands for PCB files / Schematics 
 (Kicad / Altium / Pads)
 + Special NAME
 + XXX (Project Number)
 
 **For Software (SDK)**
+
 SW-> Stands for Library / Codes
 +
 MCU-> Microcontroller
