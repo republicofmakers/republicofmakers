@@ -33,4 +33,31 @@ I am specialized in Embedded System Engineering.
 ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 
+**REPO NAMING**
+I build hundreds of projects. These are the naming for easy search.
+
+**For Hardware**
+HW-> Stands for PCB files / Schematics 
+(Kicad / Altium / Pads)
++ Special NAME
++ XXX (Project Number)
+
+**For Software (SDK)**
+SW-> Stands for Library / Codes
++
+MCU-> Microcontroller
+MPU-> Microprocessor
+FPGA-> Field programmable gate array
++
+STM32-> ST Microelectronics
+ESP32-> Espressif
+ZYNQ-> Xilinx
+ICE-> Lattice
+
++ Special NAME
++ XXX (Project Number) 
+
+
+
+
 
