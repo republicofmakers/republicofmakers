@@ -49,7 +49,7 @@ I build hundreds of projects. These are the naming for easy search.
 
 **Synonym Dictionary**
 
-HW-> Stands for PCB files / Schematics ++ (Kicad / Altium etc.)
+HW-> Stands for PCB files / Schematics (Kicad / Altium etc.)
 
 or
 
