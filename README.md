@@ -47,19 +47,13 @@ I am specialized in Embedded System Engineering.
 
 I build hundreds of projects. These are the naming for easy search.
 
-**For Hardware**
+**Synonym Dictionary**
 
-HW-> Stands for PCB files / Schematics 
+HW-> Stands for PCB files / Schematics ++ (Kicad / Altium etc.)
 
-(Kicad / Altium / Pads)
+or
 
-++ Special Name
-
-++ XXX (Project Number)
-
-**For Software (SDK)**
-
-SW-> Stands for Library / Codes
+SW-> Stands for Library / Codes (SDK)
 
 ++
 
