@@ -71,15 +71,11 @@ I build hundreds of projects. These are the naming for easy search.
 | **ICE**      | Lattice                |
 
 
-**++Special Name**
-
-**++Project Number**
-
 
 
 ## ST Microelectronics
 
-|   Category   |   IC Type    | Center Align |    Title      | Project Number|    Level    |  Description                 | Progress      |    Repo Link |
+|   Category   |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description                 | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:------------:|:------------:|:-----------------------------|:-------------:|:------------:|
 | SW           | MCU          | STM32        |  BlinkTest     |  001         |  Beginner    |  Simple LED control          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
 | SW           | MCU          | STM32        |  LCDTest        |  002         |  Beginner    |  0.96 Inch LCD              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
@@ -107,7 +103,7 @@ I build hundreds of projects. These are the naming for easy search.
 | SW           | MCU          | STM32        |  WIFI MQTT     |  061         |  Advanced    |                              |⏳Progress      |[Click]() |
 | SW           | MCU          | STM32        |  ETHETNET MQTT |  062         |  Advanced    |                              |⏳Progress      |[Click]() |
 | SW           | MCU          | STM32        |  GSM 4G MQTT   |  063         |  Advanced    |                              |⏳Progress      |[Click]() |
-| SW           | MCU          | STM32        |  LCD SDRAM+NAND|  064         |  Advanced    |                              |❌NotStarted    |[Click]() |
+| SW           | MCU          | STM32        |  LCD SDRAM+NAND|  064         |  Advanced    |                              |⏳Progress      |[Click]() |
 | SW           | MPU          | STM32        |  LCD DDR3+EMC  |  065         |  Advanced    |                              |❌NotStarted    |[Click]() |
 
 ## Espressif
