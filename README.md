@@ -42,42 +42,84 @@ I am specialized in Embedded System Engineering.
 <br>
 
 
-
-### REPO NAMING ###
-
+## Synonym Dictionary
 I build hundreds of projects. These are the naming for easy search.
+### Abbreviations
 
-**Synonym Dictionary**
+| Abbreviation | Description                             |
+|--------------|-----------------------------------------|
+| **HW**       | Stands for PCB files / Schematics (Kicad / Altium etc.) |
+| **SW**       | Stands for Library / Codes (SDK)        |
 
-HW-> Stands for PCB files / Schematics (Kicad / Altium etc.)
+### Components
 
-or
+| Abbreviation | Full Form                        |
+|--------------|----------------------------------|
+| **MCU**      | Microcontroller                  |
+| **MPU**      | Microprocessor                   |
+| **FPGA**     | Field Programmable Gate Array    |
 
-SW-> Stands for Library / Codes (SDK)
+### Manufacturers
 
-++
+| Abbreviation | Company Name           |
+|--------------|------------------------|
+| **STM32**    | ST Microelectronics    |
+| **ESP32**    | Espressif              |
+| **ZYNQ**     | Xilinx                 |
+| **ICE**      | Lattice                |
 
-MCU-> Microcontroller
 
-MPU-> Microprocessor
+**++Special Name**
 
-FPGA-> Field programmable gate array
-
-++
-
-STM32-> ST Microelectronics
-
-ESP32-> Espressif
-
-ZYNQ-> Xilinx
-
-ICE-> Lattice
-
-++ Special Name
-
-++ XXX (Project Number) 
+**++Project Number**
 
 
 
+## ST Microelectronics
 
+|   Category   |   IC Type    | Center Align |    Title      | Project Number|    Level    |  Description                 | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:------------:|:------------:|:-----------------------------|:-------------:|:------------:|
+| SW           | MCU          | STM32        |  BlinkTest     |  001         |  Beginner    |  Simple LED control          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
+| SW           | MCU          | STM32        |  LCDTest        |  002         |  Beginner    |  0.96 Inch LCD              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
+| SW           | MCU          | STM32        |  ADC-PMW       |  003         |  Beginner    |  Potentiometer&Servo         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADC-PMW-003) |
+| SW           | MCU          | STM32        |  I2CTest       |  004         |  Beginner    |  SHT4X Temp&Hum              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-I2CTest-004) |
+| SW           | MCU          | STM32        |                |  005         |  Beginner    |  Winbond SPI Flash           |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  ExtLoader     |  006         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExtLoader-006) |
+| SW           | MCU          | STM32        |  Bootloader    |  007         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BootLoader-007) |
+| SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
+| SW           | MCU          | STM32        |  LVGLTest      |  009         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
+| SW           | MCU          | STM32        |  SD Card       |  010         |  Beginner    |  SD Card Data Logger         |  ✅ Done       |[Click]() |
+|              |              |              |                |  ----        |              |                              |                |          |
+| SW           | MCU          | STM32        |  Can           |  031         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  Can FD        |  032         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  Modbus Master |  033         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  Modbus Slave  |  034         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  RS232         |  035         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  USB           |  036         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  Ethernet      |  037         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  NRF24L01      |  038         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  LORA          |  039         |  Intermediate|                              |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  BLE           |  040         |  Intermediate|                              |  ✅ Done       |[Click]() |
+|              |              |              |                |  ----        |              |                              |                |          |
+| SW           | MCU          | STM32        |  GSM 2G MQTT   |  060         |  Advanced    |                              |⏳Progress      |[Click]() |
+| SW           | MCU          | STM32        |  WIFI MQTT     |  061         |  Advanced    |                              |⏳Progress      |[Click]() |
+| SW           | MCU          | STM32        |  ETHETNET MQTT |  062         |  Advanced    |                              |⏳Progress      |[Click]() |
+| SW           | MCU          | STM32        |  GSM 4G MQTT   |  063         |  Advanced    |                              |⏳Progress      |[Click]() |
+| SW           | MCU          | STM32        |  LCD SDRAM+NAND|  064         |  Advanced    |                              |❌NotStarted    |[Click]() |
+| SW           | MPU          | STM32        |  LCD DDR3+EMC  |  065         |  Advanced    |                              |❌NotStarted    |[Click]() |
+
+## Espressif
+
+
+....
+
+## Xilinx
+
+
+....
+
+## Lattice
+
+
+....
 
