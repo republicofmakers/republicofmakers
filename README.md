@@ -24,14 +24,16 @@ I am specialized in Embedded System Engineering.
 
 **Tools&FrameWork**
 
-* ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) 
-![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)
+
+* ![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)
 ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
+* ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) 
 ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
 * ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
+* ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
-![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
+
 
 
 <br>
