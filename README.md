@@ -75,7 +75,7 @@ I build hundreds of projects. These are the naming for easy search.
 
 ## ST Microelectronics
 
-|   Category   |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | STM32        |  BlinkTest     |  001         |  Beginner    |  Simple LED control          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
 | SW           | MCU          | STM32        |  LCDTest        |  002         |  Beginner    |  0.96 Inch LCD              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
