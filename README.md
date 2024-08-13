@@ -86,7 +86,7 @@ I build hundreds of projects. These are the naming for easy search.
 | SW           | MCU          | STM32        |  Bootloader    |  007         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BootLoader-007) |
 | SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
 | SW           | MCU          | STM32        |  LVGLTest      |  009         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
-| SW           | MCU          | STM32        |  SD Card       |  010         |  Beginner    |  SD Card Data Logger         |  ✅ Done       |[Click]() |
+| SW           | MCU          | STM32        |  SD Card       |  010         |  Beginner    |  SD Card Data Logger         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-10-SD-Card-010) |
 |              |              |              |                |  ----        |              |                              |                |          |
 | SW           | MCU          | STM32        |  Can           |  031         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  Can FD        |  032         |  Intermediate|                              |  ✅ Done       |[]() |
