@@ -56,8 +56,8 @@ I am specialized in Embedded System Engineering.
 
 | Title        | Description                      | Purpose                      | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **STM32 ADC DAC**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
-| **MCU Programmer**       | Multiboard MCU programmer       | Programming / Testing multiple PCBs with pogo pins      | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
+| **STM32 ADC DAC**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
+| **MCU Programmer**       | Multiboard MCU programmer       | Programming / Testing multiple PCBs with pogo pins      | [Click]()|
 
 <br>
 <br>
