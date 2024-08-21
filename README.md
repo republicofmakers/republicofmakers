@@ -35,6 +35,29 @@ I am specialized in Embedded System Engineering.
 ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
 
 
+### Operational Works
+
+| Title        | Description                      | Company                      | Repo  Link                      | 
+|------------------|----------------------------------|----------------------------------|----------------------------------|
+| **Project management**       | Project management for rolling stock system     | Hyundai / Rotem (Korea)      | [Click]()|
+
+
+### Industrial Works
+
+| Title        | Description                      | Company                      | Repo  Link                      | 
+|------------------|----------------------------------|----------------------------------|----------------------------------|
+| **NFC-LOCK-Controller**       | NFC Locker Design for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click]()|
+| **NFC&TFT-Controller**       | NFC Door Access System for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click]()|
+| **IOT-Medical-Device**    | Health care device with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click]()|
+| **Industrial BMS Design**     | BMS controller for high voltage battery system   | Hyundai Inverter Solution (Korea)       | [Click]()|
+
+
+### Hobby Projects
+
+| Title        | Description                      | Purpose                      | Repo  Link                      | 
+|------------------|----------------------------------|----------------------------------|----------------------------------|
+| **STM32 ADC DAC**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
+| **MCU Programmer**       | Multiboard MCU programmer       | Programming / Testing multiple PCBs with pogo pins      | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
 
 <br>
 <br>
