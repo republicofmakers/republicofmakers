@@ -39,7 +39,7 @@ I am specialized in Embedded System Engineering.
 
 | Title        | Description                      | Company                      | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **Project management**       | Project management for rolling stock system     | Hyundai / Rotem (Korea)      | [Click]()|
+| **Project management**       | Project management for rolling stock system     | Hyundai / Rotem (Korea)      | [Click](https://github.com/republicofmakers/Operational-Works-Project-management)|
 
 
 ### Industrial Works
