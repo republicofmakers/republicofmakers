@@ -57,7 +57,7 @@ I am specialized in Embedded System Engineering.
 | Title        | Description                      | Purpose                      | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **STM32 ADC DAC**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
-| **MCU Programmer**       | Multiboard MCU programmer       | Programming / Testing multiple PCBs with pogo pins      | [Click]()|
+| **MCU Programmer**       | Multiboard MCU programmer       | Programming / Testing multiple PCBs with pogo pins      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
 
 <br>
 <br>
@@ -123,12 +123,12 @@ I build hundreds of projects. These are the naming for easy search.
 | SW           | MCU          | STM32        |  LORA          |  039         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  BLE           |  040         |  Intermediate|                              |  ✅ Done       |[]() |
 |              |              |              |                |  ----        |              |                              |                |          |
-| SW           | MCU          | STM32        |  GSM 2G MQTT   |  060         |  Advanced    |                              |⏳Progress      |[Click]() |
-| SW           | MCU          | STM32        |  WIFI MQTT     |  061         |  Advanced    |                              |⏳Progress      |[Click]() |
-| SW           | MCU          | STM32        |  ETHETNET MQTT |  062         |  Advanced    |                              |⏳Progress      |[Click]() |
-| SW           | MCU          | STM32        |  GSM 4G MQTT   |  063         |  Advanced    |                              |⏳Progress      |[Click]() |
-| SW           | MCU          | STM32        |  LCD SDRAM+NAND|  064         |  Advanced    |                              |⏳Progress      |[Click]() |
-| SW           | MPU          | STM32        |  LCD DDR3+EMC  |  065         |  Advanced    |                              |❌NotStarted    |[Click]() |
+| SW           | MCU          | STM32        |  GSM 2G MQTT   |  060         |  Advanced    |                              |⏳Progress      |[]() |
+| SW           | MCU          | STM32        |  WIFI MQTT     |  061         |  Advanced    |                              |⏳Progress      |[]() |
+| SW           | MCU          | STM32        |  ETHETNET MQTT |  062         |  Advanced    |                              |⏳Progress      |[]() |
+| SW           | MCU          | STM32        |  GSM 4G MQTT   |  063         |  Advanced    |                              |⏳Progress      |[]() |
+| SW           | MCU          | STM32        |  LCD SDRAM+NAND|  064         |  Advanced    |                              |⏳Progress      |[]() |
+| SW           | MPU          | STM32        |  LCD DDR3+EMC  |  065         |  Advanced    |                              |❌NotStarted    |[]() |
 
 ## Espressif
 
