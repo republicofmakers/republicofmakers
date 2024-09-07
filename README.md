@@ -111,7 +111,13 @@ I build hundreds of projects. These are the naming for easy search.
 | SW           | MCU          | STM32        |  LVGLTest      |  009         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
 | SW           | MCU          | STM32        |  SD Card       |  010         |  Beginner    |  SD Card Data Logger         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-10-SD-Card-010) |
 | SW           | MCU          | STM32        |  W2812 RGB     |  011         |  Beginner    |  RGB LED Control             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-W2812-RGB-011) |
-|              |              |              |                |  ----        |              |                              |                |          |
+| SW           | MCU          | STM32        | 24BYJ48 Stepper|  012         |  Beginner    |  24BYJ48 Stepper Control     |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | Nema17 Stepper |  013         |  Beginner    |  Nema17 Stepper Control      |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | DC Motor       |  014         |  Beginner    |  DC Motor Control            |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | NPN Mosfet     |  015         |  Beginner    |  Water/Gas Pump Control      |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | DC Switch      |  015         |  Beginner    |  DC Device Control           |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | AC Switch      |  016         |  Beginner    |  AC Device Control           |  ✅ Done       |[]()  |
+|              |              |              |                |  ----        |              |                              |                |      |
 | SW           | MCU          | STM32        |  Can           |  031         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  Can FD        |  032         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  Modbus Master |  033         |  Intermediate|                              |  ✅ Done       |[]() |
