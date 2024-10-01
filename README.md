@@ -100,7 +100,7 @@ I build hundreds of projects. These are the naming for easy search.
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | STM32        |  BlinkTest     |  001         |  Beginner    |  Simple LED control          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
-| SW           | MCU          | STM32        |  LCDTest        |  002         |  Beginner    |  0.96 Inch LCD              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
+| SW           | MCU          | STM32        |  LCDTest        |  002        |  Beginner    |  0.96 Inch LCD              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
 | SW           | MCU          | STM32        |  ADC-PMW       |  003         |  Beginner    |  Potentiometer&Servo         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADC-PMW-003) |
 | SW           | MCU          | STM32        |  I2CTest       |  004         |  Beginner    |  SHT4X Temp&Hum              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-I2CTest-004) |
 | SW           | MCU          | STM32        |   SPI-Flash    |  005         |  Beginner    |  Winbond SPI Flash           |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SPI-Flash-005) |
@@ -117,7 +117,7 @@ I build hundreds of projects. These are the naming for easy search.
 | SW           | MCU          | STM32        | DC Switch      |  015         |  Beginner    |  DC Device Control           |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | AC Switch      |  016         |  Beginner    |  AC Device Control           |  ✅ Done       |[]()  |
 |              |              |              |                |  ----        |              |                              |                |      |
-| SW           | MCU          | STM32        |  Can           |  031         |  Intermediate|                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  Can           |  031         |  Intermediate|                              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  Can FD        |  032         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  Modbus Master |  033         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  Modbus Slave  |  034         |  Intermediate|                              |  ✅ Done       |[]() |
