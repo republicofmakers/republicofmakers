@@ -128,6 +128,7 @@ I build hundreds of projects. These are the naming for easy search.
 | SW           | MCU          | STM32        |  CANopen FD    |  038         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  Modbus RTU    |  039         |  Intermediate|                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  Ethernet TCP  |  040         |  Intermediate|                              |  ✅ Done       |[]() |
+|              |              |              |                |  ----        |              |                              |                |     |
 | SW           | MCU          | STM32        |  NRF24L01      |  050         |  Beginner    |                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |                              |  ✅ Done       |[]() |
