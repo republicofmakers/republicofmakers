@@ -72,8 +72,8 @@ I build hundreds of projects. These are the naming for easy search.
 
 | Abbreviation | Description                             |
 |--------------|-----------------------------------------|
-| **HW**       | Stands for PCB files / Schematics (Kicad / Altium etc.) |
-| **SW**       | Stands for Library / Codes (SDK)        |
+| **HW**       | Stands for PCB files / Manufacture Files|
+| **SW**       | Stands for Library / Codes              |
 
 ### Components
 
@@ -82,6 +82,7 @@ I build hundreds of projects. These are the naming for easy search.
 | **MCU**      | Microcontroller                  |
 | **MPU**      | Microprocessor                   |
 | **FPGA**     | Field Programmable Gate Array    |
+| **AI**       | Artificial Intelligence          |
 
 ### Manufacturers
 
@@ -104,33 +105,37 @@ I build hundreds of projects. These are the naming for easy search.
 | SW           | MCU          | STM32        |  ADC-PMW       |  003         |  Beginner    |  Potentiometer&Servo         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADC-PMW-003) |
 | SW           | MCU          | STM32        |  I2CTest       |  004         |  Beginner    |  SHT4X Temp&Hum              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-I2CTest-004) |
 | SW           | MCU          | STM32        |   SPI-Flash    |  005         |  Beginner    |  Winbond SPI Flash           |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SPI-Flash-005) |
-| SW           | MCU          | STM32        |  ExtLoader     |  006         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExtLoader-006) |
-| SW           | MCU          | STM32        |  Bootloader    |  007         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BootLoader-007) |
-| SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
+| SW           | MCU          | STM32        |  ExtLoader     |  006         |  Intermediate|  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExtLoader-006) |
+| SW           | MCU          | STM32        |  Bootloader    |  007         |  Intermediate|  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BootLoader-007) |
+| SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Intermediate|  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
 | SW           | MCU          | STM32        |  LVGLTest      |  009         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
 | SW           | MCU          | STM32        |  SD Card       |  010         |  Beginner    |  SD Card Data Logger         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-10-SD-Card-010) |
 | SW           | MCU          | STM32        |  W2812 RGB     |  011         |  Beginner    |  RGB LED Control             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-W2812-RGB-011) |
-| SW           | MCU          | STM32        | 24BYJ48 Stepper|  012         |  Beginner    |  24BYJ48 Stepper Control     |  ✅ Done       |[]()  |
-| SW           | MCU          | STM32        | Nema17 Stepper |  013         |  Beginner    |  Nema17 Stepper Control      |  ✅ Done       |[]()  |
-| SW           | MCU          | STM32        | DC Motor       |  014         |  Beginner    |  DC Motor Control            |  ✅ Done       |[]()  |
-| SW           | MCU          | STM32        | NPN Mosfet     |  015         |  Beginner    |  Water/Gas Pump Control      |  ✅ Done       |[]()  |
-| SW           | MCU          | STM32        | DC Switch      |  015         |  Beginner    |  DC Device Control           |  ✅ Done       |[]()  |
-| SW           | MCU          | STM32        | AC Switch      |  016         |  Beginner    |  AC Device Control           |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | 24BYJ48 Stepper|  012         |  Beginner    |  24BYJ48 Stepper             |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | Nema17 Stepper |  013         |  Beginner    |  Nema17 Stepper              |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | DC Motor       |  014         |  Beginner    |  DC Motor                    |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | NPN Mosfet     |  015         |  Beginner    |  Water/Gas Pump              |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | DC Switch      |  015         |  Beginner    |  DC Device                   |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | AC Switch      |  016         |  Beginner    |  AC Device                   |  ✅ Done       |[]()  |
 |              |              |              |                |  ----        |              |                              |                |      |
-| SW           | MCU          | STM32        |  Can           |  031         |  Intermediate|                              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
-| SW           | MCU          | STM32        |  Can FD        |  032         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  Modbus Master |  033         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  Modbus Slave  |  034         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  RS232         |  035         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  USB           |  036         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  Ethernet      |  037         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  NRF24L01      |  038         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  LORA          |  039         |  Intermediate|                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  BLE           |  040         |  Intermediate|                              |  ✅ Done       |[]() |
-|              |              |              |                |  ----        |              |                              |                |          |
-| SW           | MCU          | STM32        |  GSM 2G MQTT   |  060         |  Advanced    |                              |⏳Progress      |[]() |
-| SW           | MCU          | STM32        |  WIFI MQTT     |  061         |  Advanced    |                              |⏳Progress      |[]() |
-| SW           | MCU          | STM32        |  ETHETNET MQTT |  062         |  Advanced    |                              |⏳Progress      |[]() |
+| SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  Can Bus Test                |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
+| SW           | MCU          | STM32        |  Can FD        |  032         |  Beginner    |  Can Bus FD Test             |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  RS485         |  033         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  Ethernet      |  036         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  CANopen       |  037         |  Intermediate|                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  CANopen FD    |  038         |  Intermediate|                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  Modbus RTU    |  039         |  Intermediate|                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  Ethernet TCP  |  040         |  Intermediate|                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  NRF24L01      |  050         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  BLE           |  053         |  Intermediate|                              |  ✅ Done       |[]() |
+|              |              |              |                |  ----        |              |                              |                |     |
+| SW           | MCU          | STM32        |  GSM 2G MQTT   |  060         |  Intermediate|                              |⏳Progress      |[]() |
+| SW           | MCU          | STM32        |  WIFI MQTT     |  061         |  Intermediate|                              |⏳Progress      |[]() |
+| SW           | MCU          | STM32        |  ETHERNET MQTT |  062         |  Advanced    |                              |⏳Progress      |[]() |
 | SW           | MCU          | STM32        |  GSM 4G MQTT   |  063         |  Advanced    |                              |⏳Progress      |[]() |
 | SW           | MCU          | STM32        |  LCD SDRAM+NAND|  064         |  Advanced    |                              |⏳Progress      |[]() |
 | SW           | MPU          | STM32        |  LCD DDR3+EMC  |  065         |  Advanced    |                              |❌NotStarted    |[]() |
