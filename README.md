@@ -66,36 +66,6 @@ I am specialized in Embedded System Engineering.
 <br>
 
 
-## Synonym Dictionary
-I build hundreds of projects. These are the naming for easy search.
-### Abbreviations
-
-| Abbreviation | Description                             |
-|--------------|-----------------------------------------|
-| **HW**       | Stands for PCB files / Manufacture Files|
-| **SW**       | Stands for Library / Codes              |
-
-### Components
-
-| Abbreviation | Full Form                        |
-|--------------|----------------------------------|
-| **MCU**      | Microcontroller                  |
-| **MPU**      | Microprocessor                   |
-| **FPGA**     | Field Programmable Gate Array    |
-| **AI**       | Artificial Intelligence          |
-
-### Manufacturers
-
-| Abbreviation | Company Name           |
-|--------------|------------------------|
-| **STM32**    | ST Microelectronics    |
-| **ESP32**    | Espressif              |
-| **ZYNQ**     | Xilinx                 |
-| **ICE**      | Lattice                |
-
-
-
-
 ## ST Microelectronics
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
