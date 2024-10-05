@@ -75,10 +75,10 @@ I am specialized in Embedded System Engineering.
 | SW           | MCU          | STM32        |  ADC-PMW       |  003         |  Beginner    |  Potentiometer&Servo         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADC-PMW-003) |
 | SW           | MCU          | STM32        |  I2CTest       |  004         |  Beginner    |  SHT4X Temp&Hum              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-I2CTest-004) |
 | SW           | MCU          | STM32        |   SPI-Flash    |  005         |  Beginner    |  Winbond SPI Flash           |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SPI-Flash-005) |
-| SW           | MCU          | STM32        |  ExtLoader     |  006         |  Intermediate|  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExtLoader-006) |
-| SW           | MCU          | STM32        |  Bootloader    |  007         |  Intermediate|  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BootLoader-007) |
-| SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Intermediate|  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
-| SW           | MCU          | STM32        |  LVGLTest      |  009         |  Beginner    |  Winbond QSPI Flash          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
+| SW           | MCU          | STM32        |  ExtLoader     |  006         |  Intermediate|  Ext. Flash Boot - 1         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExtLoader-006) |
+| SW           | MCU          | STM32        |  Bootloader    |  007         |  Intermediate|  Ext. Flash Boot - 2         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BootLoader-007) |
+| SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Intermediate|  Ext. Flash Boot - 3        |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
+| SW           | MCU          | STM32        |  LVGLTest      |  009         |  Beginner    |  Ext. Flash Boot - 4         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
 | SW           | MCU          | STM32        |  SD Card       |  010         |  Beginner    |  SD Card Data Logger         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-10-SD-Card-010) |
 | SW           | MCU          | STM32        |  W2812 RGB     |  011         |  Beginner    |  RGB LED Control             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-W2812-RGB-011) |
 | SW           | MCU          | STM32        | 24BYJ48        |  012         |  Beginner    |  24BYJ48 Stepper             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-24BYJ48-012)  |
@@ -87,6 +87,10 @@ I am specialized in Embedded System Engineering.
 | SW           | MCU          | STM32        | NPN Mosfet     |  015         |  Beginner    |  Water/Gas Pump              |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | DC Switch      |  015         |  Beginner    |  DC Device                   |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | AC Switch      |  016         |  Beginner    |  AC Device                   |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | EPPROM         |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | External RTC   |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | RFID           |  019         |  Beginner    |  RC522 RFID                  |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | GPS            |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[]()  |
 |              |              |              |                |  ----        |              |                              |                |      |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  Can Bus Test                |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  Can FD        |  032         |  Beginner    |  Can Bus FD Test             |  ✅ Done       |[]() |
