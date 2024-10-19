@@ -104,7 +104,7 @@ I am specialized in Embedded System Engineering.
 | SW           | MCU          | STM32        |  Ethernet TCP  |  040         |  Intermediate|                              |  ✅ Done       |[]() |
 |              |              |              |                |  ----        |              |                              |                |     |
 | SW           | MCU          | STM32        |  NRF24L01      |  050         |  Beginner    |                              |  ✅ Done       |[]() |
-| SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |                              |  ✅ Done       |[]() |
+| SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |                              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |                              |  ✅ Done       |[]() |
 | SW           | MCU          | STM32        |  BLE           |  053         |  Intermediate|                              |  ✅ Done       |[]() |
 |              |              |              |                |  ----        |              |                              |                |     |
