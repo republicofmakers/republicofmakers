@@ -88,7 +88,7 @@ I am specialized in Embedded System Engineering.
 | SW           | MCU          | STM32        | DC Switch      |  015         |  Beginner    |  DC Device                   |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | AC Switch      |  016         |  Beginner    |  AC Device                   |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | EPPROM         |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[]()  |
-| SW           | MCU          | STM32        | External RTC   |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | External RTC   |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
 | SW           | MCU          | STM32        | RFID           |  019         |  Beginner    |  RC522 RFID                  |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | GPS            |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[]()  |
 |              |              |              |                |  ----        |              |                              |                |      |
