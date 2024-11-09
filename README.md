@@ -90,7 +90,7 @@ I am specialized in Embedded System Engineering.
 | SW           | MCU          | STM32        | EPPROM         |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-EPPROM-017)  |
 | SW           | MCU          | STM32        | External RTC   |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
 | SW           | MCU          | STM32        | RFID           |  019         |  Beginner    |  RC522 RFID                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RFID-019)  |
-| SW           | MCU          | STM32        | GPS            |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[]()  |
+| SW           | MCU          | STM32        | GPS            |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-GPS-020)  |
 | SW           | MCU          | STM32        | Touch          |  021         |  Beginner    |  Capacitive Touch            |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | Keypad         |  022         |  Beginner    |  4x4 Keypad                  |  ✅ Done       |[]()  |
 | SW           | MCU          | STM32        | Encoder        |  023         |  Beginner    |  Rotary Encoder              |  ✅ Done       |[]()  |
