@@ -48,7 +48,8 @@ I am specialized in Embedded System Engineering.
 | **NFC-LOCK-Controller**       | NFC Locker Design for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main)|
 | **NFC&TFT-Controller**       | NFC Door Access System for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)|
 | **IOT-Medical-Device**    | Health care device with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|
-| **Industrial BMS Design**     | BMS controller for high voltage battery system   | Hyundai Inverter Solution (Korea)       | |
+| **Industrial BMS Design**     | BMS Controller Design (TMS320F28335 with PADS)   | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main) |
+| **Commercial AI Camera**      | Commercial AI camera  (Jetson Orin Nano with KICAD)    | ONDAI AI INC. (Korea)       | |
 
 
 ### Hobby Projects
@@ -72,11 +73,11 @@ I am specialized in Embedded System Engineering.
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | SAMD21       |                 |  001         |  Beginner    | Blink                   |  ⏳Progress      |[]() |
 | SW           | MCU          | RP2040       |                 |  002         |  Beginner    | USB                     |  ⏳Progress      |[]() |
-| SW           | MCU          | NRF52840     |                 |  002         |  Beginner    | Bluetooth               |  ⏳Progress      |[]() |
-| SW           | MCU          | ESP32C3      |                 |  002         |  Beginner    | WIFI                    |  ⏳Progress      |[]() |
-| SW           | MCU          | ESP32C6      |                 |  002         |  Beginner    | Thread                  |  ⏳Progress      |[]() |
-| SW           | MCU          | RA4M1        |                 |  002         |  Beginner    | PMW                     |  ⏳Progress      |[]() |
-| SW           | MCU          | EFR32MG24    |                 |  002         |  Beginner    | Matter                  |  ⏳Progress      |[]() |
+| SW           | MCU          | NRF52840     |                 |  003         |  Beginner    | Bluetooth               |  ⏳Progress      |[]() |
+| SW           | MCU          | ESP32C3      |                 |  004         |  Beginner    | WIFI                    |  ⏳Progress      |[]() |
+| SW           | MCU          | ESP32C6      |                 |  005         |  Beginner    | Thread                  |  ⏳Progress      |[]() |
+| SW           | MCU          | RA4M1        |                 |  006         |  Beginner    | PMW                     |  ⏳Progress      |[]() |
+| SW           | MCU          | EFR32MG24    |                 |  007         |  Beginner    | Matter                  |  ⏳Progress      |[]() |
 
 
 <br>
@@ -94,30 +95,77 @@ I am specialized in Embedded System Engineering.
 <br>
 <br>
 
-## Atmel Studio (Atmega328p)
+## Arduino (WCH Studio)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ESP32        |  ESP32 CAM      |  001         |  Beginner    |  ESP32 Camera           |  ⏳Progress      |[]() |
-| SW           | MCU          | ESP32        |  ESP32 Touch    |  002         |  Beginner    |  ESP TFT                |  ⏳Progress      |[]() |
+| SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  Beginner    |  ESP32 Camera            |  ⏳Progress      |[]() |
+| SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ⏳Progress      |[]() |
 
 <br>
 <br>
 <br>
 
+## Micropyton (Raspberry Pi)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
+<br>
+<br>
+<br>
+
+## Atmel Studio (ATMEL)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
+<br>
+<br>
+<br>
+
+## MPLAB (Microchip)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
+<br>
+<br>
+<br>
+
+## CC Studio (Texas Instruments)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
 
 ## ST Microelectronics
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | STM32        |  BlinkTest     |  001         |  Beginner    |  Simple LED control          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
-| SW           | MCU          | STM32        |  LCDTest        |  002        |  Beginner    |  0.96 Inch LCD              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
+| SW           | MCU          | STM32        |  LCDTest        |  002        |  Beginner    |  0.96 Inch LCD               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
 | SW           | MCU          | STM32        |  ADC-PMW       |  003         |  Beginner    |  Potentiometer&Servo         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADC-PMW-003) |
 | SW           | MCU          | STM32        |  I2CTest       |  004         |  Beginner    |  SHT4X Temp&Hum              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-I2CTest-004) |
 | SW           | MCU          | STM32        |   SPI-Flash    |  005         |  Beginner    |  Winbond SPI Flash           |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SPI-Flash-005) |
 | SW           | MCU          | STM32        |  ExtLoader     |  006         |  Intermediate|  Ext. Flash Boot - 1         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExtLoader-006) |
 | SW           | MCU          | STM32        |  Bootloader    |  007         |  Intermediate|  Ext. Flash Boot - 2         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BootLoader-007) |
-| SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Intermediate|  Ext. Flash Boot - 3        |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
+| SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Intermediate|  Ext. Flash Boot - 3         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
 | SW           | MCU          | STM32        |  LVGLTest      |  009         |  Beginner    |  Ext. Flash Boot - 4         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
 | SW           | MCU          | STM32        |  SD Card       |  010         |  Beginner    |  SD Card Data Logger         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-10-SD-Card-010) |
 | SW           | MCU          | STM32        |  W2812 RGB     |  011         |  Beginner    |  RGB LED Control             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-W2812-RGB-011) |
@@ -186,4 +234,26 @@ I am specialized in Embedded System Engineering.
 
 ....
 
+
+## Nvidia (Orin Nano)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | NVIDIA AI    |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | NVIDIA AI    |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
+## Sophon (BM1684X)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | Sophon AI    |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | Sophon AI    |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
+## Intel N100 with Hailo 8
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           |  Hailo 8 AI  |              |               |  001         |  Beginner    |                           |  ⏳Progress   | []() |
+| SW           |  Hailo 8 AI  |              |               |  002         |  Beginner    |                           |  ⏳Progress   | []() |
+ 
 
