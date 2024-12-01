@@ -48,8 +48,8 @@ I am specialized in Embedded System Engineering.
 | **NFC-LOCK-Controller**       | NFC Locker Design for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main)|
 | **NFC&TFT-Controller**       | NFC Door Access System for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)|
 | **IOT-Medical-Device**    | Health care device with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|
-| **BMS Design**     | BMS Controller Design (TMS320F28335 with PADS)   | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |
-| **AI Camera**      | Commercial AI camera  (Jetson Orin Nano with KICAD)    | ONDAI AI INC. (Korea)       | [Click]([https://github.com/republicofmakers/Industrial-Works-BMS-Design](https://ondai.io/team)) |
+| **BMS Design**     | BMS Controller Design                                              | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |
+| **AI Camera**      | Commercial AI camera                                               | ONDAI AI INC. (Korea)       | [Click]((https://ondai.io/team)) |
 
 
 ### Hobby Projects
