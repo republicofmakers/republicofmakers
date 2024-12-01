@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a247c48a-e419-4d7e-86bb-f44635021c63)![image](https://github.com/user-attachments/assets/42b296b4-0562-43c4-b537-1dda495a6b5c)![image](https://github.com/user-attachments/assets/75572245-ea59-4733-bb02-799f2f940baa)### Republic of Makers Repo ###
+### Republic of Makers Repo ###
 
 republicofmakers's Repo, alias "republicofmakers"
 
