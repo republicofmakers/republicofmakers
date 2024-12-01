@@ -100,8 +100,8 @@ I am specialized in Embedded System Engineering.
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  Beginner    |  ESP32 Camera            |  ⏳Progress      |[]() |
-| SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
 
 <br>
 <br>
@@ -151,9 +151,18 @@ I am specialized in Embedded System Engineering.
 <br>
 <br>
 
+## nRF Connect (Nordic Semi)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
 <br>
 <br>
 <br>
+
+
 
 ## ST Microelectronics
 
