@@ -31,7 +31,11 @@ I am specialized in Embedded System Engineering.
 * ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
 
-## Education
+<br>
+<br>
+<br>
+
+# Education
 
 | Title            | Name of Institute                | Description                          | School  Link                       | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
@@ -45,8 +49,11 @@ Graduation Thesis :Angle of Arrival Estimation Algorithms using Received Signal 
 ### Awards / Scholarships
 I was honored with numerous scholarships and awards throughout my education, recognizing my dedication and achievements.
 
+<br>
+<br>
+<br>
 
-## Career
+# Career
 
 ### Operational Works
 
@@ -66,21 +73,25 @@ I was honored with numerous scholarships and awards throughout my education, rec
 | **Medical-Device**    | Health care device  (cant give any details)                 | Research Project     | No Link |2024.03 - 2024.08 | 
 | **AI Camera**      | Commercial AI camera                                               | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
 
-## Giving Back To Community
+<br>
+<br>
+<br>
+
+# Giving Back To Community
 I have created numerous repositories and projects to share knowledge and contribute to the community, reflecting my commitment to open learning and collaboration.
 Check the repos in the below.
 
 
-### Personal Projects
+### Industrial Projects
 
 | Title        | Description                      | Purpose                      | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **STM32 Application for Factory**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
 | **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
 
-
-
-
+<br>
+<br>
+<br>
 
 ### Arduino (Xiao Series)
 
