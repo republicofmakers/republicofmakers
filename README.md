@@ -2,12 +2,10 @@
 
 republicofmakers's Repo, alias "republicofmakers"
 
-
-
 My name is "Ceyhun Pempeci"... "Republic of Makers" is more memorable so that's why I called it.
 
-
 I am specialized in Embedded System Engineering.
+
 
 **Tech Stack**
 * ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
@@ -45,11 +43,11 @@ I am specialized in Embedded System Engineering.
 
 | Title            | Description                      | Company                          | Repo  Link                       | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| **NFC-LOCK-Controller**       | NFC Locker Design for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main)| 2022.05 - 2022.08 | 
-| **NFC&TFT-Controller**       | NFC Door Access System for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)| 2022.08 - 2023.11 | 
-| **IOT-Medical-Device**    | Health care device with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|2022.12 - 2023.08 | 
+| **LOCK Controller with NFC/BLE/WIFI**       | NFC Locker Design for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main)| 2022.05 - 2022.08 | 
+| **Door Controller TFT/NFC/BLE/WIFI**       | NFC Door Access System for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)| 2022.08 - 2023.11 | 
+| **Medical-Device**    | Health care device with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|2022.12 - 2023.08 | 
 | **BMS Design**     | BMS Controller Design                                              | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |2023.11 - 2024.02 | 
-| **IOT-Medical-Device**    | Health care device  (cant give any details)                 | Research Project     | No Link |2024.03 - 2024.08 | 
+| **Medical-Device**    | Health care device  (cant give any details)                 | Research Project     | No Link |2024.03 - 2024.08 | 
 | **AI Camera**      | Commercial AI camera                                               | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
 
 
@@ -57,8 +55,8 @@ I am specialized in Embedded System Engineering.
 
 | Title        | Description                      | Purpose                      | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **STM32 ADC DAC**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
-| **MCU Programmer**       | Multiboard MCU programmer       | Programming / Testing multiple PCBs with pogo pins      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
+| **STM32 Application for Factory**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
+| **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
 
 <br>
 <br>
