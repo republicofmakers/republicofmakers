@@ -1,4 +1,4 @@
-### Republic of Makers Repo ###
+# Republic of Makers Repo #
 
 republicofmakers's Repo, alias "republicofmakers"
 
@@ -31,7 +31,7 @@ I am specialized in Embedded System Engineering.
 * ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
 
-### Education
+## Education
 
 | Title            | Name of Institute                | Description                          | School  Link                       | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
@@ -39,12 +39,14 @@ I am specialized in Embedded System Engineering.
 | **Language School**      | Hankuk University Korean Language School  | Hankuk University is renowned as the top university in South Korea for language education. I showcased my dedication and adaptability by completing intermediate-level Korean language courses in just one year.     | [Click]()| 2016.03 - 2017.02 | 
 | **University(Bachelor)** | Hankuk University Department of Electronics Engineering      | Hankuk University provides a unique interdisciplinary approach, combining technical expertise with a global perspective, preparing students to excel in diverse and innovative fields. I demonstrated exceptional dedication by completing numerous challenging projects, showcasing my commitment and expertise in the field.               | [Click]()| 2017.03 - 2017.03  | 
 
-### Thesis:
-Graduation Thesis :Angle of Arrival Estimation Algorithms using Received Signal Strength Indicator
+### Thesis
+Graduation Thesis :Angle of Arrival Estimation Algorithms using Received Signal Strength Indicator. 
 
 ### Awards / Scholarships
 I was honored with numerous scholarships and awards throughout my education, recognizing my dedication and achievements.
 
+
+## Career
 
 ### Operational Works
 
@@ -64,6 +66,10 @@ I was honored with numerous scholarships and awards throughout my education, rec
 | **Medical-Device**    | Health care device  (cant give any details)                 | Research Project     | No Link |2024.03 - 2024.08 | 
 | **AI Camera**      | Commercial AI camera                                               | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
 
+## Giving Back To Community
+I have created numerous repositories and projects to share knowledge and contribute to the community, reflecting my commitment to open learning and collaboration.
+Check the repos in the below.
+
 
 ### Personal Projects
 
@@ -72,18 +78,11 @@ I was honored with numerous scholarships and awards throughout my education, rec
 | **STM32 Application for Factory**        | Mixed signal application       |  Making simulation with LT spice and Testing results     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
 | **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-### Giving Back To Community
-I have created numerous repositories and projects to share knowledge and contribute to the community, reflecting my commitment to open learning and collaboration.
-Check the repos in the below.
 
-## Arduino (Xiao Series)
+
+
+### Arduino (Xiao Series)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -100,7 +99,7 @@ Check the repos in the below.
 <br>
 <br>
 
-## Arduino (Espressif)
+### Arduino (Espressif)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -111,7 +110,7 @@ Check the repos in the below.
 <br>
 <br>
 
-## Arduino (WCH Studio)
+### Arduino (WCH Studio)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -122,18 +121,7 @@ Check the repos in the below.
 <br>
 <br>
 
-## Micropyton (Raspberry Pi)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
- 
-<br>
-<br>
-<br>
-
-## Atmel Studio (ATMEL)
+### Micropyton (Raspberry Pi)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -144,7 +132,7 @@ Check the repos in the below.
 <br>
 <br>
 
-## MPLAB (Microchip)
+### Atmel Studio (ATMEL)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -155,7 +143,7 @@ Check the repos in the below.
 <br>
 <br>
 
-## CC Studio (Texas Instruments)
+### MPLAB (Microchip)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -166,7 +154,18 @@ Check the repos in the below.
 <br>
 <br>
 
-## nRF Connect (Nordic Semi)
+### CC Studio (Texas Instruments)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+ 
+<br>
+<br>
+<br>
+
+### nRF Connect (Nordic Semi)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -179,7 +178,7 @@ Check the repos in the below.
 
 
 
-## ST Microelectronics
+### ST Microelectronics
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -254,27 +253,27 @@ Check the repos in the below.
 ....
 
 
-## Xilinx
+### Xilinx
 
 
 ....
 
 
-## Nvidia (Orin Nano)
+### Nvidia (Orin Nano)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | NVIDIA AI    |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
 | SW           | NVIDIA AI    |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
  
-## Sophon (BM1684X)
+### Sophon (BM1684X)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | Sophon AI    |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
 | SW           | Sophon AI    |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
  
-## Intel N100 with Hailo 8
+### Intel N100 with Hailo 8
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
