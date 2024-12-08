@@ -31,6 +31,20 @@ I am specialized in Embedded System Engineering.
 * ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
 
+### Education
+
+| Title            | Name of Institute                | Description                          | School  Link                       | Timelines                        |  
+|------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| **High School**          | Suleyman Demiral Anatolian High School     | (Science High School) in Turkey differs from other high schools by offering an intensive curriculum specifically designed for students excelling in science and mathematics.     | [Click]()| 2011.09 - 2015.06 | 
+| **Language School**      | Hankuk University Korean Language School  | Hankuk University is renowned as the top university in South Korea for language education. I showcased my dedication and adaptability by completing intermediate-level Korean language courses in just one year.     | [Click]()| 2016.03 - 2017.02 | 
+| **University(Bachelor)** | Hankuk University Department of Electronics Engineering      | Hankuk University provides a unique interdisciplinary approach, combining technical expertise with a global perspective, preparing students to excel in diverse and innovative fields. I demonstrated exceptional dedication by completing numerous challenging projects, showcasing my commitment and expertise in the field.               | [Click]()| 2017.03 - 2017.03  | 
+
+### Thesis:
+Graduation Thesis :Angle of Arrival Estimation Algorithms using Received Signal Strength Indicator
+
+### Awards / Scholarships
+I was honored with numerous scholarships and awards throughout my education, recognizing my dedication and achievements.
+
 
 ### Operational Works
 
@@ -65,6 +79,9 @@ I am specialized in Embedded System Engineering.
 <br>
 <br>
 
+### Giving Back To Community
+I have created numerous repositories and projects to share knowledge and contribute to the community, reflecting my commitment to open learning and collaboration.
+Check the repos in the below.
 
 ## Arduino (Xiao Series)
 
