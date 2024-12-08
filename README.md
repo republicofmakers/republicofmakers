@@ -49,7 +49,7 @@ I am specialized in Embedded System Engineering.
 | **NFC&TFT-Controller**       | NFC Door Access System for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)| 2022.08 - 2023.11 | 
 | **IOT-Medical-Device**    | Health care device with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|2022.12 - 2023.08 | 
 | **BMS Design**     | BMS Controller Design                                              | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |2023.11 - 2024.02 | 
-| **IOT-Medical-Device**    | Health care device  (cant give any details, signed NDA)      | Freelance     | No Link |2024.03 - 2024.08 | 
+| **IOT-Medical-Device**    | Health care device  (cant give any details)                 | Research Project     | No Link |2024.03 - 2024.08 | 
 | **AI Camera**      | Commercial AI camera                                               | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
 
 
