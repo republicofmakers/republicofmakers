@@ -1,10 +1,10 @@
 # Republic of Makers Repo #
 
-republicofmakers's Repo, alias "republicofmakers"
+My name is "Ceyhun Pempeci"... My repo called "Republic of Makers".
 
-My name is "Ceyhun Pempeci"... "Republic of Makers" is more memorable so that's why I called it.
+The name 'Republic of Makers' reflects my belief in the importance of fostering a culture of creation over consumption. In a world increasingly focused on consumption, I hope to inspire a future where creators outnumber consumers, contributing to innovation and shared knowledge.
 
-I am specialized in Embedded System Engineering.
+I am specialized in Embedded System Engineering. This repository serves as a platform to showcase my skills, education, and professional journey, while also sharing projects to contribute to and inspire the community.
 
 
 **Tech Stack**
@@ -41,7 +41,7 @@ I am specialized in Embedded System Engineering.
 |------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | **High School**          | Suleyman Demiral Anatolian High School     | (Science High School) in Turkey differs from other high schools by offering an intensive curriculum specifically designed for students excelling in science and mathematics.     | [Click]()| 2011.09 - 2015.06 | 
 | **Language School**      | Hankuk University Korean Language School  | Hankuk University is renowned as the top university in South Korea for language education. I showcased my dedication and adaptability by completing intermediate-level Korean language courses in just one year.     | [Click]()| 2016.03 - 2017.02 | 
-| **University(Bachelor)** | Hankuk University Department of Electronics Engineering      | Hankuk University provides a unique interdisciplinary approach, combining technical expertise with a global perspective, preparing students to excel in diverse and innovative fields. I demonstrated exceptional dedication by completing numerous challenging projects, showcasing my commitment and expertise in the field.               | [Click]()| 2017.03 - 2017.03  | 
+| **University(Bachelor)** | Hankuk University Department of Electronics Engineering      | Hankuk University provides a unique interdisciplinary approach, combining technical expertise with a global perspective, preparing students to excel in diverse and innovative fields. I demonstrated exceptional dedication by completing numerous challenging projects, showcasing my commitment and expertise in the field.               | [Click]()| 2017.03 - 2021.03  | 
 
 ### Thesis
 Graduation Thesis :Angle of Arrival Estimation Algorithms using Received Signal Strength Indicator. 
