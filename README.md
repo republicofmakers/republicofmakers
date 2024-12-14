@@ -51,15 +51,12 @@ I was honored with numerous scholarships and awards throughout my education, rec
 
 
 ### Hobbies
-| Title            | Description                          | School  Link                       | Timelines                        |  
+| Title            | Description                          | Photo  Link                       | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **3D Design / Printing** |  I'm passionate about martial arts, particularly archery and swordsmanship.  I was an active member of my university's Korean Martial Arts Student Club. It was a rewarding experience that combined discipline, fun, and the opportunity to improve both skills and overall health. I also practice swordsmanship whenever I have free time. | [Click]()| 2018 - now | 
 | **Sports**      |  I'm passionate about martial arts, particularly archery and swordsmanship. From 2016 to 2021, I was an active member of my university's Korean Martial Arts Student Club. It was a rewarding experience that combined discipline, fun, and the opportunity to improve both skills and overall health. I also practice swordsmanship whenever I have free time.     | [Click]()| 2016.03 - now |
 
-
- 
-3D Design / Printing: x
-Sports: 
+  
 <br>
 <br>
 <br>
