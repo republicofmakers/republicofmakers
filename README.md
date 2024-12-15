@@ -39,16 +39,16 @@ I am specialized in Embedded System Engineering. This repository serves as a pla
 
 | Title            | Name of Institute                | Description                          | School  Link                       | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| **High School**          | Suleyman Demiral Anatolian High School     | (Science High School) in Turkey differs from other high schools by offering an intensive curriculum specifically designed for students excelling in science and mathematics.     | [Click]()| 2011.09 - 2015.06 | 
-| **Language School**      | Hankuk University Korean Language School  | Hankuk University is renowned as the top university in South Korea for language education. I showcased my dedication and adaptability by completing intermediate-level Korean language courses in just one year.     | [Click]()| 2016.03 - 2017.02 | 
-| **University(Bachelor)** | Hankuk University Department of Electronics Engineering      | Hankuk University provides a unique interdisciplinary approach, combining technical expertise with a global perspective, preparing students to excel in diverse and innovative fields. I demonstrated exceptional dedication by completing numerous challenging projects, showcasing my commitment and expertise in the field.               | [Click]()| 2017.03 - 2021.03  | 
+| **High School**          | Suleyman Demiral Anatolian High School     | (Science High School) in Turkey differs from other high schools by offering an intensive curriculum specifically designed for students excelling in science and mathematics.     | [Click](https://sdal06.meb.k12.tr/)| 2011.09 - 2015.06 | 
+| **Language School**      | Hankuk University Korean Language School  | Hankuk University is renowned as the top university in South Korea for language education. I showcased my dedication and adaptability by completing intermediate-level Korean language courses in just one year.     | [Click](https://www.hufs.ac.kr/hufs/index.do)| 2016.03 - 2017.02 | 
+| **University(Bachelor)** | Hankuk University Department of Electronics Engineering      | Hankuk University provides a unique interdisciplinary approach, combining technical expertise with a global perspective, preparing students to excel in diverse and innovative fields. I demonstrated exceptional dedication by completing numerous challenging projects, showcasing my commitment and expertise in the field.               | [Click](https://www.hufs.ac.kr/hufs/index.do)| 2017.03 - 2021.03  | 
 
 ### Thesis
-Graduation Thesis :Angle of Arrival Estimation Algorithms using Received Signal Strength Indicator. 
+Graduation Thesis : Angle of Arrival Estimation Algorithms using Received Signal Strength Indicator
+In my thesis, I developed a novel approach to enhance indoor positioning systems by leveraging low-cost ESP32 modules and directional antennas. As part of this research, I designed an antenna multiplexer incorporating Pi and L-type impedance matching circuits, with the impedance values calculated using a network analyzer and Smith chart for optimal performance. I also wrote all trigonometric algorithms for Angle of Arrival (AoA) estimation in C code, enabling accurate and efficient signal processing. This work demonstrated the feasibility of using RSSI-based algorithms for precise AoA estimation, contributing to scalable, cost-effective indoor positioning solutions with applications in logistics, healthcare, and smart infrastructure.
 
 ### Awards / Scholarships
 I was honored with numerous scholarships and awards throughout my education, recognizing my dedication and achievements.
-
 
 ### Hobbies
 | Title            | Description                          | Photo  Link                       | Timelines                        |  
@@ -94,7 +94,8 @@ Check the repos in the below.
 
 | Title        | Description                      | Purpose                      | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **STM32 Signaling for Factory**        | Mixed signal application       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
+| **STM32 Controller for Factory**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
+| **Xilinx Zynq Board**        | Advanced Digital Hardware Design    |  Xilinx Vivado and 8 layer PCB Design     | [Click]()|
 | **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins.      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
 
 Note: Panelized PCB Programmer hardware compleated but compleating software takes quite a time. So not sure when to publish the codes.
