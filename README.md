@@ -65,7 +65,7 @@ I was honored with numerous scholarships and awards throughout my education, rec
 
 ### Operational Works
 
-| Title        | Description                      | Company                      | Repo  Link                      |  Timelines                        |  
+| Title            | Description                      | Company                          | Repo  Link                       |  Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | **Project management**       | Project management for rolling stock system     | Hyundai / Rotem (Korea)      | [Click](https://github.com/republicofmakers/Operational-Works-Project-management)| 2021.05 - 2022.05 | 
 
