@@ -63,29 +63,24 @@ I was honored with numerous scholarships and awards throughout my education, rec
 
 # Career
 
-### Operational Works
-
-| Title            | Description                      | Company                          | Repo  Link                       |  Timelines                        |  
-|------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| **Project management**       | Project management for rolling stock system     | Hyundai / Rotem (Korea)      | [Click](https://github.com/republicofmakers/Operational-Works-Project-management)| 2021.05 - 2022.05 | 
-
-
-### Industrial Works
+### Company Timelines
 
 | Title            | Description                      | Company                          | Repo  Link                       | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| **LOCK Controller with NFC/BLE/WIFI**       | NFC Locker Design for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main)| 2022.05 - 2022.08 | 
-| **Door Controller TFT/NFC/BLE/WIFI**       | NFC Door Access System for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)| 2022.08 - 2023.11 | 
-| **Medical-Device**    | Health care device with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|2022.12 - 2023.08 | 
-| **BMS Design**     | BMS Controller Design                                              | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |2023.11 - 2024.02 | 
-| **Medical-Device**    | Health care device  (cant give any details)                 | Research Project     | No Link |2024.03 - 2024.08 | 
-| **AI Camera**      | Commercial AI camera                                               | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
+| **Project Management Assistant**       | Involved for multiple projects for rolling stock system     | Hyundai / Rotem (Korea)      | [Click](https://github.com/republicofmakers/Operational-Works-Project-management)| 2021.05 - 2022.05 | 
+| **Hardware Engineer**       | NFC Locker Design with NFC/BLE/WIFI for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main)| 2022.05 - 2022.08 | 
+| **Hardware Engineer**       | NFC Door Access System Design with TFT/NFC/BLE/WIFI for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)| 2022.08 - 2023.11 | 
+| **Hardware Engineer**    | Health care device design with deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|2022.12 - 2023.08 | 
+| **Hardware Engineer**     | BMS Controller Design with PADs Mentor                                             | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |2023.11 - 2024.02 | 
+| **Hardware Engineer**    | Personal Research Project                | Research Project     | No Link |2024.03 - 2024.08 | 
+| **Hardware Engineer**      | Commercial AI Camera Design                      | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
 
 <br>
 <br>
 <br>
 
 # Giving Back To Community
+
 I have created numerous repositories and projects to share knowledge and contribute to the community, reflecting my commitment to open learning and collaboration.
 Check the repos in the below.
 
@@ -95,7 +90,7 @@ Check the repos in the below.
 | Title        | Description                      | Purpose                      | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **STM32 Controller for Factory**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
-| **Xilinx Zynq Board**        | Advanced Digital Hardware Design    |  Xilinx Vivado and 8 layer PCB Design     | [Click]()|
+| **Xilinx Zynq Board**        | Advanced Digital Hardware Design    |  Hardware design with Xilinx Vivado / Installing Petalinux     | [Click]()|
 | **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins.      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
 
 Note: Panelized PCB Programmer hardware compleated but compleating software takes quite a time. So not sure when to publish the codes.
