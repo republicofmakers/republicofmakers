@@ -100,13 +100,13 @@ To see which develepment boards I use -> [Click]()
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Blink-001) |
 | SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done            |[]() |
-| SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[]() |
+| SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
 | SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ✅ Done            |[]() |
 | SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[]() |
-| SW           | MCU          |              | BLE           |  006          |  Beginner    | BLE Test                 |  ✅ Done            |[]() |
-| SW           | MCU          |              | WIFI          |  007          |  Beginner    | MQTT                     |  ✅ Done            |[]() |
-| SW           | MCU          |              | WIFI          |  008          |  Beginner    | Matter                   |  ✅ Done            |[]() |
-| SW           | MCU          |              | WIFI          |  009          |  Beginner    | Thread                   |  ✅ Done            |[]() |
+| SW           | MCU          |              | BLE           |  006          |  Beginner    | BLE Test                 |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  007          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  008          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  009          |  Beginner    | Thread                   |  ⏳Progress         |[]() |
 
 <br>
 <br>
