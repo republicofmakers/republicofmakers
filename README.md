@@ -93,19 +93,20 @@ Note: Panelized PCB Programmer hardware compleated but compleating software take
 I have created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my dedication to open learning and collaboration. While I have gained valuable insights from senior engineers, I recognize that I am still at the beginning of my journey toward becoming a skilled and well-known engineer. With perseverance and hard work, I aspire to achieve that goal. Along the way, I am committed to sharing resources and guidance to support junior engineers, making their journey into this field smoother and more accessible. You can explore my repositories through the links below.
 
 ### Arduino (Xiao Series)
-To see which develepment boards I use  [Click]()
+To see which develepment boards I use -> [Click]()
 
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | SAMD21       |                 |  001         |  Beginner    | Blink                   |  ⏳Progress      |[]() |
-| SW           | MCU          | RP2040       |                 |  002         |  Beginner    | USB                     |  ⏳Progress      |[]() |
-| SW           | MCU          | NRF52840     |                 |  003         |  Beginner    | Bluetooth               |  ⏳Progress      |[]() |
-| SW           | MCU          | ESP32C3      |                 |  004         |  Beginner    | WIFI                    |  ⏳Progress      |[]() |
-| SW           | MCU          | ESP32C6      |                 |  005         |  Beginner    | Thread                  |  ⏳Progress      |[]() |
-| SW           | MCU          | RA4M1        |                 |  006         |  Beginner    | PMW                     |  ⏳Progress      |[]() |
-| SW           | MCU          | EFR32MG24    |                 |  007         |  Beginner    | Matter                  |  ⏳Progress      |[]() |
-
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Blink-001) |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done            |[]() |
+| SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[]() |
+| SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ✅ Done            |[]() |
+| SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[]() |
+| SW           | MCU          |              | BLE           |  006          |  Beginner    | BLE Test                 |  ✅ Done            |[]() |
+| SW           | MCU          |              | WIFI          |  007          |  Beginner    | MQTT                     |  ✅ Done            |[]() |
+| SW           | MCU          |              | WIFI          |  008          |  Beginner    | Matter                   |  ✅ Done            |[]() |
+| SW           | MCU          |              | WIFI          |  009          |  Beginner    | Thread                   |  ✅ Done            |[]() |
 
 <br>
 <br>
