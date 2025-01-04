@@ -99,7 +99,7 @@ To see which develepment boards I use -> [Click]()
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Blink-001) |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done            |[]() |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Button-002) |
 | SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
 | SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
 | SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[]() |
