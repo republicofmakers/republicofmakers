@@ -103,10 +103,13 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
 | SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
 | SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[]() |
-| SW           | MCU          |              | BLE           |  006          |  Beginner    | BLE Test                 |  ⏳Progress         |[]() |
-| SW           | MCU          |              | WIFI          |  007          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
-| SW           | MCU          |              | WIFI          |  008          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
-| SW           | MCU          |              | WIFI          |  009          |  Beginner    | Thread                   |  ⏳Progress         |[]() |
+| SW           | MCU          |              | CAN           |  006          |  Beginner    | BLE Test                 |  ⏳Progress         |[]() |
+| SW           | MCU          |              | RS485         |  007          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
+| SW           | MCU          |              | BLE           |  008          |  Beginner    | BLE Test                 |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  009          |  Beginner    | HTTP                     |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  010          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  011          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  012          |  Beginner    | Thread                   |  ⏳Progress         |[]() |
 
 <br>
 <br>
@@ -127,31 +130,25 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ⏳Progress     |[]() |
+
 
 <br>
 <br>
 <br>
 
-### Micropyton (Raspberry Pi)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
- 
-<br>
-<br>
-<br>
 
 ### Atmel Studio (ATMEL)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
- 
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART STRING              |  ⏳Progress     |[]() |
+
 <br>
 <br>
 <br>
@@ -160,9 +157,11 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
- 
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART STRING              |  ⏳Progress     |[]() |
+
+
 <br>
 <br>
 <br>
@@ -171,24 +170,13 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
- 
-<br>
-<br>
-<br>
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART STRING              |  ⏳Progress     |[]() |
 
-### nRF Connect (Nordic Semi)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | MCU          |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
- 
 <br>
 <br>
 <br>
-
 
 
 ### ST Microelectronics
