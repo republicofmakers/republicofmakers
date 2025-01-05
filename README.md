@@ -120,7 +120,7 @@ To see which develepment boards I use -> [Click]()
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  Beginner    |  ESP32 Camera            |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
-| SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ⏳Progress      |[]() |
+| SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002) |
 
 <br>
 <br>
@@ -267,12 +267,6 @@ To see which develepment boards I use -> [Click]()
 | SW           | NVIDIA AI    |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
 | SW           | NVIDIA AI    |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
  
-### Sophon (BM1684X)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | Sophon AI    |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | Sophon AI    |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
  
 ### Intel N100 with Hailo 8
 
@@ -282,3 +276,11 @@ To see which develepment boards I use -> [Click]()
 | SW           |  Hailo 8 AI  |              |               |  002         |  Beginner    |                           |  ⏳Progress   | []() |
  
 
+ 
+### RK3588 and RK3588S
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           |  RK3588 8 AI  |              |               |  001         |  Beginner    |                           |  ⏳Progress   | []() |
+| SW           |  RK3588 8 AI  |              |               |  002         |  Beginner    |                           |  ⏳Progress   | []() |
+ 
