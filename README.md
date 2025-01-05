@@ -102,9 +102,9 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Button-002) |
 | SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
 | SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
-| SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[]() |
-| SW           | MCU          |              | CAN           |  006          |  Beginner    | BLE Test                 |  ⏳Progress         |[]() |
-| SW           | MCU          |              | RS485         |  007          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
+| SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
+| SW           | MCU          |              | CAN           |  006          |  Beginner    | CAN Test                 |  ⏳Progress         |[]() |
+| SW           | MCU          |              | RS485         |  007          |  Beginner    | RS485 Test               |  ⏳Progress         |[]() |
 | SW           | MCU          |              | BLE           |  008          |  Beginner    | BLE Test                 |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  009          |  Beginner    | HTTP                     |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  010          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
