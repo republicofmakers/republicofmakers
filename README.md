@@ -217,8 +217,8 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485  Mod Bus             |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500 Ethernet              |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232 RS232               |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 USB                 |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  FTDI          |  036         |  Beginner    |                              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  From PC to STM32F1          |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  CANopen       |  037         |  Intermediate|  Software                    |  ❌NotStarted  |[]() |
 | SW           | MCU          | STM32        |  CANopen FD    |  038         |  Intermediate|  Software                    |  ❌NotStarted  |[]() |
 | SW           | MCU          | STM32        |  Modbus RTU    |  039         |  Intermediate|  Software                    |  ❌NotStarted  |[]() |
