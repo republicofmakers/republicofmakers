@@ -53,7 +53,7 @@ I was honored with numerous scholarships and awards throughout my education, rec
 ### Hobbies
 | Title            | Description                      | Repo  Links                      | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **Sports**      |  I'm passionate about martial arts, particularly archery and swordsmanship. From 2016 to 2021, I was an active member of my university's Korean Martial Arts Student Club. It was a rewarding experience that combined discipline, fun, and the opportunity to improve both skills and overall health. I also practice swordsmanship whenever I have free time.     | [Click]()| 2016 - now |
+| **Sports**      |  I'm passionate about martial arts, particularly archery and swordsmanship. From 2016 to 2021, I was an active member of my university's Korean Martial Arts Student Club. It was a rewarding experience that combined discipline, fun, and the opportunity to improve both skills and overall health. I also practice swordsmanship whenever I have free time.     | []()| 2016 - now |
 | **3D Printing** |  I've been involved in 3D printing since 2018, starting with the release of the Ender 3 Pro. Nowadays, I use the Bambu Lab X1 Combo for my projects, ranging from creating custom cases for electronics to replicating or repairing broken mechanical parts. | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)| 2018 - now | 
 
   
@@ -79,8 +79,8 @@ I was honored with numerous scholarships and awards throughout my education, rec
 
 | Title            | Description                      | Purpose                          | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **STM32 Controller for Factory**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
-| **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Hardware design with Xilinx Vivado / Installing Petalinux     | [Click]()|
+| **STM32 ADC / DAC**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
+| **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Hardware design with Xilinx Vivado / Installing Petalinux     | []()|
 | **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins.      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
 
 Note: Panelized PCB Programmer hardware compleated but compleating software takes quite a time. So not sure when to publish the codes.
