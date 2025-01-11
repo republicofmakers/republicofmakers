@@ -166,19 +166,6 @@ To see which develepment boards I use -> [Click]()
 <br>
 <br>
 
-### CC Studio (Texas Instruments)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART STRING              |  ⏳Progress     |[]() |
-
-<br>
-<br>
-<br>
-
-
 ### ST Microelectronics
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
