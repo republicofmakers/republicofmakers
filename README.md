@@ -233,9 +233,9 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | STM32        |  xxx           |  048         |  Beginner    |                              |                |[]() |
 | SW           | MCU          | STM32        |  xxx           |  049         |  Beginner    |                              |                |[]() |
 | SW           | MCU          | STM32        |  NRF24L01      |  050         |  Beginner    |                              |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |                              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
-| SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01                      |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  BLE           |  053         |  Intermediate|  STM32WB                     |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
+| SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052/tree/main) |
+| SW           | MCU          | STM32        |  BLE           |  053         |  Intermediate|  HM-10                       |  ✅ Done       |[Click]() |
 | SW           | MCU          | STM32        |  2G Module     |  054         |  Intermediate|  800C                        |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  4G Module     |  055         |  Intermediate|  A7672S-FASE                 |  ⏳Progress    |[]() |
 |              |              |              |                |  ----        |              |                              |                |     |
