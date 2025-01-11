@@ -206,10 +206,10 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |   PC to STM32F1              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        |  CANopen       |  037         |  Intermediate|  Software                    |  ❌NotStarted  |[]() |
-| SW           | MCU          | STM32        |  CANopen FD    |  038         |  Intermediate|  Software                    |  ❌NotStarted  |[]() |
-| SW           | MCU          | STM32        |  Modbus RTU    |  039         |  Intermediate|  Software                    |  ❌NotStarted  |[]() |
-| SW           | MCU          | STM32        |  Ethernet TCP  |  040         |  Intermediate|  Software                    |  ❌NotStarted  |[]() |
+| SW           | MCU          | STM32        |                |  037         |  Beginner    |                              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |                |  038         |  Beginner    |                              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |                |  039         |  Beginner    |                              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |                |  040         |  Beginner    |                              |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Speaker       |  041         |  Beginner    |  Max98357                    |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Earphone      |  042         |  Beginner    |  PCM5102                     |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Microphone    |  043         |  Beginner    |  INMP441                     |  ⏳Progress    |[]() |
