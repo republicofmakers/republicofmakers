@@ -70,7 +70,7 @@ I was honored with numerous scholarships and awards throughout my education, rec
 | **Project Management Assistant**       | Involved for multiple projects for rolling stock system     | Hyundai / Rotem (Korea)      | [Click](https://github.com/republicofmakers/Operational-Works-Project-management)| 2021.05 - 2022.05 | 
 | **Hardware Engineer**       | NFC Locker Design includes NFC/BLE/WIFI for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main)| 2022.05 - 2022.08 | 
 | **Hardware Engineer**       | NFC Door Access System Design includes TFT/NFC/BLE/WIFI for gyms,hotels,swimmping pools etc.       | Yilmazlar/Freelance (Turkey)      | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main)| 2022.08 - 2023.11 | 
-| **Hardware Engineer**    | Health care device design includes deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device/tree/main)|2022.12 - 2023.08 | 
+| **Hardware Engineer**    | Health care device design includes deep sleep and periodic tracking    | Geniecup (Korea)      | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device)|2022.12 - 2023.08 | 
 | **Hardware Engineer**     | BMS Controller Design with PADs Mentor                                              | Hyundai Inverter Solution (Korea)       | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |2023.11 - 2024.02 | 
 | **Hardware Engineer**    | Personal Research Project                | Research Project     | No Link |2024.03 - 2024.08 | 
 | **Hardware Engineer**      | Commercial AI Camera Design                      | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
@@ -234,8 +234,8 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | STM32        |  xxx           |  049         |  Beginner    |                              |                |[]() |
 | SW           | MCU          | STM32        |  NRF24L01      |  050         |  Beginner    |                              |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
-| SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052/tree/main) |
-| SW           | MCU          | STM32        |  BLE           |  053         |  Intermediate|  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053/tree/main) |
+| SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
+| SW           | MCU          | STM32        |  BLE           |  053         |  Intermediate|  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  2G Module     |  054         |  Intermediate|  800C                        |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  4G Module     |  055         |  Intermediate|  A7672S-FASE                 |  ⏳Progress    |[]() |
 |              |              |              |                |  ----        |              |                              |                |     |
