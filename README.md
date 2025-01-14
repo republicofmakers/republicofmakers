@@ -202,7 +202,7 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | STM32        |  Isolators     |  030         |  Beginner    |  CA‐IS3722                   |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551 Can Bus             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485  Mod Bus             |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500 Ethernet              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500 Ethernet              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
 | SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |   PC to STM32F1              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
