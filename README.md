@@ -157,9 +157,9 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART STRING              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO Output              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Blink-01) |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO Input               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Button-02) |
+| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART Send Data           |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-UART-03) |
 
 
 <br>
