@@ -109,7 +109,7 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          |              | WIFI          |  009          |  Beginner    | HTTP                     |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  010          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  011          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
-| SW           | MCU          |              | WIFI          |  012          |  Beginner    | Thread                   |  ⏳Progress         |[]() |
+| SW           | MCU          |              | WIFI          |  012          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
 
 <br>
 <br>
