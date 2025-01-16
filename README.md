@@ -103,9 +103,9 @@ To see which develepment boards I use -> [Click]()
 | SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
 | SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
 | SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
-| SW           | MCU          |              | CAN           |  006          |  Beginner    | CAN Test                 |  ⏳Progress         |[]() |
-| SW           | MCU          |              | RS485         |  007          |  Beginner    | RS485 Test               |  ⏳Progress         |[]() |
-| SW           | MCU          |              | BLE           |  008          |  Beginner    | BLE Test                 |  ⏳Progress         |[]() |
+| SW           | MCU          |              | CAN           |  006          |  Beginner    | CAN                      |  ✅ Done            |[]() |
+| SW           | MCU          |              | RS485         |  007          |  Beginner    | RS485                    |  ✅ Done            |[]() |
+| SW           | MCU          |              | BLE           |  008          |  Beginner    | BLE                      |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  009          |  Beginner    | HTTP                     |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  010          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  011          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
@@ -145,9 +145,9 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART STRING              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done        |[Click]() |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done        |[Click]() |
+| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART                     |  ✅ Done        |[Click]() |
 
 <br>
 <br>
@@ -159,7 +159,7 @@ To see which develepment boards I use -> [Click]()
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO Output              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Blink-01) |
 | SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO Input               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Button-02) |
-| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART Send Data           |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-UART-03) |
+| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-UART-03) |
 
 
 <br>
