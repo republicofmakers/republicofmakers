@@ -130,10 +130,10 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ⏳Progress     |[]() |
-| SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ⏳Progress     |[]() |
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Blink-01) |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Button-02) |
+| SW           | MCU          | ALL Boards   | Potentiometer |  003          |  Beginner    | ADC                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Potentiometer-03) |
+| SW           | MCU          | ALL Boards   | Temp Sensor   |  004          |  Beginner    | I2C / UART               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-SHT4X-04) |
 
 
 <br>
@@ -145,9 +145,9 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-AtmelStudio-Blink-01) |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-AtmelStudio-Button-02) |
-| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART                     |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-AtmelStudio-UART-03) |
+| SW           | MCU          | Microchip    | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-AtmelStudio-Blink-01) |
+| SW           | MCU          | Microchip    | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-AtmelStudio-Button-02) |
+| SW           | MCU          | Microchip    | Uart          |  003          |  Beginner    | UART                     |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-AtmelStudio-UART-03) |
 
 <br>
 <br>
@@ -157,9 +157,9 @@ To see which develepment boards I use -> [Click]()
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO Output              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Blink-01) |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO Input               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Button-02) |
-| SW           | MCU          | ALL Boards   | Uart          |  003          |  Beginner    | UART                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-UART-03) |
+| SW           | MCU          | Microchip    | Blink         |  001          |  Beginner    | GPIO Output              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Blink-01) |
+| SW           | MCU          | Microchip    | Button        |  002          |  Beginner    | GPIO Input               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-Button-02) |
+| SW           | MCU          | Microchip    | Uart          |  003          |  Beginner    | UART                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-MPLAB-UART-03) |
 
 
 <br>
