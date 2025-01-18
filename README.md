@@ -93,7 +93,6 @@ Note: Panelized PCB Programmer hardware compleated but compleating software take
 I have created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my dedication to open learning and collaboration. While I have gained valuable insights from senior engineers, I recognize that I am still at the beginning of my journey toward becoming a skilled and well-known engineer. With perseverance and hard work, I aspire to achieve that goal. Along the way, I am committed to sharing resources and guidance to support junior engineers, making their journey into this field smoother and more accessible. You can explore my repositories through the links below.
 
 ### Arduino (Xiao Series)
-To see which develepment boards I use -> [Click]()
 
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
