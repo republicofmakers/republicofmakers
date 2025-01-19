@@ -75,7 +75,7 @@ I was honored with numerous scholarships and awards throughout my education, rec
 | **Hardware Engineer**    | Personal Research Project                | Research Project     | No Link |2024.03 - 2024.08 | 
 | **Hardware Engineer**      | Commercial AI Camera Design                      | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
 
-### PCB Projects
+### Hobby Projects
 
 | Title            | Description                      | Purpose                          | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
