@@ -106,10 +106,12 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ALL Boards   | RS485         |  007          |  Beginner     | RS485                    |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-RS485-007) |
 | SW           | MCU          | ESP Series   | BLE           |  008          |  Beginner     | BLE                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-007) |
 | SW           | MCU          | ESP Series   | WIFI          |  009          |  Beginner     | HTTP                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-HTTP-009) |
-| SW           | MCU          | ESP Series   | WIFI          |  010          |  Beginner     | MQTT                     |  ✅ Done            |[]() |
-| SW           | MCU          | ESP Series   | WIFI          |  011          |  Beginner     | Matter                   |  ✅ Done            |[]() |
-| SW           | MCU          | NRF52        | BLE           |  012          |  Intermediate | BLE                      |  ⏳Progress         |[]() |
-| SW           | MCU          | MG24         | WIFI          |  013          |  Intermediate | Matter                   |  ⏳Progress         |[]() |
+| SW           | MCU          | ESP Series   | WIFI          |  010          |  Beginner     | ESP-NOW                  |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-ESPNOW-010) |
+| SW           | MCU          | ESP Series   | WIFI          |  011          |  Beginner     | ESP-HOME                 |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-ESPHome-011) |
+| SW           | MCU          | ESP Series   | WIFI          |  012          |  Beginner     | MQTT                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MQTT-012) |
+| SW           | MCU          | ESP Series   | WIFI          |  013          |  Beginner     | Matter                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-013) |
+| SW           | MCU          | NRF52        | BLE           |  014          |  Intermediate | NRF52840                 |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-NRF52-014) |
+| SW           | MCU          | MG24         | WIFI          |  015          |  Intermediate | MG24                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
 
 <br>
 <br>
@@ -121,6 +123,16 @@ I have created numerous repositories and projects to share knowledge and contrib
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  Beginner    |  ESP32 Camera            |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
 | SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002) |
+
+<br>
+<br>
+<br>
+
+### Arduino (NXP)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          | NXP          |  TEENSY       |  001          |  Beginner    | TEENSY 4.1 ETHERNET      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Ethernet-01) |
 
 <br>
 <br>
