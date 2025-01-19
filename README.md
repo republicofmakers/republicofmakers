@@ -104,7 +104,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
 | SW           | MCU          | ALL Boards   | CAN           |  006          |  Beginner    | CAN                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Can-006) |
 | SW           | MCU          | ALL Boards   | RS485         |  007          |  Beginner    | RS485                    |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-RS485-007) |
-| SW           | MCU          |              | BLE           |  008          |  Beginner    | BLE                      |  ⏳Progress         |[]() |
+| SW           | MCU          |              | BLE           |  008          |  Beginner    | BLE                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-007) |
 | SW           | MCU          |              | WIFI          |  009          |  Beginner    | HTTP                     |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  010          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
 | SW           | MCU          |              | WIFI          |  011          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
