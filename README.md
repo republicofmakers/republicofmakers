@@ -95,20 +95,21 @@ I have created numerous repositories and projects to share knowledge and contrib
 ### Arduino (Xiao Series)
 
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Blink-001) |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Button-002) |
-| SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner    | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
-| SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner    | PMW and ADC              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
-| SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner    | Camera                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
-| SW           | MCU          | ALL Boards   | CAN           |  006          |  Beginner    | CAN                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Can-006) |
-| SW           | MCU          | ALL Boards   | RS485         |  007          |  Beginner    | RS485                    |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-RS485-007) |
-| SW           | MCU          | Bluetooh     | BLE           |  008          |  Beginner    | BLE                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-007) |
-| SW           | MCU          |              | WIFI          |  009          |  Beginner    | HTTP                     |  ⏳Progress         |[]() |
-| SW           | MCU          |              | WIFI          |  010          |  Beginner    | MQTT                     |  ⏳Progress         |[]() |
-| SW           | MCU          |              | WIFI          |  011          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
-| SW           | MCU          |              | WIFI          |  012          |  Beginner    | Matter                   |  ⏳Progress         |[]() |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level      |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner     | GPIO OUTPUT              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Blink-001) |
+| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner     | GPIO INPUT               |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Button-002) |
+| SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner     | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
+| SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner     | PMW and ADC              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
+| SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner     | Camera                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
+| SW           | MCU          | ALL Boards   | CAN           |  006          |  Beginner     | CAN                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Can-006) |
+| SW           | MCU          | ALL Boards   | RS485         |  007          |  Beginner     | RS485                    |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-RS485-007) |
+| SW           | MCU          | ESP Series   | BLE           |  008          |  Beginner     | BLE                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-007) |
+| SW           | MCU          | ESP Series   | WIFI          |  009          |  Beginner     | HTTP                     |  ✅ Done            |[]() |
+| SW           | MCU          | ESP Series   | WIFI          |  010          |  Beginner     | MQTT                     |  ✅ Done            |[]() |
+| SW           | MCU          | ESP Series   | WIFI          |  011          |  Beginner     | Matter                   |  ✅ Done            |[]() |
+| SW           | MCU          | NRF52        | BLE           |  012          |  Intermediate | BLE                      |  ⏳Progress         |[]() |
+| SW           | MCU          | MG24         | WIFI          |  013          |  Intermediate | Matter                   |  ⏳Progress         |[]() |
 
 <br>
 <br>
@@ -221,7 +222,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  NRF24L01      |  050         |  Beginner    |                              |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
-| SW           | MCU          | STM32        |  BLE           |  053         |  Intermediate|  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
+| SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  2G Module     |  054         |  Intermediate|  800C                        |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  4G Module     |  055         |  Intermediate|  A7672S-FASE                 |  ⏳Progress    |[]() |
 |              |              |              |                |  ----        |              |                              |                |     |
