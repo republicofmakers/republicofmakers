@@ -105,7 +105,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ALL Boards   | CAN           |  006          |  Beginner     | CAN                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Can-006) |
 | SW           | MCU          | ALL Boards   | RS485         |  007          |  Beginner     | RS485                    |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-RS485-007) |
 | SW           | MCU          | ESP Series   | BLE           |  008          |  Beginner     | BLE                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-007) |
-| SW           | MCU          | ESP Series   | WIFI          |  009          |  Beginner     | HTTP                     |  ✅ Done            |[]() |
+| SW           | MCU          | ESP Series   | WIFI          |  009          |  Beginner     | HTTP                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-HTTP-009) |
 | SW           | MCU          | ESP Series   | WIFI          |  010          |  Beginner     | MQTT                     |  ✅ Done            |[]() |
 | SW           | MCU          | ESP Series   | WIFI          |  011          |  Beginner     | Matter                   |  ✅ Done            |[]() |
 | SW           | MCU          | NRF52        | BLE           |  012          |  Intermediate | BLE                      |  ⏳Progress         |[]() |
