@@ -232,20 +232,13 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Finger Print  |  047         |  Beginner    |  GROW R503                   |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  xxx           |  048         |  Beginner    |                              |                |[]() |
 | SW           | MCU          | STM32        |  xxx           |  049         |  Beginner    |                              |                |[]() |
-| SW           | MCU          | STM32        |  NRF24L01      |  050         |  Beginner    |                              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
 | SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
-| SW           | MCU          | STM32        |  2G Module     |  054         |  Intermediate|  800C                        |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  055         |  Intermediate|  A7672S-FASE                 |  ⏳Progress    |[]() |
-|              |              |              |                |  ----        |              |                              |                |     |
-| SW           | MCU          | STM32        |  GSM 2G MQTT   |  060         |  Intermediate|                              |❌NotStarted    |[]() |
-| SW           | MCU          | STM32        |  WIFI MQTT     |  061         |  Intermediate|                              |❌NotStarted    |[]() |
-| SW           | MCU          | STM32        |  ETHERNET MQTT |  062         |  Advanced    |                              |❌NotStarted    |[]() |
-| SW           | MCU          | STM32        |  GSM 4G MQTT   |  063         |  Advanced    |                              |❌NotStarted    |[]() |
-| SW           | MCU          | STM32        |  LCD SDRAM+NAND|  064         |  Advanced    |                              |❌NotStarted    |[]() |
-| SW           | MPU          | STM32        |  LCD DDR3+EMC  |  065         |  Advanced    |                              |❌NotStarted    |[]() |
-| SW           | MPU          | STM32        |  CSI DDR3+EMC  |  066         |  Advanced    |                              |❌NotStarted    |[]() |
+| SW           | MCU          | STM32        |  2G Module     |  054         |  Beginner    |  800C                        |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  055         |  Beginner    |  A7672S-FASE                 |  ⏳Progress    |[]() |
+
 
 
 ## Lattice
