@@ -130,9 +130,10 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 ### Arduino (NXP)
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | NXP          |  TEENSY       |  001          |  Beginner    | TEENSY 4.1 ETHERNET      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Ethernet-01) |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description     | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:----------------|:-------------:|:------------:|
+| SW           | MCU          | NXP          |  TEENSY 4.1   |  001          |  Beginner    | ETHERNET        |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Ethernet-01) |
+| SW           | MCU          | NXP          |  TEENSY 4.1   |  002          |  Beginner    | USB             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-USB-002) |
 
 <br>
 <br>
