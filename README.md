@@ -122,7 +122,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  Beginner    |  ESP32 Camera            |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
-| SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002) |
+| SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002)  |
 
 <br>
 <br>
@@ -132,8 +132,12 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description     | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:----------------|:-------------:|:------------:|
-| SW           | MCU          | NXP          |  TEENSY 4.1   |  001          |  Beginner    | ETHERNET        |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Ethernet-01) |
-| SW           | MCU          | NXP          |  TEENSY 4.1   |  002          |  Beginner    | USB             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-USB-002) |
+| SW           | MCU          | i.MX RT1062  |  Blink        |  001          |  Beginner    | GPIO OUTPUT     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Ethernet-01) |
+| SW           | MCU          | i.MX RT1062  |  Button       |  002          |  Beginner    | GPIO INPUT      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-USB-002) |
+| SW           | MCU          | i.MX RT1062  |  Temp Sensor  |  003          |  Beginner    | I2C and SPI     |  ⏳Progress     |[Click]() |
+| SW           | MCU          | i.MX RT1062  |  Servo        |  004          |  Beginner    | PMW and ADC     |  ⏳Progress     |[Click]() |
+| SW           | MCU          | i.MX RT1062  |  ETHERNET     |  005          |  Beginner    | DP83825         |  ⏳Progress     |[Click]() |
+| SW           | MCU          | i.MX RT1062  |  USB          |  006          |  Beginner    | USB             |  ⏳Progress     |[Click]() |
 
 <br>
 <br>
@@ -143,11 +147,11 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | ALL Boards   | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Blink-01) |
-| SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Button-02) |
-| SW           | MCU          | ALL Boards   | Potentiometer |  003          |  Beginner    | ADC                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Potentiometer-03) |
-| SW           | MCU          | ALL Boards   | Temp Sensor   |  004          |  Beginner    | I2C / UART               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-SHT4X-04) |
-
+| SW           | MCU          | CH32V003     | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Blink-01) |
+| SW           | MCU          | CH32V003     | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Button-02) |
+| SW           | MCU          | CH32V003     | Potentiometer |  003          |  Beginner    | ADC                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Potentiometer-03) |
+| SW           | MCU          | CH32V003     | Temp Sensor   |  004          |  Beginner    | I2C / UART               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-SHT4X-04) |
+| SW           | MCU          | CH32V203     | LCD           |  005          |  Beginner    | SPI                      |  ⏳Progress    |[Click]() |
 
 <br>
 <br>
@@ -203,16 +207,16 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | External RTC   |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
 | SW           | MCU          | STM32        | RFID           |  019         |  Beginner    |  RC522 RFID                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RFID-019)  |
 | SW           | MCU          | STM32        | GPS            |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-GPS-020)  |
-| SW           | MCU          | STM32        | Touch          |  021         |  Beginner    |  Capacitive Touch            |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | AC Switch      |  021         |  Beginner    |  Capacitive Touch            |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | Keypad         |  022         |  Beginner    |  4x4 Keypad                  |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | Encoder        |  023         |  Beginner    |  Rotary Encoder              |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | TOF Sensor     |  024         |  Beginner    |  VL53L4CD Sensor             |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | 3-Axis Gyro    |  025         |  Beginner    |  MPU6050 Sensor              |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | 74HC165        |  026         |  Beginner    |  Digital Input Multiplexer   |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | 74HC595        |  027         |  Beginner    |  Digital Output Multiplexer  |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | 74HC4067       |  028         |  Beginner    |  Analog Signal Multiplexer   |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | AC Switch      |  029         |  Beginner    |  AC Device                   |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | DC Switch      |  030         |  Beginner    |  DC Device                   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | 74HC4067       |  026         |  Beginner    |  Analog Signal Multiplexer   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | 74HC165        |  027         |  Beginner    |  Digital Input Multiplexer   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | 74HC595        |  028         |  Beginner    |  Digital Output Multiplexer  |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | 74HC4067       |  029         |  Beginner    |  Analog Signal Multiplexer   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | ADC / DAC      |  030         |  Beginner    |  DAC7563SDG / ADC141S626     |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
 | SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500                       |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
@@ -245,7 +249,20 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  4G Module     |  059         |  Beginner    |  A7672S-FASE                 |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  FreeRTOS      |  060         |  Beginner    |  FreeRTOS                    |  ⏳Progress    |[]() |
 
+<br>
+<br>
+<br>
+
+
 ## Lattice
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
+| SW           | FPGA         | iCE40LP1K    | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
 
 
 ....
@@ -253,16 +270,22 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 ### Xilinx
 
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
+| SW           | FPGA         | iCE40LP1K    | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
 
-....
 
 
 ### Nvidia (Orin Nano)
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level     |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | NVIDIA AI    |              |               |  001         |  Beginner    |                           |  ⏳Progress      |[]() |
-| SW           | NVIDIA AI    |              |               |  002         |  Beginner    |                           |  ⏳Progress      |[]() |
+| SW           | NVIDIA AI    |              |               |  001          |  Beginner    |                           |  ⏳Progress      |[]() |
+| SW           | NVIDIA AI    |              |               |  002          |  Beginner    |                           |  ⏳Progress      |[]() |
  
  
 ### Intel N100 with Hailo 8
