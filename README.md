@@ -196,8 +196,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  W2812 RGB     |  011         |  Beginner    |  RGB LED Control             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-W2812-RGB-011) |
 | SW           | MCU          | STM32        | 24BYJ48        |  012         |  Beginner    |  24BYJ48 Stepper             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-24BYJ48-012)  |
 | SW           | MCU          | STM32        | Nema17         |  013         |  Beginner    |  Nema17 Stepper              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Nema17-013)  |
-| SW           | MCU          | STM32        | DC Motor       |  014         |  Beginner    |  DC Motor                    |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | AC Switch      |  015         |  Beginner    |  AC Device                   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | Stepper        |  014         |  Beginner    |  TMC2208 + AS5600            |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | DC Motor       |  015         |  Beginner    |  DC Motor                    |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | SD CARD        |  016         |  Beginner    |  SD Card (SPI)               |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | EPPROM         |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-EPPROM-017)  |
 | SW           | MCU          | STM32        | External RTC   |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
@@ -211,14 +211,14 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | 74HC165        |  026         |  Beginner    |  Digital Input Multiplexer   |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | 74HC595        |  027         |  Beginner    |  Digital Output Multiplexer  |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | 74HC4067       |  028         |  Beginner    |  Analog Signal Multiplexer   |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | xxx            |  029         |  Beginner    |  xxxx                        |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | xxx            |  030         |  Beginner    |  xxxx                        |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
-| SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
-| SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
-| SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
-| SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
-| SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32F1               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
+| SW           | MCU          | STM32        | AC Switch      |  029         |  Beginner    |  AC Device                   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | DC Switch      |  030         |  Beginner    |  DC Device                   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
+| SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
+| SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500                       |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
+| SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
+| SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
+| SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32F1               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
 | SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |                              |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |                              |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Ethernet      |  039         |  Beginner    |                              |  ⏳Progress    |[]() |
@@ -261,8 +261,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | NVIDIA AI    |              |               |  001         |  Beginner    |                         |  ⏳Progress      |[]() |
-| SW           | NVIDIA AI    |              |               |  002         |  Beginner    |                         |  ⏳Progress      |[]() |
+| SW           | NVIDIA AI    |              |               |  001         |  Beginner    |                           |  ⏳Progress      |[]() |
+| SW           | NVIDIA AI    |              |               |  002         |  Beginner    |                           |  ⏳Progress      |[]() |
  
  
 ### Intel N100 with Hailo 8
