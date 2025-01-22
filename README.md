@@ -265,19 +265,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | FPGA         | iCE40LP1K    | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
 
 
-....
 
-
-### Xilinx
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | FPGA         | iCE40LP1K    | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
-
+### Xilinx -> COMING IN 2026
 
 
 ### Nvidia (Orin Nano)
