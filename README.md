@@ -223,11 +223,11 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32F1               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |                              |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |                              |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Ethernet      |  039         |  Beginner    |                              |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |                              |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Camera 2      |  041         |  Beginner    |                              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  Comm with 2 devices         |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |  MQTT                        |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Ethernet      |  039         |  Beginner    |  Video Stream                |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670 with FIFO            |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Camera 2      |  041         |  Beginner    |  OV2640                      |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Speaker       |  042         |  Beginner    |  Max98357                    |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Earphone      |  043         |  Beginner    |  PCM5102                     |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Microphone    |  044         |  Beginner    |  INMP441                     |  ⏳Progress    |[]() |
@@ -239,15 +239,15 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
-| SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
-| SW           | MCU          | STM32        |  433 Mhz       |  054         |  Beginner    |  433 Mhz                     |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  2G Module     |  054         |  Beginner    |  SMS - 800C                  |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  2G Module     |  055         |  Beginner    |  HTTP - 800C                 |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  2G Module     |  056         |  Beginner    |  MQTT - 800C                 |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  057         |  Beginner    |  A7672S-FASE                 |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  058         |  Beginner    |  A7672S-FASE                 |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  059         |  Beginner    |  A7672S-FASE                 |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  FreeRTOS      |  060         |  Beginner    |  FreeRTOS                    |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  BLE           |  054         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
+| SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB                     |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  LORA          |  055         |  Beginner    |  STM32WL                     |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  433 Mhz       |  056         |  Beginner    |  433 Mhz                     |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  2G Module     |  057         |  Beginner    |  SMS - 800C                  |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  2G Module     |  058         |  Beginner    |  HTTP - 800C                 |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  2G Module     |  059         |  Beginner    |  MQTT - 800C                 |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  060         |  Beginner    |  A7672S-FASE                 |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  FreeRTOS      |  061         |  Beginner    |  FreeRTOS                    |  ⏳Progress    |[]() |
 
 <br>
 <br>
@@ -290,17 +290,17 @@ I have created numerous repositories and projects to share knowledge and contrib
  
 ### Intel N100 with Hailo 8
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level     |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           |  Hailo 8 AI  |              |               |  001         |  Beginner    |                           |  ⏳Progress   | []() |
-| SW           |  Hailo 8 AI  |              |               |  002         |  Beginner    |                           |  ⏳Progress   | []() |
+| SW           |  Hailo 8 AI  |              |               |  001          |  Beginner    |                           |  ⏳Progress   | []() |
+| SW           |  Hailo 8 AI  |              |               |  002          |  Beginner    |                           |  ⏳Progress   | []() |
  
 
  
-### RK3588 and RK3588S
+### RK3588
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           |  RK3588 8 AI  |              |               |  001         |  Beginner    |                           |  ⏳Progress   | []() |
-| SW           |  RK3588 8 AI  |              |               |  002         |  Beginner    |                           |  ⏳Progress   | []() |
+| SW           |  RK3588S AI  |              |               |  001         |  Beginner    |                           |  ⏳Progress   | []() |
+| SW           |  RK3588S AI  |              |               |  002         |  Beginner    |                           |  ⏳Progress   | []() |
  
