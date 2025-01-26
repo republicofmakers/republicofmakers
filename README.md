@@ -101,7 +101,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ALL Boards   | Button        |  002          |  Beginner     | GPIO INPUT               |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Button-002) |
 | SW           | MCU          | ALL Boards   | Temp Sensor   |  003          |  Beginner     | I2C and SPI              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
 | SW           | MCU          | ALL Boards   | Servo         |  004          |  Beginner     | PMW and ADC              |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
-| SW           | MCU          | ESP32S3 Cam  | Camera        |  005          |  Beginner     | Camera                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
+| SW           | MCU          | ESP32S3      | Camera        |  005          |  Beginner     | Camera                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
 | SW           | MCU          | ALL Boards   | CAN           |  006          |  Beginner     | CAN                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Can-006) |
 | SW           | MCU          | ALL Boards   | RS485         |  007          |  Beginner     | RS485                    |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-RS485-007) |
 | SW           | MCU          | ESP Series   | BLE           |  008          |  Beginner     | BLE                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-007) |
@@ -111,7 +111,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP Series   | WIFI          |  012          |  Beginner     | MQTT                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MQTT-012) |
 | SW           | MCU          | MG24         | WIFI          |  013          |  Beginner     | Matter                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-013) |
 | SW           | MCU          | NRF52        | BLE           |  014          |  Intermediate | NRF52840                 |  ⏳Progress         |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-NRF52-014) |
-| SW           | MCU          | ALL Boards   | USB          |  015           |  Beginner      | USB                     |   ✅ Done           |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
+| SW           | MCU          | SAMD21       | USB          |  015           |  Beginner     | USB                     |   ✅ Done           |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
 
 <br>
 <br>
