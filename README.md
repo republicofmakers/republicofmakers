@@ -151,7 +151,6 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | CH32V003     | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Button-02) |
 | SW           | MCU          | CH32V003     | Potentiometer |  003          |  Beginner    | ADC                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Potentiometer-03) |
 | SW           | MCU          | CH32V003     | Temp Sensor   |  004          |  Beginner    | I2C / UART               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-SHT4X-04) |
-| SW           | MCU          | CH32V203     | LCD           |  005          |  Beginner    | SPI                      |  ⏳Progress    |[Click]() |
 
 <br>
 <br>
