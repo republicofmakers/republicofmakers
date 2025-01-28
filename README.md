@@ -206,16 +206,16 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | External RTC   |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
 | SW           | MCU          | STM32        | RFID           |  019         |  Beginner    |  RC522 RFID                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RFID-019)  |
 | SW           | MCU          | STM32        | GPS            |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-GPS-020)  |
-| SW           | MCU          | STM32        | AC Switch      |  021         |  Beginner    |  Capacitive Touch            |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | Keypad         |  022         |  Beginner    |  4x4 Keypad                  |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | Encoder        |  023         |  Beginner    |  Rotary Encoder              |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | TOF Sensor     |  024         |  Beginner    |  VL53L4CD Sensor             |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | 3-Axis Gyro    |  025         |  Beginner    |  MPU6050 Sensor              |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | 74HC4067       |  026         |  Beginner    |  Analog Signal Multiplexer   |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | 74HC165        |  027         |  Beginner    |  Digital Input Multiplexer   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | Keypad         |  021         |  Beginner    |  Keypad/Touch/I2C LCD(1602)  |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | 3-Axis Gyro    |  022         |  Beginner    |  3-Axis Gyro/I2C LCD(2004)   |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | 3-Axis Gyro    |  023         |  Beginner    |  BMI088                      |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        |                |  024         |  Beginner    |                              |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        |                |  025         |  Beginner    |                              |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | Encoder        |  024         |  Beginner    |  Rotary Encoder              |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        | 74HC595        |  028         |  Beginner    |  Digital Output Multiplexer  |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | 74HC4067       |  029         |  Beginner    |  Analog Signal Multiplexer   |  ⏳Progress    |[]()  |
-| SW           | MCU          | STM32        | ADC / DAC      |  030         |  Beginner    |  DAC7563SDG / ADC141S626     |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | 74HC4067       |  029         |  Beginner    |  Input Multiplexer           |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | ADC            |  030         |  Beginner    |  ADC141S626                  |  ⏳Progress    |[]()  |
+| SW           | MCU          | STM32        | DAC            |  030         |  Beginner    |  DAC7563SDG                  |  ⏳Progress    |[]()  |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
 | SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500                       |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
@@ -226,15 +226,15 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |  MQTT                        |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Ethernet      |  039         |  Beginner    |  Video Stream                |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670 with FIFO            |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Camera 2      |  041         |  Beginner    |  OV2640                      |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Speaker       |  042         |  Beginner    |  Max98357                    |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Camera        |  041         |  Beginner    |  OV2640                      |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Sound         |  042         |  Beginner    |  Max98357 / INMP441          |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Earphone      |  043         |  Beginner    |  PCM5102                     |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Microphone    |  044         |  Beginner    |  INMP441                     |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Finger Print  |  044         |  Beginner    |  GROW R503                   |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Scanner       |  045         |  Beginner    |  YHDAA 2D Scanner            |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  Printer       |  046         |  Beginner    |  RUIDIADA Printer            |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Camera        |  047         |  Beginner    |  OV2640 (2MP)                |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Finger Print  |  048         |  Beginner    |  GROW R503                   |  ⏳Progress    |[]() |
-| SW           | MCU          | STM32        |  Touch Screen  |  049         |  Beginner    |  3.5 Inch                    |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |  Touch Screen  |  047         |  Beginner    |  3.5 Inch                    |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |                |  048         |  Beginner    |                              |  ⏳Progress    |[]() |
+| SW           | MCU          | STM32        |                |  049         |  Beginner    |                              |  ⏳Progress    |[]() |
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
