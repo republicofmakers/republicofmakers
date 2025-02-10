@@ -215,8 +215,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Low Power     |  027         |  Beginner    |  Standby Mode                |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Low Power     |  028         |  Beginner    |  Stop Mode                   |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  3-Axis Gyro   |  029         |  Beginner    |  BMI088                      |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  ADC           |  030         |  Beginner    |  ADC141S626                  |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  DAC           |  030         |  Beginner    |  DAC7563SDG                  |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  xxx           |  030         |  Beginner    |  xxx                         |  reserved       |[]()  |
+| SW           | MCU          | STM32        |  xxx           |  030         |  Beginner    |  xxx                         |  reserved       |[]()  |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
 | SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
@@ -234,8 +234,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Scanner       |  045         |  Beginner    |  YHDAA QR/Barcode Scanner    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Printer       |  046         |  Beginner    |  RUIDIADA Receipt Printer    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Sound         |  047         |  Beginner    |  Max98357 / INMP441          |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  FreeRTOS      |  048         |  Beginner    |  FreeRTOS Simple             |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Beginner    |  FreeRTOS Multitask          |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  xxx           |  048         |  Beginner    |  xxx                         |  reserved       |[]() |
+| SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Beginner    |  FreeRTOS Simple             |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
