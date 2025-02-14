@@ -201,7 +201,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Nema17        |  013         |  Beginner    |  Nema17 Stepper              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Nema17-013)  |
 | SW           | MCU          | STM32        |  DC Motor      |  014         |  Beginner    |  DC Motor                    |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Encoder       |  015         |  Beginner    |  Rotary Encoder              |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  SD CARD       |  016         |  Beginner    |  SD Card (SPI)               |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  SD CARD       |  016         |  Beginner    |  SD Card (SPI)               |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SD_CARD-016)  |
 | SW           | MCU          | STM32        |  EPPROM        |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-EPPROM-017)  |
 | SW           | MCU          | STM32        |  External RTC  |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
 | SW           | MCU          | STM32        |  RFID          |  019         |  Beginner    |  RC522 RFID                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RFID-019)  |
