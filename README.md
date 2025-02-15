@@ -208,7 +208,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  GPS           |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-GPS-020)  |
 | SW           | MCU          | STM32        |  Keypad        |  021         |  Beginner    |  Keypad/Touch/I2C LCD(1602)  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Keypad-021)  |
 | SW           | MCU          | STM32        |  3-Axis Gyro   |  022         |  Beginner    |  MPU6050 / I2C LCD(2004)     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-MPU6050-022)  |
-| SW           | MCU          | STM32        |  74HC595       |  023         |  Beginner    |  Digital Output Multiplexer  |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  74HC595       |  023         |  Beginner    |  Digital Output Multiplexer  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-74HC595-023)  |
 | SW           | MCU          | STM32        |  Joystick      |  024         |  Beginner    |  Joystick                    |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  USB           |  025         |  Beginner    |  Keyboad                     |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Low Power     |  026         |  Beginner    |  Sleep Mode                  |  ⏳Progress     |[]()  |
