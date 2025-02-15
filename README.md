@@ -207,7 +207,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RFID          |  019         |  Beginner    |  RC522 RFID                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RFID-019)  |
 | SW           | MCU          | STM32        |  GPS           |  020         |  Beginner    |  NEO-6M GPS                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-GPS-020)  |
 | SW           | MCU          | STM32        |  Keypad        |  021         |  Beginner    |  Keypad/Touch/I2C LCD(1602)  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Keypad-021)  |
-| SW           | MCU          | STM32        |  3-Axis Gyro   |  022         |  Beginner    |  3-Axis Gyro/I2C LCD(2004)   |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  3-Axis Gyro   |  022         |  Beginner    |  3-Axis Gyro/I2C LCD(2004)   |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-MPU6050-022)  |
 | SW           | MCU          | STM32        |  74HC595       |  023         |  Beginner    |  Digital Output Multiplexer  |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Joystick      |  024         |  Beginner    |  Joystick                    |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  USB           |  025         |  Beginner    |  Keyboad                     |  ⏳Progress     |[]()  |
