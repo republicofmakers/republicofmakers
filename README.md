@@ -199,8 +199,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  W2812 RGB     |  011         |  Beginner    |  RGB LED Control             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-W2812-RGB-011) |
 | SW           | MCU          | STM32        |  24BYJ48       |  012         |  Beginner    |  24BYJ48 Stepper             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-24BYJ48-012)  |
 | SW           | MCU          | STM32        |  Nema17        |  013         |  Beginner    |  Nema17 Stepper              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Nema17-013)  |
-| SW           | MCU          | STM32        |  DC Motor      |  014         |  Beginner    |  DC Motor                    |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  Encoder       |  015         |  Beginner    |  Rotary Encoder              |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  DC Motor      |  014         |  Beginner    |  L298N DC Motor              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-L298N-014)  |
+| SW           | MCU          | STM32        |                |  015         |  Beginner    |                              |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  SD CARD       |  016         |  Beginner    |  SD Card (SPI)               |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SD_CARD-016)  |
 | SW           | MCU          | STM32        |  EPPROM        |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-EPPROM-017)  |
 | SW           | MCU          | STM32        |  External RTC  |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
@@ -215,7 +215,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Low Power     |  027         |  Beginner    |  Standby Mode                |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Low Power     |  028         |  Beginner    |  Stop Mode                   |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  3-Axis Gyro   |  029         |  Beginner    |  BMI088                      |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  xxx           |  030         |  Beginner    |  xxx                         |  reserved       |[]()  |
+| SW           | MCU          | STM32        |  Encoder       |  030         |  Beginner    |  Rotary Encoder              |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  xxx           |  030         |  Beginner    |  xxx                         |  reserved       |[]()  |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
