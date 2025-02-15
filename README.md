@@ -239,8 +239,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
-| SW           | MCU          | STM32        |  BLE           |  054         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
-| SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB                     |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
+| SW           | MCU          | STM32        |  BLE           |  054         |  Beginner    |  STM32WB                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  LORA          |  055         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  433 Mhz       |  056         |  Beginner    |  433 Mhz                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  057         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
@@ -249,9 +249,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  4G Module     |  060         |  Beginner    |  A7672S-FASE SMS             |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  4G Module     |  061         |  Beginner    |  A7672S-FASE HTTP            |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  4G Module     |  062         |  Beginner    |  A7672S-FASE MQTT            |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Winbond       |  060         |  Beginner    |  SDRAM                       |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Winbond       |  060         |  Beginner    |  NAND                        |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  RGB LCD       |  060         |  Beginner    |  LCD                         |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Winbond       |  063         |  Beginner    |  SDRAM                       |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Winbond       |  064         |  Beginner    |  NAND                        |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  RGB LCD       |  065         |  Beginner    |  LCD                         |  ⏳Progress     |[]() |
 
 <br>
 <br>
