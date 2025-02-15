@@ -240,8 +240,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
 | SW           | MCU          | STM32        |  WIFI          |  052         |  Beginner    |  ESP-01S                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
 | SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
-| SW           | MCU          | STM32        |  BLE           |  054         |  Beginner    |  STM32WB                     |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  LORA          |  055         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LORA          |  054         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB55                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
 | SW           | MCU          | STM32        |  433 Mhz       |  056         |  Beginner    |  433 Mhz                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  057         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  058         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
