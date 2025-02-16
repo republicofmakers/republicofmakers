@@ -109,10 +109,10 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP Series   | WIFI          |  010          |  Beginner     | ESP-NOW                  |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-ESPNOW-010) |
 | SW           | MCU          | ESP Series   | WIFI          |  011          |  Beginner     | ESP-HOME                 |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-ESPHome-011) |
 | SW           | MCU          | ESP Series   | WIFI          |  012          |  Beginner     | MQTT                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MQTT-012) |
-| SW           | MCU          | MG24         | WIFI          |  013          |  Beginner     | Matter                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-013) |
-| SW           | MCU          | NRF52        | BLE           |  014          |  Intermediate | NRF52840                 |  ⏳Progress         |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-NRF52-014) |
-| SW           | MCU          | SAMD21       | USB          |  015           |  Beginner     | USB                     |   ✅ Done           |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
-
+| SW           | MCU          | MG24         | Thread        |  013          |  Beginner     | Matter                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-013) |
+| SW           | MCU          | NRF52        | Zigbee        |  014          |  Beginner     | Zigbee                   |  ⏳Progress         |[]() |
+| SW           | MCU          | SAMD21       | USB          |  015           |  Beginner     | USB                      |   ✅ Done           |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
+| SW           | MCU          | NRF52        | BLE           |  016          |  Intermediate | NRF52840                 |  ⏳Progress         |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-NRF52-016) |
 <br>
 <br>
 <br>
