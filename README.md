@@ -216,7 +216,6 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Low Power     |  028         |  Beginner    |  Stop Mode                   |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  3-Axis Gyro   |  029         |  Beginner    |  BMI088                      |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Encoder       |  030         |  Beginner    |  Rotary Encoder              |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  xxx           |  030         |              |  xxx                         |  reserved       |[]()  |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
 | SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
