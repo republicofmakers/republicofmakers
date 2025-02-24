@@ -211,7 +211,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  74HC595       |  023         |  Beginner    |  Digital Output Multiplexer  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-74HC595-023)  |
 | SW           | MCU          | STM32        |  Joystick      |  024         |  Beginner    |  Joystick                    |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Joystick-024)  |
 | SW           | MCU          | STM32        |  USB           |  025         |  Beginner    |  Keyboard                    |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Keyboard-025)  |
-| SW           | MCU          | STM32        |  Low Power     |  026         |  Beginner    |  Sleep Mode                  |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  Low Power     |  026         |  Beginner    |  Sleep Mode                  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Sleep-Mode-026)  |
 | SW           | MCU          | STM32        |  Low Power     |  027         |  Beginner    |  Standby Mode                |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Low Power     |  028         |  Beginner    |  Stop Mode                   |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  3-Axis Gyro   |  029         |  Beginner    |  BMI088                      |  ⏳Progress     |[]()  |
