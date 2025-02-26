@@ -227,8 +227,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Ethernet      |  039         |  Beginner    |  Video Stream                |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670 with FIFO            |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera        |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Screen        |  042         |  Beginner    |  16 Bit paralel              |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Screen        |  043         |  Beginner    |  SPI + Touch                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Screen(16Bit) |  042         |  Beginner    |  2.8 Inch LCD                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Screen(SPI)   |  043         |  Beginner    |  3.5 Inch LCD + Touch        |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
 | SW           | MCU          | STM32        |  Finger Print  |  044         |  Beginner    |  GROW R503                   |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Scanner       |  045         |  Beginner    |  YHDAA QR/Barcode Scanner    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Printer       |  046         |  Beginner    |  RUIDIADA Receipt Printer    |  ⏳Progress     |[]() |
