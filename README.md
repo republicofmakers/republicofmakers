@@ -222,9 +222,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32F1               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  Comm with 2 devices         |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |  MQTT                        |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Ethernet      |  039         |  Beginner    |  Video Stream                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |                |  037         |              |                              |  reserved       |[]()  |
+| SW           | MCU          | STM32        |                |  038         |              |                              |  reserved       |[]()  |
+| SW           | MCU          | STM32        |                |  039         |              |                              |  reserved       |[]()  |
 | SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670 with FIFO            |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera        |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Screen(16Bit) |  042         |  Beginner    |  2.8 Inch LCD                |  ⏳Progress     |[]() |
@@ -245,9 +245,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  2G Module     |  057         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  058         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  059         |  Beginner    |  MQTT - 800C                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  060         |  Beginner    |  A7672S-FASE SMS             |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  061         |  Beginner    |  A7672S-FASE HTTP            |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  062         |  Beginner    |  A7672S-FASE MQTT            |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  060         |  Beginner    |  A7672S-FASE File            |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Winbond       |  063         |  Beginner    |  SDRAM                       |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Winbond       |  064         |  Beginner    |  NAND                        |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  RGB LCD       |  065         |  Beginner    |  LCD                         |  ⏳Progress     |[]() |
