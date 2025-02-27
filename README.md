@@ -225,7 +225,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |                |  037         |              |                              |  reserved       |[]()  |
 | SW           | MCU          | STM32        |                |  038         |              |                              |  reserved       |[]()  |
 | SW           | MCU          | STM32        |                |  039         |              |                              |  reserved       |[]()  |
-| SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670 with FIFO            |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670                      |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera        |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Screen(16Bit) |  042         |  Beginner    |  2.8 Inch LCD                |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Screen(SPI)   |  043         |  Beginner    |  3.5 Inch LCD + Touch        |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
