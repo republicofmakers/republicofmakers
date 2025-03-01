@@ -229,13 +229,13 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Screen        |  039         |  Beginner    |  DWIN                        |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670 + Screen(2.8/16Bit)  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
 | SW           | MCU          | STM32        |  Camera        |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Camera        |  042         |  Beginner    |  OV7625                      |                 |[]() |
+| SW           | MCU          | STM32        |  Camera        |  042         |  Beginner    |  OV7625 / M12                |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Screen        |  043         |  Beginner    |  3.5 Inch LCD(SPI) + Touch   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
 | SW           | MCU          | STM32        |  Finger Print  |  044         |  Beginner    |  GROW R503                   |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Scanner       |  045         |  Beginner    |  YHDAA QR/Barcode Scanner    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Printer       |  046         |  Beginner    |  RUIDIADA Receipt Printer    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Sound         |  047         |  Beginner    |  Max98357 / INMP441          |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Camera        |  048         |  Beginner    |  M12 Camera                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Sound         |  048         |  Beginner    |  PCM5102 / INMP441           |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Beginner    |  Simple FreeRTOS             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
