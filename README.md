@@ -123,8 +123,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  Beginner    |  ESP32 Camera            |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
 | SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002)  |
-| SW           | MCU          | ESP32        |  ESP32 OTA      |  003        |  Beginner    |  ESP OTA                 |  ⏳Progress    |[Click]()  |
-| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  Beginner    |  DWIN SCREEN             |  ⏳Progress    |[Click]()  |
+| SW           | MCU          | ESP32        |  ESP32 OTA      |  003        |  Beginner    |  ESP OTA                 |  ⏳Progress    |[]()  |
+| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  Beginner    |  DWIN SCREEN             |  ⏳Progress    |[]()  |
 
 <br>
 <br>
@@ -235,7 +235,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Scanner       |  045         |  Beginner    |  YHDAA QR/Barcode Scanner    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Printer       |  046         |  Beginner    |  RUIDIADA Receipt Printer    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Sound         |  047         |  Beginner    |  Max98357 / INMP441          |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Camera        |  048         |  Beginner    |  M12 Camera                  |  reserved       |[]() |
+| SW           | MCU          | STM32        |  Camera        |  048         |  Beginner    |  M12 Camera                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Beginner    |  Simple FreeRTOS             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
