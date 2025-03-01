@@ -109,8 +109,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP Series   | WIFI          |  010          |  Beginner     | ESP-NOW                  |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-ESPNOW-010) |
 | SW           | MCU          | ESP Series   | WIFI          |  011          |  Beginner     | ESP-HOME                 |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-ESPHome-011) |
 | SW           | MCU          | ESP Series   | WIFI          |  012          |  Beginner     | MQTT                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MQTT-012) |
-| SW           | MCU          | MG24         | Thread        |  013          |  Beginner     | Matter                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-013) |
-| SW           | MCU          | NRF52        | Zigbee        |  014          |  Beginner     | Zigbee                   |  ⏳Progress         |[]() |
+| SW           | MCU          | ESP32C6      | Zigbee        |  013          |  Beginner     | Zigbee                   |  ⏳Progress         |[Click]() |
+| SW           | MCU          | MG24         | Thread        |  014          |  Beginner     | Matter                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-014) |
 | SW           | MCU          | SAMD21       | USB          |  015           |  Beginner     | USB                      |   ✅ Done           |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
 | SW           | MCU          | NRF52        | BLE           |  016          |  Intermediate | NRF52840                 |  ⏳Progress         |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-NRF52-016) |
 <br>
@@ -123,6 +123,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  Beginner    |  ESP32 Camera            |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
 | SW           | MCU          | ESP32        |  ESP32 Touch    |  002        |  Beginner    |  ESP TFT                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002)  |
+| SW           | MCU          | ESP32        |  ESP32 OTA      |  003        |  Beginner    |  ESP OTA                 |  ⏳Progress    |[Click]()  |
+| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  Beginner    |  DWIN SCREEN             |  ⏳Progress    |[Click]()  |
 
 <br>
 <br>
@@ -199,8 +201,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  W2812 RGB     |  011         |  Beginner    |  RGB LED Control             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-W2812-RGB-011) |
 | SW           | MCU          | STM32        |  24BYJ48       |  012         |  Beginner    |  24BYJ48 Stepper             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-24BYJ48-012)  |
 | SW           | MCU          | STM32        |  Nema17        |  013         |  Beginner    |  Nema17 Stepper              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Nema17-013)  |
-| SW           | MCU          | STM32        |  DC Motor      |  014         |  Beginner    |  L298N DC Motor              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-L298N-014)  |
-| SW           | MCU          | STM32        |                |  015         |              |                              |  reserved       |[]()  |
+| SW           | MCU          | STM32        |  DC Motor      |  014         |  Beginner    |  L298N Small DC Motor        |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-L298N-014)  |
+| SW           | MCU          | STM32        |  DC Motor      |  015         |  Beginner    |  TB6612 High-Torque DC Motor |  ⏳Progress      |[]()  |
 | SW           | MCU          | STM32        |  SD CARD       |  016         |  Beginner    |  SD Card (SPI)               |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SD_CARD-016)  |
 | SW           | MCU          | STM32        |  EPPROM        |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-EPPROM-017)  |
 | SW           | MCU          | STM32        |  External RTC  |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
@@ -222,18 +224,18 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32F1               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        |                |  037         |              |                              |  reserved       |[]()  |
-| SW           | MCU          | STM32        |                |  038         |              |                              |  reserved       |[]()  |
-| SW           | MCU          | STM32        |                |  039         |              |                              |  reserved       |[]()  |
-| SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670                      |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  STM32 to STM32              |  ⏳Progress      |[]()  |
+| SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |  MQTT                        |  ⏳Progress      |[]()  |
+| SW           | MCU          | STM32        |  Screen        |  039         |  Beginner    |  DWIN                        |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  Camera        |  040         |  Beginner    |  OV7670 + Screen(2.8/16Bit)  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
 | SW           | MCU          | STM32        |  Camera        |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Screen(16Bit) |  042         |  Beginner    |  2.8 Inch LCD                |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Screen(SPI)   |  043         |  Beginner    |  3.5 Inch LCD + Touch        |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
+| SW           | MCU          | STM32        |  Camera        |  042         |  Beginner    |  OV7625                      |                 |[]() |
+| SW           | MCU          | STM32        |  Screen        |  043         |  Beginner    |  3.5 Inch LCD(SPI) + Touch   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
 | SW           | MCU          | STM32        |  Finger Print  |  044         |  Beginner    |  GROW R503                   |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Scanner       |  045         |  Beginner    |  YHDAA QR/Barcode Scanner    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Printer       |  046         |  Beginner    |  RUIDIADA Receipt Printer    |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Sound         |  047         |  Beginner    |  Max98357 / INMP441          |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  xxx           |  048         |  Beginner    |  xxx                         |  reserved       |[]() |
+| SW           | MCU          | STM32        |  Camera        |  048         |  Beginner    |  M12 Camera                  |  reserved       |[]() |
 | SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Beginner    |  Simple FreeRTOS             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
@@ -245,10 +247,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  2G Module     |  057         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  058         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  059         |  Beginner    |  MQTT - 800C                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  060         |  Beginner    |  A7672S-FASE File            |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Winbond       |  063         |  Beginner    |  SDRAM                       |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Winbond       |  064         |  Beginner    |  NAND                        |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  RGB LCD       |  065         |  Beginner    |  LCD                         |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  060         |  Beginner    |  A7672S-FASE                 |  ⏳Progress     |[]() |
 
 <br>
 <br>
