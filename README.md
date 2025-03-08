@@ -258,9 +258,11 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level     |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Beginner    |  Install Linux            |  ✅ Done         |[]() |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Beginner    |  Test Camera              |  ✅ Done         |[]() |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Beginner    |  Run Yolo                 |  ⏳Progress      |[]() |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Beginner    |  Install Linux            |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Beginner    |  Test Camera              |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Beginner    |  Run Yolo                 |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-03) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Beginner    |  Data over WIFI           |  ⏳Progress      |[]() |
+
 
  <br>
  
