@@ -270,8 +270,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  001         |  Beginner    |  Ubuntu                   |  ✅ Done      | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  002         |  Beginner    |  Radxa OS (SD CARD)       |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  001         |  Beginner    |  Ubuntu                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ubuntu-01) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  002         |  Beginner    |  Radxa OS (SD CARD)       |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-02) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  003         |  Beginner    |  Radxa OS (EMMC)          |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  004         |  Beginner    |  HDMI                     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  Sound                    |  ⏳Progress   | []() |
