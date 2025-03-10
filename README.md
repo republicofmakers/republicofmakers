@@ -257,6 +257,19 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  LCD           |  059         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera        |  060         |  Beginner    |  OV5640 QR                   |  ⏳Progress     |[]() |
 
+<br>
+<br>
+<br>
+
+## Lattice
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
+| SW           | FPGA         | iCE40LP1K    | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | iCE40LP1K    | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
 
 <br>
 <br>
@@ -301,10 +314,10 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Radxa Display 10 FHD	   |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  4G SIMCOM         	     |  ✅ Done      | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  4G QUECTEL               |  ✅ Done      | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  NWB IOT SIMCOM           |  ✅ Done      | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  NWB IOT QUECTEL          |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  4G QUECTEL               |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  NWB IOT SIMCOM           |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  NWB IOT QUECTEL          |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  RTC                      |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  GPIO OUT           	     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO IN                  |  ⏳Progress   | []() |
@@ -332,20 +345,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | FPGA         | STM32MP135D  | LCD           |  001          |  Intermediate    | RGB LCD                  |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | STM32MP157C  | CAMERA        |  002          |  Intermediate    | MIPI CAMERA              |  ⏳Progress   |[Click]() |
-
-
-## Lattice
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | FPGA         | iCE40LP1K    | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
-
+| SW           | FPGA         | STM32MP135D  | LCD           |  001          |  Intermediate    | RGB666 LCD               |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | STM32MP157C  | LCD           |  002          |  Intermediate    | MIPI DSI LCD             |  ⏳Progress   |[Click]() |
+| SW           | FPGA         | STM32MP157C  | CAMERA        |  003          |  Intermediate    | MIPI CSI CAMERA          |  ⏳Progress   |[Click]() |
 
 
 ### Xilinx -> COMING IN 2026
