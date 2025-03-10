@@ -233,8 +233,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32F1               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
 | SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  STM32 to STM32              |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |  MQTT                        |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  Screen        |  039         |  Beginner    |                              |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |                |  038         |  Beginner    |                              |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |                |  039         |  Beginner    |                              |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Camera/Screen |  040         |  Beginner    |  OV7670 + Screen(2.8/16Bit)  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
 | SW           | MCU          | STM32        |  Camera/SD Card|  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera/SD Card|  042         |  Beginner    |  OV7625 / M12                |  ⏳Progress     |[]() |
@@ -242,8 +242,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  2G Module     |  044         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  045         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  046         |  Beginner    |  MQTT - 800C                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  047         |  Beginner    |  A7672S-FASE                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  048         |  Beginner    |  A7672S-FASE                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  047         |  Beginner    |  HTTP - A7672                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  048         |  Beginner    |  MQTT - A7672                |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Beginner    |  Simple FreeRTOS             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
@@ -251,8 +251,12 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  LORA          |  054         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB55                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  433 Mhz       |  056         |  Beginner    |  433 Mhz                     |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Fuse          |  057         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Fuse          |  056         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |                |  057         |  Beginner    |                              |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |                |  058         |  Beginner    |                              |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  059         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Camera        |  060         |  Beginner    |  OV5640 QR                   |  ⏳Progress     |[]() |
+
 
 <br>
 <br>
