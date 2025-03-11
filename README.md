@@ -111,7 +111,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP Series   | WIFI          |  012          |  Beginner     | MQTT                     |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MQTT-012) |
 | SW           | MCU          | ESP32C6      | Zigbee        |  013          |  Beginner     | Zigbee                   |  ⏳Progress         |[Click]() |
 | SW           | MCU          | MG24         | Thread        |  014          |  Beginner     | Matter                   |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-014) |
-| SW           | MCU          | SAMD21       | USB          |  015           |  Beginner     | USB                      |   ✅ Done           |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
+| SW           | MCU          | SAMD21       | USB          |  015           |  Beginner     | USB                      |  ✅ Done           |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
 | SW           | MCU          | NRF52        | BLE           |  016          |  Intermediate | NRF52840                 |  ⏳Progress         |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-NRF52-016) |
 
 
@@ -230,14 +230,14 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
 | SW           | MCU          | STM32        |  Ethernet      |  033         |  Beginner    |  W5500                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Ethernet-033) |
 | SW           | MCU          | STM32        |  RS232         |  034         |  Beginner    |  MAX3232                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
-| SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32F1 to PC               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
-| SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32F1               |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  STM32 to STM32              |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32 to PC                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
+| SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
+| SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  MQTT                        |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |                |  038         |  Beginner    |                              |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |                |  039         |  Beginner    |                              |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Camera/Screen |  040         |  Beginner    |  OV7670 + Screen(2.8/16Bit)  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
-| SW           | MCU          | STM32        |  Camera/SD Card|  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Camera/SD Card|  042         |  Beginner    |  OV7625 / M12                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Camera/SDIO   |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Camera/SDIO   |  042         |  Beginner    |  OV7625 / M12                |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Screen        |  043         |  Beginner    |  3.5 Inch LCD(SPI) + Touch   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
 | SW           | MCU          | STM32        |  2G Module     |  044         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  2G Module     |  045         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
@@ -251,11 +251,11 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  LORA          |  054         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB55                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  Fuse          |  056         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |                |  057         |  Beginner    |                              |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |                |  058         |  Beginner    |                              |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  LCD           |  059         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Camera        |  060         |  Beginner    |  OV5640 QR                   |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  056         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  057         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  058         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Programmer    |  059         |  Beginner    |  Firmware Upload             |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Fuses         |  060         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
 
 <br>
 <br>
@@ -298,37 +298,34 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  004         |  Beginner    |  OV5647                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OV5647-04) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  005         |  Beginner    |  IMX219                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX219-05) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  006         |  Beginner    |  IMX415                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX415-06) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007         |  Beginner    |  HDMI                     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008         |  Beginner    |  Sound                    |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  Ethernet           	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  GPU Driver               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  RTL8852BE WIFI           |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  RTL8852BE BLE            |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013         |  Beginner    |  AX210 WIFI               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  AX210 BLE                |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  SD CARD            	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  USB 2.0                  |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 3.0           	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  Type C 3.2 USB           |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  HDMI                     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  Sound                    |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  Ethernet           	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  GPU Driver               |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013         |  Beginner    |  RTL8852 WIFI             |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  RTL8852 BLE              |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  SD CARD Data       	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  USB 2.0 Data             |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 3.0 Data       	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  Type C 3.2 Data          |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G QUECTEL               |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  NWB IOT SIMCOM           |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  NWB IOT QUECTEL          |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  RTC                      |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  GPIO OUT           	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  GPIO IN                  |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  ADC                      |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  PMW               	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  I2C                      |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  SPI               	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  UART                     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C OTG               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Radxa Display 10 FHD	   |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  4G QUECTEL               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  NWB IOT SIMCOM           |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  NWB IOT QUECTEL          |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  RTC                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  GPIO OUT           	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO IN                  |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  ADC                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  PMW               	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  I2C                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  SPI               	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  UART                     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  Anticopy                 |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  Kernel                   |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  Anticopy                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  Kernel                   |  ⏳Progress   | []() |
 
 
 ## Yocto (TI Sitara AM3358)
