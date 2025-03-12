@@ -258,9 +258,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Fuses         |  060         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
 
 
-| Title            | Description                      | Purpose                          | Repo  Link                      | 
-|------------------|----------------------------------|----------------------------------|----------------------------------|
-| **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins.      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer)|
+
+**Panelized MCU Programmer / Tester**   -> Programming / Testing multiple PCBs with pogo pins. ->  [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer)
 
 <br>
 <br>
