@@ -92,7 +92,7 @@ Note: Panelized PCB Programmer hardware compleated but compleating software take
 
 I have created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my dedication to open learning and collaboration. While I have gained valuable insights from senior engineers, I recognize that I am still at the beginning of my journey toward becoming a skilled and well-known engineer. With perseverance and hard work, I aspire to achieve that goal. Along the way, I am committed to sharing resources and guidance to support junior engineers, making their journey into this field smoother and more accessible. You can explore my repositories through the links below.
 
-### Arduino (Xiao Series)
+### Xiao Series (Arduino IDE)
 
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level      |  Description              | Progress      |    Repo Link |
@@ -119,7 +119,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-### Arduino (Espressif)
+### Espressif Microcontrollers (Arduino IDE)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -138,7 +138,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-### Arduino (NXP)
+### NXP Microcontrollers (Arduino IDE)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description     | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:----------------|:-------------:|:------------:|
@@ -153,7 +153,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-### Arduino (WCH Studio)
+### WCH Microcontrollers (Arduino IDE)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -167,7 +167,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 
 
-### Atmel Studio (ATMEL)
+### Atmel Microcontrollers (ATMEL Studio)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -179,7 +179,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-### MPLAB (Microchip)
+### Microchip Microcontrollers (MPLAB IDE)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -192,7 +192,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-### ST Microelectronics
+### ST Microelectronics Microcontrollers (STM32Cube IDE)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -261,21 +261,6 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-## Lattice
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | FPGA         | iCE40LP1K    | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | iCE40LP1K    | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
-
-<br>
-<br>
-<br>
-
-
 ### Nvidia (Orin Nano)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level     |  Description              | Progress      |    Repo Link |
@@ -328,26 +313,26 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  Kernel                   |  ⏳Progress   | []() |
 
 
-## Yocto (TI Sitara AM3358)
+## Texas Instruments Microprocessors (TI Sitara AM3358)
+
+|  Abb.        |     Type     |     Brand     |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:-------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MPU          | Sitara AM3358 | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
+| SW           | MPU          | Sitara AM3358 | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
+| SW           | MPU          | Sitara AM3358 | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
+| SW           | MPU          | Sitara AM3358 | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
+| SW           | MPU          | Sitara AM3358 | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
+
+## ST Microelectronics Microprocessors (Yocto)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | FPGA         | Beaglebone   | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | Beaglebone   | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | Beaglebone   | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | Beaglebone   | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | Beaglebone   | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
-
-## Yocto (STM32MP1)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | FPGA         | STM32MP135D  | LCD           |  001          |  Intermediate    | RGB666 LCD               |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | STM32MP157C  | LCD           |  002          |  Intermediate    | MIPI DSI LCD             |  ⏳Progress   |[Click]() |
-| SW           | FPGA         | STM32MP157C  | CAMERA        |  003          |  Intermediate    | MIPI CSI CAMERA          |  ⏳Progress   |[Click]() |
+| SW           | MPU          | STM32MP135D  | LCD           |  001          |  Intermediate    | RGB666 LCD               |  ⏳Progress   |[Click]() |
+| SW           | MPU          | STM32MP157C  | LCD           |  002          |  Intermediate    | MIPI DSI LCD             |  ⏳Progress   |[Click]() |
+| SW           | MPU          | STM32MP157C  | CAMERA        |  003          |  Intermediate    | MIPI CSI CAMERA          |  ⏳Progress   |[Click]() |
 
 
-### Xilinx -> COMING IN 2026
+### Xilinx / Lattice FPGAs -> COMING IN 2026
 
 
  
