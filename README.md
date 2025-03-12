@@ -75,13 +75,13 @@ I was honored with numerous scholarships and awards throughout my education, rec
 | **Hardware Engineer**    | Personal Research Project                | Research Project     | No Link |2024.03 - 2024.08 | 
 | **Hardware Engineer**      | Commercial AI Camera Design                      | ONDAI AI INC. (Korea)       | [Click](https://ondai.io/team) |2024.08 - Now | 
 
-### PCB Projects for Practice
+### PCB Designs
 
 | Title            | Description                      | Purpose                          | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **STM32 ADC / DAC**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
-| **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Hardware design with Xilinx Vivado / Installing Petalinux     | []()|
-| **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins.      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer/tree/main)|
+| **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Xilinx FPGA Hardware design      | []()|
+
 
 Note: Panelized PCB Programmer hardware compleated but compleating software takes quite a time. So not sure when to publish the codes.
 <br>
@@ -256,6 +256,11 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  LCD           |  058         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Programmer    |  059         |  Beginner    |  Firmware Upload             |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Fuses         |  060         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
+
+
+| Title            | Description                      | Purpose                          | Repo  Link                      | 
+|------------------|----------------------------------|----------------------------------|----------------------------------|
+| **Panelized PCB Programmer**       | MCU Programmer / Tester       | Programming / Testing multiple PCBs with pogo pins.      | [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer)|
 
 <br>
 <br>
