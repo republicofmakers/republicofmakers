@@ -290,16 +290,16 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007         |  Beginner    |  RTL8852 WIFI             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-WIFI-07) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008         |  Beginner    |  Ethernet           	     |  ✅ Done      | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  RTL8852 WIFI (hotspot)   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  RTL8852 WIFI (RTSP)      |  ✅ Done      | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  RTL8852 BLE              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-09) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  CPU Driver               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013         |  Beginner    |  GPU Driver               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  HDMI                     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  Audio                    |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  SD CARD Data       	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 2.0 Data             |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  USB 3.0 Data       	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C 3.2 Data          |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  RTL8852 WIFI (RTSP)      |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  RTL8852 BLE              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-11) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  CPU Driver               |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013         |  Beginner    |  GPU Driver               |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  HDMI                     |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  Audio                    |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  SD CARD           	     |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 2.0                  |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  USB 3.0           	     |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C 3.2               |  ✅ Done      | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G QUECTEL               |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  NWB IOT SIMCOM           |  ⏳Progress   | []() |
