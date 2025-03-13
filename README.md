@@ -288,14 +288,14 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  005         |  Beginner    |  IMX219                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX219-05) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  006         |  Beginner    |  IMX415                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX415-06) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007         |  Beginner    |  RTL8852 WIFI             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-WIFI-07) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008         |  Beginner    |  RTL8852 WIFI (hotspot)   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  RTL8852 BLE              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-09) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  HDMI                     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  Sound                    |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  Ethernet           	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008         |  Beginner    |  Ethernet           	     |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  RTL8852 WIFI (hotspot)   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  RTL8852 WIFI (RTSP)      |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  RTL8852 BLE              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-09) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  CPU Driver               |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013         |  Beginner    |  GPU Driver               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  RTL8852 WIFI             |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  RTL8852 BLE              |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  HDMI                     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  Audio                    |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  SD CARD Data       	     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 2.0 Data             |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  USB 3.0 Data       	     |  ⏳Progress   | []() |
