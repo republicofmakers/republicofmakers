@@ -297,9 +297,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  HDMI                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-HDMI-14) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  Audio                    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-SD-CARD-Audio-16) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  SD CARD           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SD-CARD-16) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 2.0                  |  ✅ Done      | [Click]() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  USB 3.0           	     |  ✅ Done      | [Click]() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C                   |  ✅ Done      | [Click]() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 2.0                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  USB 3.0           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.0-18) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G QUECTEL               |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  NWB IOT SIMCOM           |  ⏳Progress   | []() |
