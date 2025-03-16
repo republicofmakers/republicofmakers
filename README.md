@@ -297,8 +297,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  HDMI                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-HDMI-14) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  Audio                    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Audio-15) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  SD CARD           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SD-CARD-16) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  USB 2.0                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  USB 3.2           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  Type A (USB 2.0)         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  Type A (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Type C (OTG)        	   |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
@@ -315,10 +315,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  I2C                      |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  SPI               	     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  UART                     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  Type C OTG               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  Anticopy                 |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  Kernel                   |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  Clone Device             |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  Anticopy                 |  ⏳Progress   | []() |
 
 
 ## Texas Instruments Microprocessors (TI Sitara AM3358)
