@@ -224,7 +224,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  Low Power     |  026         |  Beginner    |  Sleep Mode                  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Sleep-Mode-026)  |
 | SW           | MCU          | STM32        |  Low Power     |  027         |  Beginner    |  Standby Mode                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Standby-Mode-027)  |
 | SW           | MCU          | STM32        |  Low Power     |  028         |  Beginner    |  Stop Mode                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Stop-Mode-028)  |
-| SW           | MCU          | STM32        |  3-Axis Gyro   |  029         |  Beginner    |  BMI088                      |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  3-Axis Gyro   |  029         |  Beginner    |  BMI088                      |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BMI088-029)  |
 | SW           | MCU          | STM32        |  Encoder       |  030         |  Beginner    |  Rotary Encoder              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Rotary-Encoder-030)  |
 | SW           | MCU          | STM32        |  Can           |  031         |  Beginner    |  MCP2551                     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-CanBus-031)  |
 | SW           | MCU          | STM32        |  RS485         |  032         |  Beginner    |  MAX485                      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS485-032) |
@@ -233,7 +233,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  USB           |  035         |  Beginner    |  STM32 to PC                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
 | SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  MQTT                        |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |                |  038         |  Beginner    |                              |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  3-Axis Acc    |  038         |  Beginner    |  ADXL375                     |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |                |  039         |  Beginner    |                              |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Camera/Screen |  040         |  Beginner    |  OV7670 + Screen(2.8/16Bit)  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
 | SW           | MCU          | STM32        |  Camera/SDIO   |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
@@ -251,10 +251,10 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  LORA          |  054         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB55                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  LCD           |  056         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  LCD           |  057         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  LCD           |  058         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Programmer    |  059         |  Beginner    |  Firmware Upload             |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  RAM           |  056         |  Intermediate|  Winbond RAM                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  NAND          |  057         |  Intermediate|  WINBOND NAND                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  058         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Programmer    |  059         |  Beginner    |  Firmware Upload/Clone       |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Fuses         |  060         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
 
 
@@ -271,8 +271,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
 | SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Beginner    |  Install Linux            |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
 | SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Beginner    |  Test Camera              |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Beginner    |  Run Yolo                 |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-03) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Beginner    |  Data over WIFI           |  ⏳Progress      |[]() |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Beginner    |  Install Libraries        |  ⏳Progress      |[Click]() |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Beginner    |  Run Yolo                 |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-04) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  005          |  Beginner    |  Data over WIFI           |  ⏳Progress      |[]() |
 
 
  <br>
