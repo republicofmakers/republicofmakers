@@ -210,7 +210,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  24BYJ48       |  012         |  Beginner    |  24BYJ48 Stepper             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-24BYJ48-012)  |
 | SW           | MCU          | STM32        |  Nema17        |  013         |  Beginner    |  Nema17 Stepper              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Nema17-013)  |
 | SW           | MCU          | STM32        |  DC Motor      |  014         |  Beginner    |  L298N Small DC Motor        |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-L298N-014)  |
-| SW           | MCU          | STM32        |  DC Motor      |  015         |  Beginner    |  TB6612 High-Torque DC Motor |  ⏳Progress      |[]()  |
+| SW           | MCU          | STM32        |  DC Motor      |  015         |  Beginner    |  TMC2208                     |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  SD CARD       |  016         |  Beginner    |  SD Card (SPI)               |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SD_CARD-016)  |
 | SW           | MCU          | STM32        |  EPPROM        |  017         |  Beginner    |  AT24C256 EPPROM             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-EPPROM-017)  |
 | SW           | MCU          | STM32        |  External RTC  |  018         |  Beginner    |  DS3231 RTC                  |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ExternalRTC-018)  |
@@ -302,43 +302,28 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  Type A (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Type C (OTG)        	   |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  4G QUECTEL               |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  NWB IOT SIMCOM           |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  NWB IOT QUECTEL          |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  RTC                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  GPIO OUT           	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO IN                  |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  ADC                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  PMW               	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  I2C                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  SPI               	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  UART                     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  Clone Device             |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  Anticopy                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  Type C (Host)        	   |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  4G SIMCOM         	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  4G QUECTEL               |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  NWB IOT SIMCOM           |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  NWB IOT QUECTEL          |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  RTC                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO OUT           	     |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  GPIO IN                  |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  ADC                      |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  PMW               	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  I2C                      |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  SPI               	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  UART                     |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039         |  Beginner    |  Clone Device             |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040         |  Beginner    |  Anticopy                 |  ⏳Progress   | []() |
 
-
-## Texas Instruments Microprocessors (TI Sitara AM3358)
-
-|  Abb.        |     Type     |     Brand     |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:-------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MPU          | Sitara AM3358 | Blink         |  001          |  Intermediate    | GPIO Output              |  ⏳Progress   |[Click]() |
-| SW           | MPU          | Sitara AM3358 | Button        |  002          |  Intermediate    | GPIO Input               |  ⏳Progress   |[Click]() |
-| SW           | MPU          | Sitara AM3358 | Uart          |  003          |  Intermediate    | UART                     |  ⏳Progress   |[Click]() |
-| SW           | MPU          | Sitara AM3358 | Servo         |  004          |  Intermediate    | PMW                      |  ⏳Progress   |[Click]() |
-| SW           | MPU          | Sitara AM3358 | LCD           |  005          |  Intermediate    | SPI                      |  ⏳Progress   |[Click]() |
-
-## ST Microelectronics Microprocessors (Yocto)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level         |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MPU          | STM32MP135D  | LCD           |  001          |  Intermediate    | RGB666 LCD               |  ⏳Progress   |[Click]() |
-| SW           | MPU          | STM32MP157C  | LCD           |  002          |  Intermediate    | MIPI DSI LCD             |  ⏳Progress   |[Click]() |
-| SW           | MPU          | STM32MP157C  | CAMERA        |  003          |  Intermediate    | MIPI CSI CAMERA          |  ⏳Progress   |[Click]() |
-
+### TI Sitera / ST Microelectronics MPUs -> COMING IN End of 2025
 
 ### Xilinx / Lattice FPGAs -> COMING IN 2026
 
