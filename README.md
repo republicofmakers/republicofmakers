@@ -310,13 +310,13 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  RTC                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO OUT           	     |  ✅ Done      | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  GPIO IN                  |  ✅ Done      | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  ADC                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  PMW               	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  I2C                      |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  SPI               	     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  UART                     |  ✅ Done      | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO OUT           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Output-29) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  GPIO IN                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Input-30) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  UART                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-UART-31) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  ADC               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ADC-32) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  PMW               	     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  I2C                      |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  SPI               	     |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
