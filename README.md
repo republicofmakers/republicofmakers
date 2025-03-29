@@ -278,7 +278,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 
  <br>
  
-### RK3588S
+### Rockchip RK3588S
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
@@ -315,7 +315,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  UART                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-UART-31) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  ADC               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ADC-32) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  PWM               	     |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PMW-33) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  I2C                      |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  I2C                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  SPI               	     |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SPI-35) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  NPU (AI)                 |  ⏳Progress   | []() |
