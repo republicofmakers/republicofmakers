@@ -82,8 +82,6 @@ I was honored with numerous scholarships and awards throughout my education, rec
 | **STM32 ADC / DAC**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
 | **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Xilinx FPGA Hardware design      | []()|
 
-
-Note: Panelized PCB Programmer hardware compleated but compleating software takes quite a time. So not sure when to publish the codes.
 <br>
 <br>
 <br>
