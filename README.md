@@ -232,16 +232,16 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
 | SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  MQTT                        |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |  SMTP                        |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  3-Axis Acc    |  039         |  Beginner    |  ADXL345/ADXL355/ADXL375     |  ⏳Progress     |[]()  |
+| SW           | MCU          | STM32        |  3-Axis Acc    |  039         |  Beginner    |  ADXL345/ADXL355/ADXL375     |  ✅ Done     |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039)  |
 | SW           | MCU          | STM32        |  Camera/Screen |  040         |  Beginner    |  OV7670 + Screen(2.8/16Bit)  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
 | SW           | MCU          | STM32        |  Camera/SDIO   |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera/SDIO   |  042         |  Beginner    |  OV7625 / M12                |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Screen        |  043         |  Beginner    |  3.5 Inch LCD(SPI) + Touch   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
-| SW           | MCU          | STM32        |  2G Module     |  044         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  2G Module     |  045         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  2G Module     |  046         |  Beginner    |  MQTT - 800C                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  047         |  Beginner    |  HTTP - A7672                |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  048         |  Beginner    |  MQTT - A7672                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Finger Print  |  044         |  Beginner    |  GROW R503                   |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Scanner       |  045         |  Beginner    |  QR/Barcode Scanner          |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Printer       |  046         |  Beginner    |  Receipt Printer             |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Sound         |  047         |  Beginner    |  Max98357 / INMP441          |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Sound         |  048         |  Beginner    |  PCM5102                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Beginner    |  Simple FreeRTOS             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
 | SW           | MCU          | STM32        |  NRF24         |  050         |  Beginner    |  NRF24L01                    |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        |  LORA          |  051         |  Beginner    |  Ebyte E220D                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
@@ -250,10 +250,24 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  LORA          |  054         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB55                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
 | SW           | MCU          | STM32        |  RAM           |  056         |  Intermediate|  Winbond RAM                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  NAND          |  057         |  Intermediate|  WINBOND NAND                |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  LCD           |  058         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Programmer    |  059         |  Beginner    |  Firmware Upload/Clone       |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Fuses         |  060         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  RAM           |  057         |  Intermediate|  Winbond RAM                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  NAND          |  058         |  Intermediate|  Winbond NAND                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  059         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  060         |  Beginner    |  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  2G Module     |  061         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  2G Module     |  062         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  2G Module     |  063         |  Beginner    |  MQTT - 800C                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  064         |  Beginner    |  SMS - A7672                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  064         |  Beginner    |  HTTP - A7672                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  065         |  Beginner    |  MQTT - A7672                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Programmer    |  066         |  Beginner    |  Firmware Upload             |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Clone         |  066         |  Beginner    |  Firmware Clone (flash)      |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Clone         |  066         |  Beginner    |  Firmware Clone (external)   |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Fuses         |  067         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |                |  068         |  Beginner    |                              |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |                |  069         |  Beginner    |                              |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |                |  070         |  Beginner    |                              |  ⏳Progress     |[]() |
+
 
 
 
