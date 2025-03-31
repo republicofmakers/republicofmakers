@@ -232,7 +232,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  USB           |  036         |  Beginner    |  PC to STM32                 |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
 | SW           | MCU          | STM32        |  Ethernet      |  037         |  Beginner    |  MQTT                        |  ⏳Progress     |[]()  |
 | SW           | MCU          | STM32        |  Ethernet      |  038         |  Beginner    |  SMTP                        |  ⏳Progress     |[]()  |
-| SW           | MCU          | STM32        |  3-Axis Acc    |  039         |  Beginner    |  ADXL345/ADXL355/ADXL375     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039) |
+| SW           | MCU          | STM32        |  3-Axis Acc    |  039         |  Beginner    |  ADXL345/A355/375            |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039) |
 | SW           | MCU          | STM32        |  Camera/Screen |  040         |  Beginner    |  OV7670 + Screen(2.8/16Bit)  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
 | SW           | MCU          | STM32        |  Camera/SDIO   |  041         |  Beginner    |  OV2640                      |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Camera/SDIO   |  042         |  Beginner    |  OV7625 / M12                |  ⏳Progress     |[]() |
