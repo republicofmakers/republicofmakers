@@ -249,21 +249,18 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BLE           |  053         |  Beginner    |  HM-10                       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  LORA          |  054         |  Beginner    |  STM32WL                     |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  BLE           |  055         |  Beginner    |  STM32WB55                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  2G Module     |  056         |  Beginner    |  SMS - 800C                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  2G Module     |  057         |  Beginner    |  HTTP - 800C                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  2G Module     |  058         |  Beginner    |  MQTT - 800C                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  059         |  Beginner    |  SMS - A7672                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  060         |  Beginner    |  HTTP - A7672                |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  4G Module     |  061         |  Beginner    |  MQTT - A7672                |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  RAM           |  062         |  Intermediate|  Winbond RAM                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  RAM           |  063         |  Intermediate|  Winbond RAM                 |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  NAND          |  064         |  Intermediate|  Winbond NAND                |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  LCD           |  065         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  LCD           |  066         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Programmer    |  067         |  Beginner    |  Firmware Upload             |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Clone         |  068         |  Beginner    |  Firmware Clone (flash)      |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Clone         |  069         |  Beginner    |  Firmware Clone (external)   |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Fuses         |  070         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  056         |  Beginner    |  SMS - A7672                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  057         |  Beginner    |  HTTP - A7672                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  4G Module     |  058         |  Beginner    |  MQTT - A7672                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  RAM           |  059         |  Intermediate|  Winbond RAM                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  RAM           |  060         |  Intermediate|  Winbond RAM                 |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  NAND          |  061         |  Intermediate|  Winbond NAND                |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  062         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  LCD           |  063         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Programmer    |  064         |  Beginner    |  Firmware Upload             |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Clone         |  065         |  Beginner    |  Firmware Clone (flash)      |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Clone         |  066         |  Beginner    |  Firmware Clone (external)   |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Fuses         |  067         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
 
 
 
