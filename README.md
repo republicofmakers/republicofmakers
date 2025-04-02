@@ -308,8 +308,12 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Type C (OTG)        	   |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-OTG-20) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G Module           	   |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-25) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-26) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |                           |  ⏳Progress   | [Click]() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |                           |  ⏳Progress   | [Click]() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |                           |  ⏳Progress   | [Click]() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-25) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-26) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |                           |  ⏳Progress   | [Click]() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  RTC                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO OUT           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Output-29) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  GPIO IN                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Input-30) |
