@@ -300,7 +300,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  Type A (USB 2.0)         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  Type A (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  USB Peripheral       	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Peripheral Mode      	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G Module           	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
