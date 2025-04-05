@@ -289,7 +289,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  006         |  Beginner    |  IMX415                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX415-06) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007         |  Beginner    |  RTL8852 WIFI             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-WIFI-07) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008         |  Beginner    |  Ethernet           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ethernet-08) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  RTL8852 WIFI (hotspot)   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  HOTSPOT                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  Video Stream             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Video-Stream-10) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  RTL8852 BLE              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-11) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  CPU Driver               |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CPU-12) |
@@ -304,7 +304,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G Module           	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  Login/Display Settings   |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  Display Settings         |  ⏳Progress   | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  QT Cross Compile         |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-25) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Docker                   |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-26) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  Samba                    |  ⏳Progress   | []() |
