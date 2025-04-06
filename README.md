@@ -110,7 +110,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP32C6      | Zigbee        |  013          |  Beginner     | Zigbee                   |  ⏳Progress         |[Click]() |
 | SW           | MCU          | MG24         | Thread        |  014          |  Beginner     | Matter                   |  ⏳Progress         |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-014) |
 | SW           | MCU          | SAMD21       | USB           |  015          |  Beginner     | USB                      |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
-| SW           | MCU          | NRF52        | BLE           |  016          |  Intermediate | NRF52840                 |  ⏳Progress         |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-NRF52-016) |
+| SW           | MCU          | NRF52        | BLE           |  016          |  Intermediate | NRF52840                 |  ✅ Done            |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-016) |
 
 
 <br>
