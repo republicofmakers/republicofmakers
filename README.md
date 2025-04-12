@@ -302,25 +302,25 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Peripheral Mode      	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G Module           	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-23) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  Display Settings         |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  QT Cross Compile         |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-25) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Docker                   |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-26) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  Samba                    |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  QT Cross Compile         |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Docker                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Docker-26) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  Samba                    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Samba-27) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  RTC                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO OUT           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Output-29) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  GPIO IN                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Input-30) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  UART                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-UART-31) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  ADC               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ADC-32) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  PWM               	     |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PMW-33) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  PWM               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PMW-33) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  I2C                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  SPI               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SPI-35) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  OPEN CV                  |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  NPU (RKNN Create)        |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038         |  Beginner    |  NPU (RKNN Deploy)        |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039         |  Beginner    |  Clone Device             |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040         |  Beginner    |  Anticopy                 |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  OPEN CV                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OpenCV-36) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  Convert to RKNN          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ConvertToRknn-37) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038         |  Beginner    |  Run RKNN                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RunRknn-38) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039         |  Beginner    |  Clone Device             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CloneDevice-39) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040         |  Beginner    |  Anticopy                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Anticopy-40) |
 
 ### TI Sitera / ST Microelectronics MPUs -> COMING IN End of 2025
 
