@@ -250,8 +250,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  LCD           |  060         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  LCD           |  061         |  Intermediate|  RGB888 LCD                  |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Programmer    |  062         |  Beginner    |  Firmware Upload             |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Clone         |  063         |  Beginner    |  Firmware Clone (flash)      |  ⏳Progress     |[]() |
-| SW           | MCU          | STM32        |  Clone         |  064         |  Beginner    |  Firmware Clone (external)   |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Clone         |  063         |  Beginner    |  Firmware Clone              |  ⏳Progress     |[]() |
+| SW           | MCU          | STM32        |  Clone         |  064         |  Beginner    |  Firmware Clone              |  ⏳Progress     |[]() |
 | SW           | MCU          | STM32        |  Fuses         |  065         |  Beginner    |  Firmware Protection         |  ⏳Progress     |[]() |
 
 
@@ -264,18 +264,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-### Nvidia (Orin Nano)
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level     |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Beginner    |  Install Linux            |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Beginner    |  Test Camera              |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Beginner    |  Install Libraries        |  ⏳Progress      |[Click]() |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Beginner    |  Run Yolo                 |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-04) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  005          |  Beginner    |  Data over WIFI           |  ⏳Progress      |[]() |
-
-
- <br>
  
 ### Rockchip RK3588S
 
@@ -322,6 +311,22 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039         |  Beginner    |  Clone Device             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CloneDevice-39) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040         |  Beginner    |  Anticopy                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Anticopy-40) |
 
+
+### Nvidia (Orin Nano)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level     |  Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Beginner    |  Install Linux            |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Beginner    |  Test Camera              |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Beginner    |  Install Libraries        |  ⏳Progress      |[Click]() |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Beginner    |  Run Yolo                 |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-04) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  005          |  Beginner    |  Data over WIFI           |  ⏳Progress      |[]() |
+
+
+ <br>
+
+
+ 
 ### TI Sitera / ST Microelectronics MPUs -> COMING IN End of 2025
 
 ### Xilinx / Lattice FPGAs -> COMING IN 2026
