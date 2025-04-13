@@ -148,12 +148,12 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 ### WCH Microcontrollers (Arduino IDE)
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           | MCU          | CH32V003     | Blink         |  001          |  Beginner    | GPIO OUTPUT              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Blink-01) |
-| SW           | MCU          | CH32V003     | Button        |  002          |  Beginner    | GPIO INPUT               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Button-02) |
-| SW           | MCU          | CH32V003     | Potentiometer |  003          |  Beginner    | ADC                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Potentiometer-03) |
-| SW           | MCU          | CH32V003     | Temp Sensor   |  004          |  Beginner    | I2C / UART               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-SHT4X-04) |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number| Description              | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:-------------:|:------------:|
+| SW           | MCU          | CH32V003     | Blink         |  001          | GPIO OUTPUT              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Blink-01) |
+| SW           | MCU          | CH32V003     | Button        |  002          | GPIO INPUT               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Button-02) |
+| SW           | MCU          | CH32V003     | Potentiometer |  003          | ADC                      |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-Potentiometer-03) |
+| SW           | MCU          | CH32V003     | Temp Sensor   |  004          | I2C / UART               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-WCH-Arduino-SHT4X-04) |
 
 <br>
 <br>
