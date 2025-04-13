@@ -133,14 +133,14 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 ### NXP Microcontrollers (Arduino IDE)
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description     | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:----------------|:-------------:|:------------:|
-| SW           | MCU          | i.MX RT1062  |  Blink        |  001          |  Beginner    | GPIO OUTPUT     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Blink-01) |
-| SW           | MCU          | i.MX RT1062  |  Button       |  002          |  Beginner    | GPIO INPUT      |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Button-002) |
-| SW           | MCU          | i.MX RT1062  |  Temp Sensor  |  003          |  Beginner    | I2C and SPI     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-SHT4X-003) |
-| SW           | MCU          | i.MX RT1062  |  Servo        |  004          |  Beginner    | PMW and ADC     |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-ADC-PMW-004) |
-| SW           | MCU          | i.MX RT1062  |  ETHERNET     |  005          |  Beginner    | DP83825         |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Ethernet-005) |
-| SW           | MCU          | i.MX RT1062  |  USB          |  006          |  Beginner    | USB             |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-USB-006) |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number| Description     | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:----------------|:-------------:|:------------:|
+| SW           | MCU          | i.MX RT1062  |  Blink        |  001          |  GPIO OUTPUT    |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Blink-01) |
+| SW           | MCU          | i.MX RT1062  |  Button       |  002          |  GPIO INPUT     |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Button-002) |
+| SW           | MCU          | i.MX RT1062  |  Temp Sensor  |  003          |  I2C and SPI    |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-SHT4X-003) |
+| SW           | MCU          | i.MX RT1062  |  Servo        |  004          |  PMW and ADC    |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-ADC-PMW-004) |
+| SW           | MCU          | i.MX RT1062  |  ETHERNET     |  005          |  DP83825        |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-Ethernet-005) |
+| SW           | MCU          | i.MX RT1062  |  USB          |  006          |  USB            |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-NXP-Arduino-USB-006) |
 
 <br>
 <br>
