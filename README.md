@@ -271,59 +271,59 @@ I have created numerous repositories and projects to share knowledge and contrib
  
 ### Rockchip RK3588S
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level    |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  001         |  Beginner    |  Ubuntu                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ubuntu-01) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  002         |  Beginner    |  Radxa OS (SD CARD)       |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-02) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  003         |  Beginner    |  Radxa OS (EMMC)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-03) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  004         |  Beginner    |  OV5647                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OV5647-04) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  005         |  Beginner    |  IMX219                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX219-05) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  006         |  Beginner    |  IMX415                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX415-06) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007         |  Beginner    |  RTL8852 WIFI             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-WIFI-07) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008         |  Beginner    |  Ethernet           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ethernet-08) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009         |  Beginner    |  HOTSPOT                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010         |  Beginner    |  Video Stream             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Video-Stream-10) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011         |  Beginner    |  RTL8852 BLE              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-11) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012         |  Beginner    |  CPU Driver               |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CPU-12) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013         |  Beginner    |  GPU Driver               |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPU-13) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014         |  Beginner    |  HDMI                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-HDMI-14) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015         |  Beginner    |  Audio                    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Audio-15) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016         |  Beginner    |  SD CARD           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SD-CARD-16) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017         |  Beginner    |  Type A (USB 2.0)         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018         |  Beginner    |  Type A (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019         |  Beginner    |  Type C (USB3.2)          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020         |  Beginner    |  Peripheral Mode      	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021         |  Beginner    |  4G Module           	   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022         |  Beginner    |  Radxa Display 8 HD       |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023         |  Beginner    |  Raspberry Pi 7 Touch     |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-23) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024         |  Beginner    |  Display Settings         |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025         |  Beginner    |  QT Cross Compile         |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026         |  Beginner    |  Docker                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Docker-26) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027         |  Beginner    |  Samba                    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Samba-27) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028         |  Beginner    |  RTC                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029         |  Beginner    |  GPIO OUT           	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Output-29) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030         |  Beginner    |  GPIO IN                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Input-30) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031         |  Beginner    |  UART                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-UART-31) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032         |  Beginner    |  ADC               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ADC-32) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033         |  Beginner    |  PWM               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PMW-33) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034         |  Beginner    |  I2C                      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035         |  Beginner    |  SPI               	     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SPI-35) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036         |  Beginner    |  OPEN CV                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OpenCV-36) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037         |  Beginner    |  Convert to RKNN          |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ConvertToRknn-37) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038         |  Beginner    |  Run RKNN                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RunRknn-38) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039         |  Beginner    |  Clone Device             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CloneDevice-39) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040         |  Beginner    |  Anticopy                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Anticopy-40) |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:-------------:|:------------:|
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  001          |  Ubuntu                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ubuntu-01) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  002          |  Radxa OS (SD CARD)      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-02) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  003          |  Radxa OS (EMMC)         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-03) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  004          |  OV5647                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OV5647-04) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  005          |  IMX219                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX219-05) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  006          |  IMX415                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX415-06) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007          |  RTL8852 WIFI            |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-WIFI-07) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008          |  Ethernet         	      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ethernet-08) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009          |  HOTSPOT                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010          |  Video Stream            |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Video-Stream-10) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011          |  RTL8852 BLE             |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-11) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012          |  CPU Driver              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CPU-12) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013          |  GPU Driver              |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPU-13) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014          |  HDMI                    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-HDMI-14) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015          |  Audio                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Audio-15) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016          |  SD CARD           	    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SD-CARD-16) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017          |  Type A (USB 2.0)        |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018          |  Type A (USB3.2)         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019          |  Type C (USB3.2)         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020          |  Peripheral Mode     	  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021          |  4G Module           	  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022          |  Radxa Display 8 HD      |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023          |  Raspberry Pi 7 Touch    |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-23) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024          |  Display Settings        |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025          |  QT Cross Compile        |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026          |  Docker                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Docker-26) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027          |  Samba                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Samba-27) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028          |  RTC                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029          |  GPIO OUT                |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Output-29) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030          |  GPIO IN                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Input-30) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031          |  UART                    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-UART-31) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032          |  ADC               	    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ADC-32) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033          |  PWM               	    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PMW-33) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034          |  I2C                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035          |  SPI               	    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SPI-35) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036          |  OPEN CV                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OpenCV-36) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037          |  Convert to RKNN         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ConvertToRknn-37) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038          |  Run RKNN                |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RunRknn-38) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039          |  Clone Device            |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CloneDevice-39) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040          |  Anticopy                |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Anticopy-40) |
 
 
 ### Nvidia (Orin Nano)
 
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|    Level     |  Description              | Progress      |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:------------:|:-------------------------|:-------------:|:------------:|
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Beginner    |  Install Linux            |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Beginner    |  Test Camera              |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Beginner    |  Install Libraries        |  ⏳Progress      |[Click]() |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Beginner    |  Run Yolo                 |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-04) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  005          |  Beginner    |  Data over WIFI           |  ⏳Progress      |[]() |
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             | Progress      |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:-------------:|:------------:|
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Install Linux           |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Test Camera             |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Install Libraries       |  ⏳Progress      |[Click]() |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Run Yolo                |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-04) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  005          |  Data over WIFI          |  ⏳Progress      |[]() |
 
 
  <br>
