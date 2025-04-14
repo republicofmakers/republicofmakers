@@ -309,8 +309,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034          |  I2C                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035          |  SPI               	    |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SPI-35) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036          |  OPEN CV                 |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OpenCV-36) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037          |  Convert to RKNN         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ConvertToRknn-37) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038          |  Run RKNN                |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RunRknn-38) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037          |  Convert AI Model        |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ConvertToRknn-37) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038          |  Run AI Model            |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RunRknn-38) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039          |  Clone Device            |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CloneDevice-39) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040          |  Anticopy                |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Anticopy-40) |
 
