@@ -233,8 +233,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | Camera         | 041          | OV2640                      | ⏳Progress     |              |
 | SW           | MCU          | STM32        | Camera         | 042          | OV7625 / M12                | ⏳Progress     |              |
 | SW           | MCU          | STM32        | Screen         | 043          | 3.5 Inch LCD(SPI) + Touch   | ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
-| SW           | MCU          | STM32        | Finger Print   | 044          | GROW R503                   | ⏳Progress     |              |
-| SW           | MCU          | STM32        | Scanner        | 045          | QR/Barcode Scanner          | ⏳Progress     |              |
+| SW           | MCU          | STM32        | Finger Print   | 044          | GROW R503                   | ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Fingerprint-044)  |
+| SW           | MCU          | STM32        | Scanner        | 045          | QR/Barcode Scanner          | ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-QR-Scanner-045)  |
 | SW           | MCU          | STM32        | Printer        | 046          | Receipt Printer             | ⏳Progress     |              |
 | SW           | MCU          | STM32        | Sound          | 047          | Max98357 / INMP441          | ⏳Progress     |              |
 | SW           | MCU          | STM32        | Sound          | 048          | PCM5102                     | ⏳Progress     |              |
