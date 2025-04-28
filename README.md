@@ -294,10 +294,10 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019          |  Type C (USB3.2)         |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020          |  Peripheral Mode     	  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021          |  4G Module           	  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022          |  Radxa Display 8 HD      |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023          |  Raspberry Pi 7 Touch    |  ⏳Progress   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Display-23) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024          |  Display Settings        |  ⏳Progress   | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025          |  QT Cross Compile        |  ⏳Progress   | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022          |  Radxa Display 8 HD      |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023          |                          |  Reserved     | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024          |                          |  Reserved     | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025          |                          |  Reserved     | []() |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026          |  Docker                  |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Docker-26) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027          |  Samba                   |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Samba-27) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028          |  RTC                     |  ✅ Done      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
