@@ -229,8 +229,8 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | Ethernet       |  038         |  SMTP                       | ⏳Progress      |              |
 | SW           | MCU          | STM32        | 3-Axis Acc     |  039         |  ADXL345/355/375            | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039) |
 | SW           | MCU          | STM32        | Camera         |  040         |  OV7670 + Screen(2.8/16Bit) | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
-| SW           | MCU          | STM32        | Camera         |  041         |  OV2640                     | ⏳Progress      |              |
-| SW           | MCU          | STM32        | Camera         |  042         |  OV7625 / M12               | ⏳Progress      |              |
+| SW           | MCU          | STM32        | Camera         |  041         |  Camera                     | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Camera-041) |
+| SW           | MCU          | STM32        | Camera         |  042         |                             | ⏳Progress      |              |
 | SW           | MCU          | STM32        | Screen         |  043         |  3.5 Inch LCD(SPI) + Touch  | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
 | SW           | MCU          | STM32        | Finger Print   |  044         |  GROW R503                  | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Fingerprint-044)  |
 | SW           | MCU          | STM32        | Scanner        |  045         |  QR/Barcode Scanner         | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-QR-Scanner-045)  |
