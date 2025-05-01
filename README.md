@@ -122,9 +122,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  ESP32 Camera            |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
-| SW           | MCU          | ESP32        |  ESP32 TFT      |  002        |  ESP LVGL                |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002)  |
-| SW           | MCU          | ESP32        |  ESP32 OTA      |  003        |  ESP OTA                 |  ⏳Progress    |[]() |
-| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  DWIN SCREEN             |  ⏳Progress    |[]() |
+| SW           | MCU          | ESP32        |  ESP32 TFT      |  002        |  ESP32 LVGL              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002)  |
+| SW           | MCU          | ESP32        |  ESP32 OTA      |  003        |  ESP32/8266 OTA          |  ⏳Progress    |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-OTA-003) |
+| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  ESP32 DWIN SCREEN       |  ⏳Progress    |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-DWIN-004) |
 
  
 <br>
@@ -234,7 +234,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | Screen         |  043         |  3.5 Inch LCD(SPI) + Touch  | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
 | SW           | MCU          | STM32        | Finger Print   |  044         |  GROW R503                  | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Fingerprint-044)  |
 | SW           | MCU          | STM32        | Scanner        |  045         |  QR/Barcode Scanner         | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-QR-Scanner-045)  |
-| SW           | MCU          | STM32        | Printer        |  046         |  Receipt Printer            | ⏳Progress      |              |
+| SW           | MCU          | STM32        | Printer        |  046         |  Receipt Printer            | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Printer-046) |
 | SW           | MCU          | STM32        | Sound          |  047         |  Max98357 / INMP441         | ⏳Progress      |              |
 | SW           | MCU          | STM32        | Sound          |  048         |  PCM5102                    | ⏳Progress      |              |
 | SW           | MCU          | STM32        | FreeRTOS       |  049         |  Simple FreeRTOS            | ✅ Done         | [Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
