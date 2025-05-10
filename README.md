@@ -244,17 +244,16 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | BLE            |  053         |  HM-10                      |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        | LORA           |  054         |  STM32WLE5                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WLE5JC-054)             |
 | SW           | MCU          | STM32        | BLE            |  055         |  STM32WB55                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        | 4G Module      |  056         |  A7672 SMS                  |  ✅ Done        | [Click]()    |
-| SW           | MCU          | STM32        | 4G Module      |  057         |  A7672 MQTT                 |  ✅ Done        | [Click]()    |
-| SW           | MCU          | STM32        | RAM            |  058         |  Winbond RAM                | ⏳Progress      |              |
-| SW           | MCU          | STM32        | RAM            |  059         |  Winbond RAM                | ⏳Progress      |              |
-| SW           | MCU          | STM32        | NAND           |  060         |  Winbond NAND               | ⏳Progress      |              |
-| SW           | MCU          | STM32        | LCD            |  061         |  RGB888 LCD                 | ⏳Progress      |              |
-| SW           | MCU          | STM32        | LCD            |  062         |  RGB888 LCD                 | ⏳Progress      |              |
-| SW           | MCU          | STM32        | Programmer     |  063         |  Firmware Upload            | ⏳Progress      |              |
+| SW           | MCU          | STM32        | RAM            |  056         |  Winbond RAM                | ⏳Progress      |              |
+| SW           | MCU          | STM32        | NAND           |  057         |  RGB888 NAND                | ⏳Progress      |              |
+| SW           | MCU          | STM32        | LCD            |  058         |  RGB888 QSPI                | ⏳Progress      |              |
+| SW           | MCU          | STM32        | 4G Module      |  059         |  A7672 SMS                  |  ✅ Done        | [Click]()    |
+| SW           | MCU          | STM32        | 4G Module      |  060         |  A7672 MQTT                 |  ✅ Done        | [Click]()    |
+| SW           | MCU          | STM32        | 4G Module      |  061         |  A7672 HTTP                 |  ✅ Done        | [Click]()    |
+| SW           | MCU          | STM32        | Programmer     |  062         |  Firmware Upload            | ⏳Progress      |              |
+| SW           | MCU          | STM32        | Clone          |  063         |  Firmware Clone             | ⏳Progress      |              |
 | SW           | MCU          | STM32        | Clone          |  064         |  Firmware Clone             | ⏳Progress      |              |
-| SW           | MCU          | STM32        | Clone          |  065         |  Firmware Clone             | ⏳Progress      |              |
-| SW           | MCU          | STM32        | Fuses          |  066         |  Firmware Protection        | ⏳Progress      |              |
+| SW           | MCU          | STM32        | Fuses          |  065         |  Firmware Protection        | ⏳Progress      |              |
 
 
 
