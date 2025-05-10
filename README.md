@@ -96,7 +96,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             | Progress      |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:-------------:|:------------:|
 | SW           | MCU          | ALL Boards   | Blink         |  001          | GPIO OUTPUT              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Blink-001) |
-| SW           | MCU          | ALL Boards   | Button        |  002          | PIO INPUT                |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Button-002) |
+| SW           | MCU          | ALL Boards   | Button        |  002          | GPIO INPUT               |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Button-002) |
 | SW           | MCU          | ALL Boards   | Temp Sensor   |  003          | I2C and SPI              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-SHT4X-003) |
 | SW           | MCU          | ALL Boards   | Servo         |  004          | PMW and ADC              |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-PMW-ADC-004) |
 | SW           | MCU          | ESP32S3      | Camera        |  005          | Camera                   |  ✅ Done      |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Camera-005) |
@@ -124,7 +124,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  ESP32 Camera            |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
 | SW           | MCU          | ESP32        |  ESP32 TFT      |  002        |  ESP32 LVGL              |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002)  |
 | SW           | MCU          | ESP32        |  ESP32 OTA      |  003        |  ESP32/8266 OTA          |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-OTA-003) |
-| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  ESP32 DWIN SCREEN       |  ✅ Done       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-DWIN-004) |
+| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  ESP32 DWIN SCREEN       |  ⏳Progress    |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-DWIN-004) |
 
  
 <br>
@@ -225,7 +225,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RS232         |  034         |  MAX3232                    |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  STM32 to PC                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  PC to STM32                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        | Ethernet       |  037         |  MQTT                       |  ✅ Done        | [Click]() |
+| SW           | MCU          | STM32        | Ethernet       |  037         |  MQTT                       |  ⏳Progress     | [Click]() |
 | SW           | MCU          | STM32        |                |  038         |                             |  Reserved       |              |
 | SW           | MCU          | STM32        | 3-Axis Acc     |  039         |  ADXL345/355/375            |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039) |
 | SW           | MCU          | STM32        | Camera         |  040         |  OV7670 + Screen(2.8/16Bit) |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
@@ -244,16 +244,17 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | BLE            |  053         |  HM-10                      |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        | LORA           |  054         |  STM32WLE5                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WLE5JC-054)             |
 | SW           | MCU          | STM32        | BLE            |  055         |  STM32WB55                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        | 4G Module      |  056         |  A7672 SMS-MQTT-HTTP        | ⏳Progress      |              |
-| SW           | MCU          | STM32        | RAM            |  057         |  Winbond RAM                | ⏳Progress      |              |
+| SW           | MCU          | STM32        | 4G Module      |  056         |  A7672 SMS                  |  ✅ Done        | [Click]()    |
+| SW           | MCU          | STM32        | 4G Module      |  057         |  A7672 MQTT                 |  ✅ Done        | [Click]()    |
 | SW           | MCU          | STM32        | RAM            |  058         |  Winbond RAM                | ⏳Progress      |              |
-| SW           | MCU          | STM32        | NAND           |  059         |  Winbond NAND               | ⏳Progress      |              |
-| SW           | MCU          | STM32        | LCD            |  060         |  RGB888 LCD                 | ⏳Progress      |              |
+| SW           | MCU          | STM32        | RAM            |  059         |  Winbond RAM                | ⏳Progress      |              |
+| SW           | MCU          | STM32        | NAND           |  060         |  Winbond NAND               | ⏳Progress      |              |
 | SW           | MCU          | STM32        | LCD            |  061         |  RGB888 LCD                 | ⏳Progress      |              |
-| SW           | MCU          | STM32        | Programmer     |  062         |  Firmware Upload            | ⏳Progress      |              |
-| SW           | MCU          | STM32        | Clone          |  063         |  Firmware Clone             | ⏳Progress      |              |
+| SW           | MCU          | STM32        | LCD            |  062         |  RGB888 LCD                 | ⏳Progress      |              |
+| SW           | MCU          | STM32        | Programmer     |  063         |  Firmware Upload            | ⏳Progress      |              |
 | SW           | MCU          | STM32        | Clone          |  064         |  Firmware Clone             | ⏳Progress      |              |
-| SW           | MCU          | STM32        | Fuses          |  065         |  Firmware Protection        | ⏳Progress      |              |
+| SW           | MCU          | STM32        | Clone          |  065         |  Firmware Clone             | ⏳Progress      |              |
+| SW           | MCU          | STM32        | Fuses          |  066         |  Firmware Protection        | ⏳Progress      |              |
 
 
 
@@ -320,9 +321,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:-------------:|:------------:|
 | SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Install Linux           |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
 | SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Test Camera             |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Install Libraries       |  ⏳Progress      |[Click]() |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Run Yolo                |  ⏳Progress      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-YOLO-04) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  005          |  Data over WIFI          |  ⏳Progress      |[]() |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Run Yolo                |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Yolo-03) |
 
 
  <br>
