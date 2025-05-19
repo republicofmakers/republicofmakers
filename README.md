@@ -321,6 +321,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Install Linux           |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
 | SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Test Camera             |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
 | SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Run Yolo                |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Yolo-03) |
+| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Run Tiny LLM            |  ✅ Done         |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-LLM-04) |
 
 
  <br>
