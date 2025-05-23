@@ -236,7 +236,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        | Scanner        |  045         |  QR/Barcode Scanner         |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-QR-Scanner-045)  |
 | SW           | MCU          | STM32        | Printer        |  046         |  Receipt Printer            |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Printer-046) |
 | SW           | MCU          | STM32        | EPPROM         |  047         |  Emulate EPPROM             |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-EmulateEPPROM-047) |
-| SW           | MCU          | STM32        | Watchdog       |  048         |  Watchdog Timer             |  ✅ Done        |              |
+| SW           | MCU          | STM32        | Watchdog       |  048         |  Watchdog Timer             |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-WatchdogTimer-048)    |
 | SW           | MCU          | STM32        | FreeRTOS       |  049         |  Simple FreeRTOS            |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
 | SW           | MCU          | STM32        | NRF24          |  050         |  NRF24L01                   |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
 | SW           | MCU          | STM32        | LORA           |  051         |  Ebyte E220D                |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
