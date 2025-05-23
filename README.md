@@ -261,6 +261,11 @@ I have created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
+### x86 mini PC with AI / POE / GPIO pinouts
+
+**My Custom Mini PC**   -> If you work linux based system such as rk3588 or jetson boards you may need a ubuntu PC.
+
+->  [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
 
  
 ### Rockchip RK3588S
