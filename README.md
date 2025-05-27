@@ -225,7 +225,7 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RS232         |  034         |  MAX3232                    |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  STM32 to PC                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  PC to STM32                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        | Ethernet       |  037         |  MQTT                       |  ⏳Progress     | [Click]() |
+| SW           | MCU          | STM32        | Ethernet       |  037         |  MQTT                       |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-MQTT-037) |
 | SW           | MCU          | STM32        |                |  038         |  SDRAM                      |  Reserved       |              |
 | SW           | MCU          | STM32        | 3-Axis Acc     |  039         |  ADXL345/355/375            |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039) |
 | SW           | MCU          | STM32        | Camera         |  040         |  OV7670 + Screen(2.8/16Bit) |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
