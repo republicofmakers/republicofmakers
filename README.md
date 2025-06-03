@@ -11,7 +11,6 @@ Here is more information , if you wanna know more about my career and completed 
 I have created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my dedication to open learning and collaboration. While I have gained valuable insights from senior engineers, I'm an experienced engineer specializing in IOT and AI, dedicated to building innovative, reliable solutions and constantly pushing my skills further. With perseverance and hard work, I aspire to achieve that goal. Along the way, I am committed to sharing resources and guidance to support junior engineers, making their journey into this field smoother and more accessible. You can explore my repositories through the links below.
 
 
-
 ### PCB Designs
 
 | Title            | Description                      | Purpose                          | Repo  Link                      | 
@@ -186,7 +185,9 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 
 
-
+<br>
+<br>
+<br>
 
 
 **Panelized MCU Programmer / Tester**   -> Programming / Testing multiple PCBs with pogo pins. ->  [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer)
@@ -199,7 +200,10 @@ I have created numerous repositories and projects to share knowledge and contrib
 
 **My Custom Mini PC**   -> If you work linux based system such as rk3588 or jetson boards you may need a ubuntu PC. ->  [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
 
- 
+<br>
+<br>
+<br>
+
 ### Rockchip RK3588S
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             | Progress      |    Repo Link |
