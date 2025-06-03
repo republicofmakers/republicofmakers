@@ -244,11 +244,11 @@ I have created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BLE           |  053         |  HM-10                      |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  LORA          |  054         |  STM32WLE5                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WLE5JC-054)             |
 | SW           | MCU          | STM32        |  BLE           |  055         |  STM32WB55                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  4G Module     |  056         |  A7672 SMS                  |  ⏳Progress     | [Click]()    |
+| SW           | MCU          | STM32        |  Firmware      |  056         |  Firmware Protection        |  ⏳Progress     | [Click]()    |
 | SW           | MCU          | STM32        |  4G Module     |  057         |  A7672 MQTT                 |  ⏳Progress     | [Click]()    |
 | SW           | MCU          | STM32        |  4G Module     |  058         |  A7672 HTTP                 |  ⏳Progress     | [Click]()    |
-| SW           | MCU          | STM32        |  Programmer    |  059         |  FW Clone                   |  ⏳Progress     |              |
-| SW           | MCU          | STM32        |  Clone         |  060         |  Firmware Protection        |  ⏳Progress     |              |
+| SW           | MCU          | STM32        |  4G Module     |  059         |  A7672 SMS                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-SMS-059)    |
+| SW           | MCU          | STM32        |  Firmware      |  060         |  Firmware Protection        |  ⏳Progress     |              |
 
 
 
