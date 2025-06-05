@@ -1,6 +1,6 @@
 # Republic of Makers Repo #
 
-My name is Ceyhun Pempeci. I am an full stack embedded system engineer.
+My name is Ceyhun Pempeci. I am a full-stack embedded systems engineer.
 
 Here is more information , if you wanna know more about me and my education. -> [Click](https://github.com/republicofmakers/Ceyhun-Pempeci)
 
@@ -8,8 +8,7 @@ Here is more information , if you wanna know more about my career and completed 
 
 # Giving Back To Community
 
-I have created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my dedication to open learning and collaboration. While I have gained valuable insights from senior engineers, I'm an experienced engineer specializing in IOT and AI, dedicated to building innovative, reliable solutions and constantly pushing my skills further. With perseverance and hard work, I aspire to achieve that goal. Along the way, I am committed to sharing resources and guidance to support junior engineers, making their journey into this field smoother and more accessible. You can explore my repositories through the links below.
-
+I’ve created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my commitment to open learning and collaboration. While I’ve learned from senior engineers, I am now an experienced engineer specializing in IoT and AI—focused on building innovative, reliable solutions and continuously improving my skills. With perseverance and hard work, I aim to grow further in this field. Along the way, I remain committed to supporting junior engineers by sharing helpful resources and guidance to make their journey into the field easier and more accessible.
 
 ### PCB Designs
 
