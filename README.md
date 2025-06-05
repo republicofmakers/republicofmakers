@@ -157,30 +157,30 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  RS232         |  034         |  MAX3232                    |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-RS232-034) |
 | SW           | MCU          | STM32        |  USB           |  035         |  STM32 to PC                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-035) |
 | SW           | MCU          | STM32        |  USB           |  036         |  PC to STM32                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-USB-036) |
-| SW           | MCU          | STM32        |  Ethernet      |  037         |  MQTT                       |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-MQTT-037) |
-| SW           | MCU          | STM32        |  SDRAM         |  038         |                             |  Reserved       |              |
-| SW           | MCU          | STM32        |  3-Axis Acc    |  039         |  ADXL345/355/375            |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039) |
-| SW           | MCU          | STM32        |  Camera        |  040         |  OV7670 + Screen(2.8/16Bit) |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
-| SW           | MCU          | STM32        |  Camera        |  041         |  Camera Modules             |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Camera-041) |
-| SW           | MCU          | STM32        |  Sound         |  042         |  PCM5102A                   |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-PCM5102A-042)    |
-| SW           | MCU          | STM32        |  Screen        |  043         |  3.5 Inch LCD(SPI) + Touch  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
-| SW           | MCU          | STM32        |  Finger Print  |  044         |  GROW R503                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Fingerprint-044)  |
-| SW           | MCU          | STM32        |  Scanner       |  045         |  QR/Barcode Scanner         |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-QR-Scanner-045)  |
-| SW           | MCU          | STM32        |  Printer       |  046         |  Receipt Printer            |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-Printer-046) |
-| SW           | MCU          | STM32        |  EPPROM        |  047         |  Emulate EPPROM             |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-EmulateEPPROM-047) |
-| SW           | MCU          | STM32        |  Watchdog      |  048         |  Watchdog Timer             |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-WatchdogTimer-048)    |
-| SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Simple FreeRTOS            |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
-| SW           | MCU          | STM32        |  NRF24         |  050         |  NRF24L01                   |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
-| SW           | MCU          | STM32        |  LORA          |  051         |  Ebyte E220D                |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
-| SW           | MCU          | STM32        |  WIFI          |  052         |  ESP-01S                    |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
-| SW           | MCU          | STM32        |  BLE           |  053         |  HM-10                      |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
-| SW           | MCU          | STM32        |  LORA          |  054         |  STM32WLE5                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WLE5JC-054)             |
-| SW           | MCU          | STM32        |  BLE           |  055         |  STM32WB55                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  Firmware      |  056         |  Firmware Protection        |  ⏳Progress     | [Click]()    |
-| SW           | MCU          | STM32        |  4G Module     |  057         |  A7672 MQTT                 |  ⏳Progress     | [Click]()    |
-| SW           | MCU          | STM32        |  4G Module     |  058         |  A7672 HTTP                 |  ⏳Progress     | [Click]()    |
-| SW           | MCU          | STM32        |  4G Module     |  059         |  A7672 SMS                  |  ✅ Done        | [Click](https://github.com/republicofmakers/SW-MCU-STM32-SMS-059)    |
-| SW           | MCU          | STM32        |  Firmware      |  060         |  Firmware Protection        |  ⏳Progress     | [Click]()    |
+| SW           | MCU          | STM32        |  Ethernet      |  037         |  MQTT                       |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-MQTT-037) |
+| SW           | MCU          | STM32        |  SDRAM         |  038         |  Winbond SDRAM              |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SDRAM-038)   |
+| SW           | MCU          | STM32        |  3-Axis Acc    |  039         |  ADXL345/355/375            |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADXL3X5-039) |
+| SW           | MCU          | STM32        |  Camera        |  040         |  OV7670 + Screen(2.8/16Bit) |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-OV7670-040) |
+| SW           | MCU          | STM32        |  Camera        |  041         |  Camera Modules             |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Camera-041) |
+| SW           | MCU          | STM32        |  Sound         |  042         |  PCM5102A                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-PCM5102A-042)    |
+| SW           | MCU          | STM32        |  Screen        |  043         |  3.5 Inch LCD(SPI) + Touch  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-3.5-Inch-LCD-043) |
+| SW           | MCU          | STM32        |  Finger Print  |  044         |  GROW R503                  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Fingerprint-044)  |
+| SW           | MCU          | STM32        |  Scanner       |  045         |  QR/Barcode Scanner         |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-QR-Scanner-045)  |
+| SW           | MCU          | STM32        |  Printer       |  046         |  Receipt Printer            |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-Printer-046) |
+| SW           | MCU          | STM32        |  EPPROM        |  047         |  Emulate EPPROM             |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-EmulateEPPROM-047) |
+| SW           | MCU          | STM32        |  Watchdog      |  048         |  Watchdog Timer             |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WatchdogTimer-048)    |
+| SW           | MCU          | STM32        |  FreeRTOS      |  049         |  Simple FreeRTOS            |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-FreeRTOS-049) |
+| SW           | MCU          | STM32        |  NRF24         |  050         |  NRF24L01                   |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-NRF24L01-050) |
+| SW           | MCU          | STM32        |  LORA          |  051         |  Ebyte E220D                |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LORA-051) |
+| SW           | MCU          | STM32        |  WIFI          |  052         |  ESP-01S                    |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WIFI-052) |
+| SW           | MCU          | STM32        |  BLE           |  053         |  HM-10                      |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
+| SW           | MCU          | STM32        |  LORA          |  054         |  STM32WLE5                  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WLE5JC-054)             |
+| SW           | MCU          | STM32        |  BLE           |  055         |  STM32WB55                  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
+| SW           | MCU          | STM32        |  Firmware      |  056         |  Firmware Protection        |  ⏳Progress     |[Click]()    |
+| SW           | MCU          | STM32        |  4G Module     |  057         |  A7672 MQTT                 |  ⏳Progress     |[Click]()    |
+| SW           | MCU          | STM32        |  4G Module     |  058         |  A7672 HTTP                 |  ⏳Progress     |[Click]()    |
+| SW           | MCU          | STM32        |  4G Module     |  059         |  A7672 SMS                  |  ✅ Done        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SMS-059)    |
+| SW           | MCU          | STM32        |  Firmware      |  060         |  Firmware Protection        |  ⏳Progress     |[Click]()    |
 
 
 
@@ -195,7 +195,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
-### x86 mini PC with AI / POE / GPIO pinouts
+### x86 mini PC with AI / POE / GPIO
 
 **My Custom Mini PC**   -> If you work linux based system such as rk3588 or jetson boards you may need a ubuntu PC. ->  [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
 
