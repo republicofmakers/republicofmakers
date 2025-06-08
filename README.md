@@ -64,7 +64,6 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | ESP32        |  ESP32 CAM      |  001        |  ESP32 Camera            |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Camera-001) |
 | SW           | MCU          | ESP32        |  ESP32 TFT      |  002        |  ESP32 LVGL              |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-Touch-002)  |
 | SW           | MCU          | ESP32        |  ESP32 OTA      |  003        |  ESP32/8266 OTA          |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-OTA-003) |
-| SW           | MCU          | ESP32        |  ESP32 Screen   |  004        |  ESP32 DWIN SCREEN       |[Click](https://github.com/republicofmakers/SW-ESP32-Arduino-DWIN-004) |
  
 <br>
 <br>
@@ -181,11 +180,11 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BLE           |  053         |  HM-10                      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  LORA          |  054         |  STM32WLE5                  |[Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WLE5JC-054) |
 | SW           | MCU          | STM32        |  BLE           |  055         |  STM32WB55                  |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  Firmware      |  056         |  Firmware Protection        |[]()    |
+| SW           | MCU          | STM32        |  Reserved      |  056         |                             |[]()    |
 | SW           | MCU          | STM32        |  4G Module     |  057         |  A7672 MQTT                 |[]()    |
 | SW           | MCU          | STM32        |  4G Module     |  058         |  A7672 HTTP                 |[]()    |
 | SW           | MCU          | STM32        |  4G Module     |  059         |  A7672 SMS                  |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SMS-059)    |
-| SW           | MCU          | STM32        |  Firmware      |  060         |  Firmware Protection        |[]()    |
+| SW           | MCU          | STM32        |  Firmware      |  060         |  Firmware Protection        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-FW-Protection-060)    |
 
 
 
