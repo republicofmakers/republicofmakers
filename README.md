@@ -232,9 +232,9 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020          |  Peripheral Mode         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021          |  4G Module               | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022          |  Radxa Display 8 HD      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023          |  Pi Display              | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024          |  POE                     | []() |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025          |  Encoder/Decoder         | []() |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023          |  Pi Display              | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Pi-Display-23) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024          |  POE                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PowerOverEthernet-24) |
+| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025          |  Android                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Android-25) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026          |  Docker                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Docker-26) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027          |  Samba                   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Samba-27) |
 | SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028          |  RTC                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
