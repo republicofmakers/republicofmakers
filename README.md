@@ -201,7 +201,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 ### x86 mini PC with AI / POE / GPIO
 
-**My Custom Mini PC**   -> If you work linux based system such as rk3588 or jetson boards you may need a ubuntu PC. ->  [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
+**My Custom Mini PC**   ->  This is the compact AI-powered mini PC I built and currently use as my secondary system. ->  [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
 
 <br>
 <br>
