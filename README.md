@@ -135,7 +135,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BlinkExtFlash |  008         |  Ext. Flash Boot - 3        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkExtFlash-008) |
 | SW           | MCU          | STM32        |  LVGLTest      |  009         |  Ext. Flash Boot - 4        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LVGLTest-009) |
 | SW           | MCU          | STM32        |  SD Card       |  010         |  SD Card (SDIO)             |[Click](https://github.com/republicofmakers/SW-MCU-STM32-10-SD-Card-010) |
-| SW           | MCU          | STM32        |  W2812 RGB     |  011         |  RGB LED Control            |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WS2812-RGB-011) |
+| SW           | MCU          | STM32        |  WS2812 RGB    |  011         |  RGB LED Control            |[Click](https://github.com/republicofmakers/SW-MCU-STM32-WS2812-RGB-011) |
 | SW           | MCU          | STM32        |  24BYJ48       |  012         |  ULN2003                    |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ULN2003-012)  |
 | SW           | MCU          | STM32        |  Nema17        |  013         |  A4988                      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-A4988-013)  |
 | SW           | MCU          | STM32        |  DC Motor      |  014         |  L298N                      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-L298N-014)  |
