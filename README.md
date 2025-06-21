@@ -180,7 +180,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | STM32        |  BLE           |  053         |  HM-10                      |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-053) |
 | SW           | MCU          | STM32        |  LORA          |  054         |  STM32WLE5                  |[Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WLE5JC-054) |
 | SW           | MCU          | STM32        |  BLE           |  055         |  STM32WB55                  |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BLE-055) |
-| SW           | MCU          | STM32        |  Reserved      |  056         |                             |[]()    |
+| SW           | MCU          | STM32        |  BLE (FCC)     |  056         |  STM32WB5MMC                |[Click](https://github.com/republicofmakers/SW-MCU-STM32-STM32WB5MMC-056)    |
 | SW           | MCU          | STM32        |  4G Module     |  057         |  A7672 MQTT                 |[]()    |
 | SW           | MCU          | STM32        |  4G Module     |  058         |  A7672 HTTP                 |[]()    |
 | SW           | MCU          | STM32        |  4G Module     |  059         |  A7672 SMS                  |[Click](https://github.com/republicofmakers/SW-MCU-STM32-SMS-059)    |
