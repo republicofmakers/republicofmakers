@@ -121,6 +121,29 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
+### Raspberry Pi Pico Series (Thonny IDE)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:------------:|
+| SW           | MCU          | Raspberry Pi | Blink         |  001          | GPIO OUTPUT              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-Blink-001) |
+| SW           | MCU          | Raspberry Pi | Button        |  002          | GPIO INPUT               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-Button-002) |
+| SW           | MCU          | Raspberry Pi | Temp Sensor   |  003          | I2C and SPI              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-SHT4X-003) |
+| SW           | MCU          | Raspberry Pi | Servo         |  004          | PMW and ADC              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-PMW-ADC-004) |
+| SW           | MCU          | Raspberry Pi | UART          |  005          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-005) |
+| SW           | MCU          | Raspberry Pi | UART          |  006          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-006) |
+| SW           | MCU          | Raspberry Pi | USB           |  007          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-007) |
+| SW           | MCU          | Raspberry Pi | USB           |  008          | PC to PC                 |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-008) |
+| SW           | MCU          | Raspberry Pi | WIFI          |  009          | MQTT                     |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-MQTT-009) |
+| SW           | MCU          | Raspberry Pi | BLE           |  010          | Bluetooth                |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-BLE-010) |
+
+
+<br>
+<br>
+<br>
+
+
+
+
 ### ST Microelectronics Microcontrollers (STM32Cube IDE)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description              |    Repo Link |
