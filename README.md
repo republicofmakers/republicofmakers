@@ -132,7 +132,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | Raspberry Pi | UART          |  005          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-005) |
 | SW           | MCU          | Raspberry Pi | UART          |  006          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-006) |
 | SW           | MCU          | Raspberry Pi | USB           |  007          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-007) |
-| SW           | MCU          | Raspberry Pi | USB           |  008          | PC to PC                 |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-008) |
+| SW           | MCU          | Raspberry Pi | USB           |  008          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-008) |
 | SW           | MCU          | Raspberry Pi | WIFI          |  009          | MQTT                     |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-MQTT-009) |
 | SW           | MCU          | Raspberry Pi | BLE           |  010          | Bluetooth                |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-BLE-010) |
 
