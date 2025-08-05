@@ -226,6 +226,30 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 **My Custom Mini PC**   ->  This is the compact AI-powered mini PC I built and currently use as my secondary system. ->  [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
 
+
+<br>
+<br>
+<br>
+
+### Raspberry Pi (4B)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:------------:|
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  001          |  Install Linux           |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  002          |  Test Camera             |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  003          |  Display                 |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  004          |  Audio                   |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  005          |  GPIO                    |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  006          |  UART                    |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  007          |  ADC                     |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  008          |  PWM                     |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  009          |  I2C                     |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  010          |  SPI                     |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  011          |  I2S                     |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  012          |  USB                     |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  013          |  4G                      |[Click]() |
+
+
 <br>
 <br>
 <br>
@@ -233,56 +257,65 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 ### Rockchip RK3588S
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:------------:|
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  001          |  Ubuntu                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ubuntu-01) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  002          |  Radxa OS (SD CARD)      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-02) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  003          |  Radxa OS (EMMC)         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-03) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  004          |  OV5647                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OV5647-04) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  005          |  IMX219                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX219-05) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  006          |  IMX415                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX415-06) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  007          |  RTL8852 WIFI            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-WIFI-07) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  008          |  Ethernet                | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ethernet-08) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  009          |  HOTSPOT                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  010          |  Video Stream            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Video-Stream-10) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  011          |  RTL8852 BLE             | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-11) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  012          |  CPU Driver              | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CPU-12) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  013          |  GPU Driver              | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPU-13) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  014          |  HDMI                    | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-HDMI-14) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  015          |  Audio                   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Audio-15) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  016          |  SD CARD                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SD-CARD-16) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  017          |  Type A (USB 2.0)        | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  018          |  Type A (USB3.2)         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  019          |  Type C (USB3.2)         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  020          |  Peripheral Mode         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  021          |  4G Module               | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  022          |  Radxa Display 8 HD      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  023          |  Pi Display              | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Pi-Display-23) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  024          |  POE                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PowerOverEthernet-24) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  025          |  Android                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Android-25) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  026          |  Docker                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Docker-26) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  027          |  Samba                   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Samba-27) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  028          |  RTC                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  029          |  GPIO OUT                | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Output-29) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  030          |  GPIO IN                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Input-30) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  031          |  UART                    | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-UART-31) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  032          |  ADC                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ADC-32) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  033          |  PWM                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PMW-33) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  034          |  I2C                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  035          |  SPI                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SPI-35) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  036          |  OPEN CV                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OpenCV-36) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  037          |  Convert AI Model        | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ConvertToRknn-37) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  038          |  Run AI Model            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RunRknn-38) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  039          |  Clone Device            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CloneDevice-39) |
-| SW           |  RK3588S     |   Rockchip   |  Radxa CM5    |  040          |  Anticopy                | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Anticopy-40) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  001          |  Ubuntu                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ubuntu-01) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  002          |  Radxa OS (SD CARD)      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-02) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  003          |  Radxa OS (EMMC)         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RadxaOS-03) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  004          |  OV5647                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OV5647-04) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  005          |  IMX219                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX219-05) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  006          |  IMX415                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-IMX415-06) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  007          |  RTL8852 WIFI            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-WIFI-07) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  008          |  Ethernet                | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Ethernet-08) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  009          |  HOTSPOT                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Hotspot-08) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  010          |  Video Stream            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Video-Stream-10) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  011          |  RTL8852 BLE             | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Bluetooth-11) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  012          |  CPU Driver              | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CPU-12) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  013          |  GPU Driver              | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPU-13) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  014          |  HDMI                    | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-HDMI-14) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  015          |  Audio                   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Audio-15) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  016          |  SD CARD                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SD-CARD-16) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  017          |  Type A (USB 2.0)        | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-2.0-17) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  018          |  Type A (USB3.2)         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-USB-3.2-18) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  019          |  Type C (USB3.2)         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-TypeC-19) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  020          |  Peripheral Mode         | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Peripheral-20) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  021          |  4G Module               | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-4G-Module-21) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  022          |  Radxa Display 8 HD      | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Radxa-Display-22) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  023          |  Pi Display              | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Raspberry-Pi-Display-23) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  024          |  POE                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PowerOverEthernet-24) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  025          |  Android                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Android-25) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  026          |  Docker                  | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Docker-26) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  027          |  Samba                   | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Samba-27) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  028          |  RTC                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RTC-28) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  029          |  GPIO OUT                | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Output-29) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  030          |  GPIO IN                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-GPIO-Input-30) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  031          |  UART                    | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-UART-31) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  032          |  ADC                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ADC-32) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  033          |  PWM                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-PMW-33) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  034          |  I2C                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-I2C-34) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  035          |  SPI                     | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-SPI-35) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  036          |  OPEN CV                 | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-OpenCV-36) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  037          |  Convert AI Model        | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-ConvertToRknn-37) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  038          |  Run AI Model            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-RunRknn-38) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  039          |  Clone Device            | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-CloneDevice-39) |
+| SW           |  CPU         |   Rockchip   |  Radxa CM5    |  040          |  Anticopy                | [Click](https://github.com/republicofmakers/SW-CPU-Rockchip-Anticopy-40) |
 
 
 ### Nvidia (Orin Nano)
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:------------:|
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  001          |  Install Linux           |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  002          |  Test Camera             |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  003          |  Run Yolo                |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Yolo-03) |
-| SW           |  Jetson      |  NVIDIA      |  Orin Nano    |  004          |  Run Tiny LLM            |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-LLM-04) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  001          |  Install Linux           |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Jetpack-01) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  002          |  Test Camera             |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  003          |  Run Yolo                |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Yolo-03) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  004          |  Run Tiny LLM            |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-LLM-04) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  005          |  GPIO                    |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  006          |  UART                    |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  007          |  ADC                     |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  008          |  PWM                     |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  009          |  I2C                     |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  010          |  SPI                     |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  011          |  I2S                     |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  012          |  USB                     |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  013          |  4G                      |[Click]() |
 
 
  <br>
