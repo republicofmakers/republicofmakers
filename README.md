@@ -96,6 +96,25 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
+### Raspberry Pi Pico Series (Thonny IDE)
+
+|  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             |    Repo Link |
+|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:------------:|
+| SW           | MCU          | Raspberry Pi | Blink         |  001          | GPIO OUTPUT              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-Blink-001) |
+| SW           | MCU          | Raspberry Pi | Button        |  002          | GPIO INPUT               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-Button-002) |
+| SW           | MCU          | Raspberry Pi | Temp Sensor   |  003          | I2C and SPI              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-SHT4X-003) |
+| SW           | MCU          | Raspberry Pi | Servo         |  004          | PMW and ADC              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-PMW-ADC-004) |
+| SW           | MCU          | Raspberry Pi | UART          |  005          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-005) |
+| SW           | MCU          | Raspberry Pi | UART          |  006          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-006) |
+| SW           | MCU          | Raspberry Pi | USB           |  007          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-007) |
+| SW           | MCU          | Raspberry Pi | USB           |  008          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-008) |
+| SW           | MCU          | Raspberry Pi | WIFI          |  009          | MQTT                     |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-MQTT-009) |
+| SW           | MCU          | Raspberry Pi | BLE           |  010          | Bluetooth                |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-BLE-010) |
+
+
+<br>
+<br>
+<br>
 
 ### Atmel Microcontrollers (ATMEL Studio)
 
@@ -120,28 +139,6 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 <br>
-
-### Raspberry Pi Pico Series (Thonny IDE)
-
-|  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             |    Repo Link |
-|:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:------------:|
-| SW           | MCU          | Raspberry Pi | Blink         |  001          | GPIO OUTPUT              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-Blink-001) |
-| SW           | MCU          | Raspberry Pi | Button        |  002          | GPIO INPUT               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-Button-002) |
-| SW           | MCU          | Raspberry Pi | Temp Sensor   |  003          | I2C and SPI              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-SHT4X-003) |
-| SW           | MCU          | Raspberry Pi | Servo         |  004          | PMW and ADC              |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-PMW-ADC-004) |
-| SW           | MCU          | Raspberry Pi | UART          |  005          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-005) |
-| SW           | MCU          | Raspberry Pi | UART          |  006          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-UART-006) |
-| SW           | MCU          | Raspberry Pi | USB           |  007          | Pico to PC               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-007) |
-| SW           | MCU          | Raspberry Pi | USB           |  008          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-USB-008) |
-| SW           | MCU          | Raspberry Pi | WIFI          |  009          | MQTT                     |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-MQTT-009) |
-| SW           | MCU          | Raspberry Pi | BLE           |  010          | Bluetooth                |[Click](https://github.com/republicofmakers/SW-RaspberryPi-Thonny-BLE-010) |
-
-
-<br>
-<br>
-<br>
-
-
 
 
 ### ST Microelectronics Microcontrollers (STM32Cube IDE)
@@ -235,19 +232,22 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description             |    Repo Link |
 |:------------:|:------------:|:------------:|:------------: |:-------------:|:-------------------------|:------------:|
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  001          |  Install Linux           |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  002          |  Test Camera             |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  003          |  Display                 |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  004          |  Audio                   |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  005          |  GPIO                    |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  006          |  UART                    |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  007          |  ADC                     |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  008          |  PWM                     |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  009          |  I2C                     |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  010          |  SPI                     |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  011          |  I2S                     |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  012          |  USB                     |[Click]() |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  013          |  4G                      |[Click]() |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  001          |  Install Linux           |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Linux-001) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  002          |  Test Camera             |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Camera-002) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  003          |  Display                 |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Display-003) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  004          |  Audio                   |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Audio-004) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  005          |  GPIO                    |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-GPIO-005) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  006          |  UART                    |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-UART-006) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  007          |  ADC                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-ADC-007) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  008          |  PWM                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-PWM-008) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  009          |  I2C                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-I2C-009) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  010          |  SPI                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-SPI-010) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  011          |  I2S                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-I2S-011) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  012          |  USB                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-USB-012) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  013          |  4G                      |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-4G-013) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  014          |  RS485                   |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS485-014) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  015          |  RS232                   |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS232-015) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  016          |  CAN                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-CAN-016) |
 
 
 <br>
