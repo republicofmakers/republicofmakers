@@ -15,7 +15,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | Title            | Description                      | Purpose                          | Repo  Link                      | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **STM32 ADC / DAC**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
-| **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Xilinx FPGA Hardware design      | []()|
+| **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Xilinx FPGA Hardware design      | [Click](https://github.com/republicofmakers/HW-KICAD-FPGA-XILINX-ZYNQ-7010)|
 
 <br>
 <br>
