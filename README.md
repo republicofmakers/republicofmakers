@@ -110,7 +110,16 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | Raspberry Pi | USB           |  008          | PC to Pico               |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-USB-008) |
 | SW           | MCU          | Raspberry Pi | WIFI          |  009          | MQTT                     |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-MQTT-009) |
 | SW           | MCU          | Raspberry Pi | BLE           |  010          | Bluetooth                |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-BLE-010) |
-
+| SW           | MCU          | Raspberry Pi | RS232         |  011          | MAX3232                  |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-RS232-011) |
+| SW           | MCU          | Raspberry Pi | RS485         |  012          | MAX485                   |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-RS485-012) |
+| SW           | MCU          | Raspberry Pi | CAN           |  013          | MCP2515                  |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-CAN-013) |
+| SW           | MCU          | Raspberry Pi | LORA          |  014          | LORA                     |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-LORA-014) |
+| SW           | MCU          | Raspberry Pi | ETHERNET      |  015          | W5500                    |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-ETHERNET-015) |
+| SW           | MCU          | Raspberry Pi | 4G MQTT       |  016          | A7672G                   |[Click](https://github.com/republicofmakers/SW-MCU-RaspberryPi-4G-Module-016) |
+| SW           | MCU          | Raspberry Pi |               |  017          |                          |[Click]() |
+| SW           | MCU          | Raspberry Pi |               |  018          |                          |[Click]() |
+| SW           | MCU          | Raspberry Pi |               |  019          |                          |[Click]() |
+| SW           | MCU          | Raspberry Pi |               |  020          |                          |[Click]() |
 
 <br>
 <br>
