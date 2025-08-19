@@ -150,7 +150,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 |  Abb.        |     Type     |     Brand    |    Title      | Project Number|  Description              |    Repo Link |
 |:------------:|:------------:|:------------:|:-------------:|:-------------:|:--------------------------|:------------:|
-| SW           | MCU          | STM32        |  BlinkTest     |  001         |  Simple LED control         |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
+| SW           | MCU          | STM32        |  BlinkTest     |  001         |  GPIO                       |[Click](https://github.com/republicofmakers/SW-MCU-STM32-BlinkTest-001)|
 | SW           | MCU          | STM32        |  LCDTest       |  002         |  0.96 Inch LCD              |[Click](https://github.com/republicofmakers/SW-MCU-STM32-LCDTest-002)|
 | SW           | MCU          | STM32        |  ADC-PMW       |  003         |  Potentiometer&Servo        |[Click](https://github.com/republicofmakers/SW-MCU-STM32-ADC-PMW-003) |
 | SW           | MCU          | STM32        |  I2CTest       |  004         |  SHT4X Temp&Hum             |[Click](https://github.com/republicofmakers/SW-MCU-STM32-I2CTest-004) |
