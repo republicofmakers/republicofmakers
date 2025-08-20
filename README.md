@@ -242,13 +242,13 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  003          |  Display                 |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Display-003) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  004          |  Audio                   |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Audio-004) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  005          |  GPIO                    |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-GPIO-005) |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  006          |  UART                    |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-UART-006) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  006          |  UART / I2C              |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-UART-006) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  007          |  ADC                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-ADC-007) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  008          |  PWM                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-PWM-008) |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  009          |  I2C                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-I2C-009) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  009          |  USB                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-USB-009) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  010          |  SPI                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-SPI-010) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  011          |  I2S                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-I2S-011) |
-| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  012          |  USB                     |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-USB-012) |
+| SW           |  CPU         |  Broadcom    |  Raspberry Pi |  012          |  LORA                    |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-LORA-012) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  013          |  4G                      |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-4G-013) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  014          |  RS485                   |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS485-014) |
 | SW           |  CPU         |  Broadcom    |  Raspberry Pi |  015          |  RS232                   |[Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS232-015) |
