@@ -312,15 +312,15 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           |  GPU         |  NVIDIA      |  Orin Nano    |  002          |  Test Camera             |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Camera-02) |
 | SW           |  GPU         |  NVIDIA      |  Orin Nano    |  003          |  Run Yolo                |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-Yolo-03) |
 | SW           |  GPU         |  NVIDIA      |  Orin Nano    |  004          |  Run Tiny LLM            |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-LLM-04) |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  005          |  GPIO                    |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  006          |  UART                    |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  007          |  ADC                     |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  008          |  PWM                     |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  009          |  I2C                     |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  010          |  SPI                     |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  011          |  I2S                     |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  012          |  USB                     |[Click]() |
-| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  013          |  4G                      |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  005          |  GPIO                    |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-GPIO-05) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  006          |  UART                    |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-UART-06) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  007          |  ADC                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-ADC-07) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  008          |  PWM                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-PWM-08) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  009          |  I2C                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-I2C-09) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  010          |  SPI                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-SPI-10) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  011          |  I2S                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-I2S-11) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  012          |  USB                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-USB-12) |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  013          |  4G                      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-4G-13) |
 
 
  <br>
