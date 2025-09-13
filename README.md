@@ -321,7 +321,9 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           |  GPU         |  NVIDIA      |  Orin Nano    |  011          |  I2S                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-I2S-11) |
 | SW           |  GPU         |  NVIDIA      |  Orin Nano    |  012          |  USB                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-USB-12) |
 | SW           |  GPU         |  NVIDIA      |  Orin Nano    |  013          |  4G                      |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-4G-13) |
-
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  014          |  RS485                   |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  015          |  Lora                    |[Click]() |
+| SW           |  GPU         |  NVIDIA      |  Orin Nano    |  016          |  Can                     |[Click]() |
 
  <br>
 
