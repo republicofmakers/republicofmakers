@@ -73,9 +73,8 @@ Key achievements include:
 ![RISC-V](https://img.shields.io/badge/-RISC–V-F6B21A?style=flat-square)
 ![ARM Cortex-M](https://img.shields.io/badge/-ARM%20Cortex–M-76B900?style=flat-square)
 ![FPGA](https://img.shields.io/badge/-FPGA-E01F27?style=flat-square&logo=xilinx)
-![NPU](https://img.shields.io/badge/-Neural%20Processing%20Unit-white?style=flat-square&logo=hailo&logoColor=000000)
+![NPU](https://img.shields.io/badge/-Neural%20Processing%20Unit-1E90FF?style=flat-square&logo=hailo&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-white?style=flat-square&logo=nvidia&logoColor=76B900)
-
 
 > Hands-on experience with **Rockchip NPUs**, **NVIDIA Jetson**, **Hailo accelerators**, and **Broadcom (Raspberry Pi)** platforms for real-time computer vision and AI inference at the edge.
 
