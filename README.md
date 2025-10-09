@@ -71,11 +71,16 @@ Key aspects included:
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-white?style=flat-square&logo=gnu-bash)
 
+> I frequently use **Python** and **shell scripting (.sh)** for automation, AI model integration, and system orchestration across embedded Linux boards.
+
 ### Embedded Systems
 ![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=arduino)
 ![ARM MCU](https://img.shields.io/badge/-ARM%20MCU-white?style=flat-square&logo=arm)
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=linux)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-white?style=flat-square&logo=freertos)
+![Yocto](https://img.shields.io/badge/-Yocto%20Project-white?style=flat-square&logo=yocto)
+
+> Experienced in **bare-metal firmware** and **Linux-based embedded platforms** for IoT and AI camera systems.
 
 ### Hardware Design
 ![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-00629B?style=flat-square)
@@ -83,10 +88,15 @@ Key aspects included:
 ![Signal Integrity](https://img.shields.io/badge/-Signal%20Integrity-00629B?style=flat-square)
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-00629B?style=flat-square&logo=kicad)
 
-### Digital Cores
+> Designed multi-layer PCBs with DDR memory, MIPI-CSI, and high-speed interfaces for edge-AI and embedded systems.
+
+### Digital Cores & AI Hardware
 ![RISC-V](https://img.shields.io/badge/-RISC–V-F6B21A?style=flat-square)
 ![ARM Cortex-M](https://img.shields.io/badge/-ARM%20Cortex–M-76B900?style=flat-square)
 ![FPGA](https://img.shields.io/badge/-FPGA-E01F27?style=flat-square&logo=xilinx)
+![NPU](https://img.shields.io/badge/-Neural%20Processing%20Units-FF6F00?style=flat-square&logo=nvidia)
+
+> Practical experience with **Rockchip NPUs**, **Jetson (NVIDIA)**, **Hailo accelerators**, and **Broadcom (Raspberry Pi)** for real-time vision and edge AI applications.
 
 ---
 
@@ -94,12 +104,18 @@ Key aspects included:
 
 | Category | Tools |
 |-----------|--------|
-| **MCUs & SoCs** | ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=espressif) |
+| **MCUs & SoCs** | ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=espressif) ![Rockchip](https://img.shields.io/badge/-Rockchip-0078D7?style=flat-square) ![Broadcom](https://img.shields.io/badge/-Broadcom-CC0000?style=flat-square) |
+| **AI & Edge Platforms** | ![NVIDIA Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat-square&logo=nvidia) ![Hailo](https://img.shields.io/badge/-Hailo-000000?style=flat-square) ![RK3588](https://img.shields.io/badge/-RK3588-0078D7?style=flat-square) |
 | **FPGA & Logic** | ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=xilinx) ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=lattice-semiconductor) |
 | **Development Environments** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide) ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square) |
-| **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) 
+| **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) ![Altium](https://img.shields.io/badge/-Altium-FFD500?style=flat-square) |
 
 ---
+
+### 💬 Summary
+Proficient in **embedded firmware**, **Linux system integration**, and **AI edge computing**.  
+I combine low-level hardware expertise with high-level automation in **Python** and **shell scripting**, creating efficient pipelines for **IoT, computer vision, and intelligent device systems**.
+
 
 # Career
 
