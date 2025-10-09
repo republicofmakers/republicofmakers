@@ -62,10 +62,10 @@ Key achievements include:
 > Skilled in building and customizing embedded Linux distributions using **Yocto Project** and **Buildroot**, and developing **RTOS**-based firmware with **FreeRTOS** and **Zephyr**.
 
 ### Hardware Design
-![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-00629B?style=flat-square)
-![Interfaces](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=ieee)
-![Signal Integrity](https://img.shields.io/badge/-Signal%20Integrity-00629B?style=flat-square)
-![PCB Design](https://img.shields.io/badge/-PCB%20Design-00629B?style=flat-square&logo=kicad)
+![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-1E90FF?style=flat-square)  
+![Interfaces](https://img.shields.io/badge/-Interfaces-4682B4?style=flat-square&logo=ieee&logoColor=white)  
+![Signal Integrity](https://img.shields.io/badge/-Signal%20Integrity-2E8B57?style=flat-square)  
+![PCB Design](https://img.shields.io/badge/-PCB%20Design-6C0101?style=flat-square&logo=kicad&logoColor=white)
 
 > Designed multi-layer PCBs with DDR memory, MIPI-CSI, and high-speed interfaces for **edge-AI**, **sensor**, and **connectivity** systems.
 
