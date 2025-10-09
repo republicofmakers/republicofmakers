@@ -1,49 +1,28 @@
 # Republic of Makers
 
+# Republic of Makers
+
 **Ceyhun Pempeci — Full-Stack Embedded Systems Engineer**
 
-I’m an engineer who designs and builds complete embedded systems — from hardware schematics to production-ready firmware.  
-Curious by nature and disciplined by training, I combine hands-on electronics design with strong software integration skills to bring reliable, real-world products to life.
+I design and build complete embedded systems — from hardware schematics to production-ready firmware.  
+Curious by nature and disciplined by training, I combine hands-on electronics design with strong software integration skills to deliver reliable, real-world products.
 
-If you’d like to explore my professional background and completed projects, visit my detailed portfolio:  
-👉 [Career & Projects](https://github.com/republicofmakers/Career)
+👉 **Explore my professional background and completed projects:**  
+[Career & Projects →](https://github.com/republicofmakers/Career)
 
 ---
 
-## About Me
+## 👤 About Me
 
 Born in 1997 in Turkey, I grew up in a small village near Ankara, where my curiosity for how things work first took shape. After completing secondary education in Ankara’s city center, I moved abroad to pursue my ambitions.
 
 I hold a **Bachelor’s degree in Electronics Engineering** from **Hankuk University of Foreign Studies (HUFS)** in South Korea — a journey that strengthened my technical expertise, adaptability, and global perspective.  
 Nearly all of my studies were **funded through scholarships**, reflecting my dedication, discipline, and consistent academic excellence.
 
-I’m passionate about **electronics and embedded systems**, transforming ideas into robust hardware and software solutions. Beyond engineering, I actively practice **martial arts**, which reinforce my focus and perseverance, and I enjoy **3D printing** as a creative outlet that bridges design and practical engineering.
+My passion lies in **electronics and embedded systems**, transforming ideas into robust hardware and software solutions.  
+Beyond engineering, I practice **martial arts** for discipline and focus, and enjoy **3D printing** as a creative way to merge design and practical engineering.
 
-Driven by curiosity and determination, I continuously seek opportunities to **innovate, collaborate, and deliver** technology that makes a meaningful impact.
-
----
-
-## Maker Projects & Interests
-
-| Category | Overview | Repository |
-|-----------|-----------|-------------|
-| **Electronics** | Hardware projects, prototypes, and embedded experiments. | [Explore →](https://github.com/republicofmakers/Electronics) |
-| **Sports** | Martial arts and fitness tracking projects. | [Explore →](https://github.com/republicofmakers/Sports) |
-| **3D Printing** | Custom mechanical designs and prototypes. | [Explore →](https://github.com/republicofmakers/3D-Printing) |
-
-<br>
-<br>
-
-
-# Career
-
-## 🎓 Education
-
-| Level | Institution | Link | Period |
-|:------|:-------------|:------:|:--------|
-| **High School** | Süleyman Demirel Anatolian High School | [Visit →](https://sdal06.meb.k12.tr/) | 2011.09 – 2015.06 |
-| **Language School** | Hankuk University of Foreign Studies — Korean Language Program | [Visit →](https://www.hufs.ac.kr/hufs/index.do) | 2016.03 – 2017.02 |
-| **Bachelor’s Degree** | Hankuk University of Foreign Studies — Dept. of Electronics Engineering | [Visit →](https://ee.hufs.ac.kr/ee/index.do) | 2017.03 – 2021.03 |
+Driven by curiosity and determination, I continually seek opportunities to **innovate, collaborate, and deliver** technology that creates real-world impact.
 
 ---
 
@@ -53,13 +32,14 @@ Driven by curiosity and determination, I continuously seek opportunities to **in
 **Repository:** [Thesis Project →](https://github.com/republicofmakers/Thesis-Angle-of-Arrival-Estimation-Algorithms-Using-Received-Signal-Strength-Indicator)
 
 In my thesis, I developed a low-cost **Angle of Arrival (AoA)** estimation system using an **ESP32 module** with **directional antennas**.  
-Key aspects included:
-- Designed an **antenna multiplexer** featuring Pi- and L-type impedance-matching networks.  
-- Used a **network analyzer** and **Smith chart** to fine-tune matching values.  
-- Implemented **C-based trigonometric algorithms** for accurate AoA estimation.  
-- Demonstrated that RSSI-based methods can deliver **scalable, cost-efficient positioning**, suitable for **logistics, healthcare, and smart infrastructure** applications.
+Key achievements include:
+- Designed an **antenna multiplexer** with Pi- and L-type impedance-matching networks.  
+- Tuned matching values using a **network analyzer** and **Smith chart**.  
+- Implemented **C-based trigonometric algorithms** for AoA estimation.  
+- Demonstrated that RSSI-based methods can deliver **scalable, cost-efficient positioning** for **logistics, healthcare, and smart infrastructure**.
 
 ---
+
 ## 🧠 Technical Skills
 
 ### Programming & Digital Design
@@ -68,14 +48,14 @@ Key aspects included:
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-white?style=flat-square&logo=gnu-bash)
 
-> I frequently use **Python** and **shell scripting (.sh)** for automation, AI model integration, and system orchestration across embedded Linux boards.
+> I use **Python** and **shell scripting (.sh)** for automation, AI model deployment, and system orchestration across embedded Linux boards.
 
 ### Embedded Systems
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ARM MCU](https://img.shields.io/badge/-ARM%20MCU-0091BD?style=flat-square&logo=arm&logoColor=white)
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Experienced in **bare-metal firmware**, **RTOS-based**, and **Linux embedded systems** for IoT and edge AI platforms.
+> Experienced in **bare-metal firmware**, **RTOS-based**, and **Linux embedded platforms** for IoT and edge-AI systems.
 
 ### Operating Systems
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-2C2255?style=flat-square&logo=freertos&logoColor=white)
@@ -83,7 +63,7 @@ Key aspects included:
 ![Yocto Project](https://img.shields.io/badge/-Yocto%20Project-35495E?style=flat-square&logo=yoctoproject&logoColor=white)
 ![Buildroot](https://img.shields.io/badge/-Buildroot-6C9D32?style=flat-square&logo=linux&logoColor=white)
 
-> Skilled in building and customizing embedded Linux distributions using **Yocto Project** and **Buildroot**, and developing **RTOS**-based firmware using **FreeRTOS** and **Zephyr**.
+> Skilled in building and customizing embedded Linux distributions using **Yocto Project** and **Buildroot**, and developing **RTOS**-based firmware with **FreeRTOS** and **Zephyr**.
 
 ### Hardware Design
 ![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-00629B?style=flat-square)
@@ -99,7 +79,7 @@ Key aspects included:
 ![FPGA](https://img.shields.io/badge/-FPGA-E01F27?style=flat-square&logo=xilinx)
 ![NPU](https://img.shields.io/badge/-Neural%20Processing%20Units-white?style=flat-square&logo=nvidia&logoColor=76B900)
 
-> Hands-on experience with **Rockchip NPUs**, **NVIDIA Jetson**, **Hailo accelerators**, and **Broadcom (Raspberry Pi)** platforms for real-time vision and edge AI.
+> Hands-on experience with **Rockchip NPUs**, **NVIDIA Jetson**, **Hailo accelerators**, and **Broadcom (Raspberry Pi)** platforms for real-time computer vision and AI inference at the edge.
 
 ---
 
@@ -107,17 +87,44 @@ Key aspects included:
 
 | Category | Tools |
 |-----------|--------|
-| **MCUs & SoCs** | ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=espressif) ![Rockchip](https://img.shields.io/badge/-Rockchip-0078D7?style=flat-square) ![Broadcom](https://img.shields.io/badge/-Broadcom-CC0000?style=flat-square) |
-| **AI & Edge Platforms** | ![NVIDIA Jetson](https://img.shields.io/badge/-Jetson-white?style=flat-square&logo=nvidia&logoColor=76B900) ![Hailo](https://img.shields.io/badge/-Hailo-000000?style=flat-square) ![RK3588](https://img.shields.io/badge/-RK3588-0078D7?style=flat-square) |
+| **MCUs & SoCs** | ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=espressif) ![Rockchip](https://img.shields.io/badge/-Rockchip-0078D7?style=flat-square&logoColor=white) ![Broadcom](https://img.shields.io/badge/-Broadcom-white?style=flat-square&logo=Broadcom&logoColor=CC0000) |
+| **AI & Edge Platforms** | ![NVIDIA Jetson](https://img.shields.io/badge/-Jetson-white?style=flat-square&logo=nvidia&logoColor=76B900) ![Hailo](https://img.shields.io/badge/-Hailo-white?style=flat-square&logoColor=000000) ![RK3588](https://img.shields.io/badge/-RK3588-white?style=flat-square&logoColor=0078D7) |
 | **FPGA & Logic** | ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=xilinx) ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=lattice-semiconductor) |
 | **Development Environments** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide) ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square) |
 | **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) ![Altium](https://img.shields.io/badge/-Altium-FFD500?style=flat-square) |
 
 ---
 
+## 🧩 Selected Hardware Designs
+
+Below are examples of **professional hardware systems** I designed for industrial and commercial applications.  
+All designs were developed as part of **company projects**, except the **STM32 ADC/DAC Board**, which is open-source and shared with the engineering community.
+
+| Project | Description | Purpose | Repository |
+|----------|--------------|----------|-------------|
+| **ESP32 Locker Control** | NFC/BLE-based access controller | Smart locker and door control | [View →](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller) |
+| **ESP32 Screen with NFC** | TFT touch display integrated with NFC | Industrial control panel | [View →](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller) |
+| **ESP32 Medical Device** | Thermal imaging and data logging system | Contactless medical temperature scanner | [View →](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device) |
+| **TI MCU SOM for BMS** | High-reliability power module | Battery management system controller | [View →](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |
+| **STM32 ADC / DAC Board** | Mixed-signal interface hardware | **Open-source** educational platform | [View →](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC) |
+| **Xilinx Zynq FPGA Board** | Digital design and SoC development board | FPGA system prototyping | [View →](https://github.com/republicofmakers/HW-KICAD-FPGA-XILINX-ZYNQ-7010) |
+| **Edge AI Camera** | Multi-core AI vision hardware | Edge AI camera for real-time image analysis | [View →](https://github.com/republicofmakers/Industrial-Works-AI-Camera) |
+
+> In these projects, I was responsible for full-cycle hardware development — including schematic design, PCB layout, power optimization, signal integrity, and board bring-up testing.
+
+---
+
+## 🏢 Current Work
+
+I currently work at **ONDAI AI Inc.** as a **Hardware Engineer**, leading the design and development of **commercial AI camera systems** optimized for **edge intelligence and machine vision**.  
+My work focuses on **thermal optimization, signal integrity, and modular scalability**, bringing reliable AI performance to embedded hardware products.
+
+---
+
 ### 💬 Summary
 Proficient in **embedded firmware**, **RTOS development**, and **Linux system integration**.  
-I combine low-level hardware expertise with high-level automation in **Python** and **shell scripting**, creating efficient pipelines for **IoT, com**
+Combining low-level hardware expertise with automation in **Python** and **shell scripting**, I build efficient pipelines for **IoT, computer vision, and intelligent devices** that bridge **hardware, software, and AI**.
+
 
 ## Check Out My PCB Designs
 
