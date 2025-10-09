@@ -10,18 +10,18 @@ Here is more information , if you wanna know more about my career and completed 
 
 # Who am I?
 
-Hi, my name is Ceyhun Pempeci.
+My name is Ceyhun Pempeci, born in 1997 in Turkey. I grew up in a small village near Ankara, where I developed a deep curiosity about how things work — a curiosity that eventually led me into the world of electronics. After completing my secondary education in Ankara’s city center, I moved abroad to pursue my ambitions.
 
-I was born in Turkey in 1997 and spent most of my early life in a small village near Ankara. Later, I moved to the city center to attend high school, where I completed four years of secondary education.
+I earned my Bachelor’s degree in Electronics Engineering from Hankuk University of Foreign Studies (HUFS) in South Korea. Studying abroad strengthened not only my technical expertise but also my adaptability, global mindset, and ability to thrive in diverse environments.
 
-I earned my Bachelor’s degree in Electronics Engineering from Hankuk University of Foreign Studies (HUFS) in South Korea. Studying abroad not only strengthened my technical foundation but also broadened my global perspective and adaptability.
+Throughout my education, I funded nearly all of my studies through scholarships, a testament to my dedication, discipline, and consistent academic excellence.
 
-I'm proud to have funded nearly all of my education through scholarships—a reflection of both my dedication and academic performance.
+Professionally and personally, I am passionate about electronics engineering, where I enjoy turning ideas into tangible systems — from embedded designs to full hardware solutions. Beyond engineering, I actively practice martial arts, which instills focus, mental strength, and perseverance. I also pursue 3D printing, blending creativity with engineering precision to bring my concepts to life.
 
-What I enjoy most is working with electronics, which I pursue both professionally and as a hobby. My second passion is martial arts, which brings discipline and focus into my life. Third is 3D printing, which I enjoy as a way to combine creativity with practical engineering.
+Driven by curiosity and determination, I continually seek opportunities to innovate, collaborate, and contribute to meaningful projects that connect technology and real-world impact.
 
 
-# Hobbies
+### Hobbies
 | Title            | Description                      | Repo  Links                      | 
 |------------------|----------------------------------|----------------------------------|
 | **Electronics**  | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Electronics)|
@@ -71,11 +71,10 @@ In my thesis, I explored ways to improve indoor positioning systems using low-co
 ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
 * ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
 
-I am currently working at **ONDAI AI Inc.** as a hardware engineer, where I lead the design and development of commercial AI camera systems optimized for edge intelligence and machine vision.
 
 
 
-### Check Out My PCB Designs
+## Check Out My PCB Designs
 
 | Title            | Description                      | Purpose                          | Repo  Link                       | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
@@ -87,6 +86,7 @@ I am currently working at **ONDAI AI Inc.** as a hardware engineer, where I lead
 | **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Xilinx FPGA Hardware design      | [Click](https://github.com/republicofmakers/HW-KICAD-FPGA-XILINX-ZYNQ-7010)|
 | **Edge AI Camera**          | Advanced Digital Hardware Design    |  Edge AI Camera System            | [Click](https://github.com/republicofmakers/Industrial-Works-AI-Camera)|
 
+I am currently working at **ONDAI AI Inc.** as a hardware engineer, where I lead the design and development of commercial AI camera systems optimized for edge intelligence and machine vision.
 
 <br>
 <br>
@@ -117,13 +117,6 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           | MCU          | MG24         | Thread        |  014          | Matter                   |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-Matter-014) |
 | SW           | MCU          | SAMD21       | USB           |  015          | USB                      |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
 | SW           | MCU          | NRF52        | BLE           |  016          | NRF52840                 |[Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-016) |
-
-
-
-
-
-
-
 
 
 
