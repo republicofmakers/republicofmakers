@@ -10,8 +10,6 @@ Here is more information , if you wanna know more about my career and completed 
 
 # Who am I?
 
-<img width="500" alt="Profile" src="https://github.com/user-attachments/assets/879c6aff-b9cb-47b2-8164-5df62855a8d2" />
-
 Hi, my name is Ceyhun Pempeci.
 
 I was born in Turkey in 1997 and spent most of my early life in a small village near Ankara. Later, I moved to the city center to attend high school, where I completed four years of secondary education.
@@ -101,8 +99,8 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | **ESP32 Locker Control**    | Advanced Digital Hardware Design    |  Locker Control System            | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller)|
 | **ESP32 Screen with NFC**   | Advanced Digital Hardware Design    |  Touch Screen with NFC            | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller)|
 | **ESP32 Medical Device**    | Medical IOT Device Hardware Design  |  3D Temperature Scanner           | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device)|
-| **TI MCU SOM for BMS**      | BMS Module Hardware Design          |  BMS System Controller            | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller)|
-| **STM32 ADC / DAC**         | Mixed Signal Hardware Design        |  Open Source for Community        | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design)|
+| **TI MCU SOM for BMS**      | BMS Module Hardware Design          |  BMS System Controller            | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design)|
+| **STM32 ADC / DAC**         | Mixed Signal Hardware Design        |  Open Source for Community        | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
 | **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Xilinx FPGA Hardware design      | [Click](https://github.com/republicofmakers/HW-KICAD-FPGA-XILINX-ZYNQ-7010)|
 | **Edge AI Camera**          | Advanced Digital Hardware Design    |  Edge AI Camera System            | [Click](https://github.com/republicofmakers/Industrial-Works-AI-Camera)|
 
