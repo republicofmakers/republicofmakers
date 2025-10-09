@@ -96,10 +96,16 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 ### PCB Designs
 
-| Title            | Description                      | Purpose                          | Repo  Link                      | 
+| Title            | Description                      | Purpose                          | Repo  Link                       | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **STM32 ADC / DAC**        | Mixed Signal Hardware Design       |  Making simulation with LT spice and Testing results.     | [Click](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC)|
+| **ESP32 Locker Control**    | Advanced Digital Hardware Design    |  Locker Control System            | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller)|
+| **ESP32 Screen with NFC**   | Advanced Digital Hardware Design    |  Touch Screen with NFC            | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller)|
+| **ESP32 Medical Device**    | Medical IOT Device Hardware Design  |  3D Temperature Scanner           | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device)|
+| **TI MCU SOM for BMS**      | BMS Module Hardware Design          |  BMS System Controller            | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller)|
+| **STM32 ADC / DAC**         | Mixed Signal Hardware Design        |  Open Source for Community        | [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design)|
 | **Xilinx Zynq FPGA**        | Advanced Digital Hardware Design    |  Xilinx FPGA Hardware design      | [Click](https://github.com/republicofmakers/HW-KICAD-FPGA-XILINX-ZYNQ-7010)|
+| **Edge AI Camera**          | Advanced Digital Hardware Design    |  Edge AI Camera System            | [Click](https://github.com/republicofmakers/Industrial-Works-AI-Camera)|
+
 
 <br>
 <br>
