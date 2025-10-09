@@ -1,5 +1,6 @@
-# Republic of Makers
+<div align="center">
 
+# Republic of Makers
 
 **Ceyhun Pempeci — Full-Stack Embedded Systems Engineer**
 
@@ -8,14 +9,17 @@ Curious by nature and disciplined by training, I combine hands-on electronics de
 
 ---
 
+</div>
+
 ## 👤 About Me
 
-Born in 1997 in Turkey, I developed a strong curiosity for how things work at an early age. After completing secondary education in Ankara, I moved abroad to pursue my ambitions in engineering.
+Born in 1997 in Turkey, I developed a strong curiosity for how things work at an early age.  
+After completing secondary education in Ankara, I moved abroad to pursue my ambitions in engineering.
 
 I hold a **Bachelor’s degree in Electronics Engineering** from **Hankuk University of Foreign Studies (HUFS)** in South Korea — a journey that strengthened my technical expertise, adaptability, and global perspective.  
 Nearly all of my studies were **funded through scholarships**, reflecting my dedication, discipline, and consistent academic excellence.
 
-My passion lies in **electronics and embedded systems**, transforming ideas into robust hardware and software solutions.  
+Passionate about **electronics and embedded systems**, I focus on transforming ideas into robust hardware and software products.  
 Beyond engineering, I practice **martial arts** for discipline and focus, and enjoy **3D printing** as a creative way to merge design and practical engineering.
 
 Driven by curiosity and determination, I continually seek opportunities to **innovate, collaborate, and deliver** technology that creates real-world impact.
@@ -62,9 +66,9 @@ Key achievements include:
 > Skilled in building and customizing embedded Linux distributions using **Yocto Project** and **Buildroot**, and developing **RTOS**-based firmware with **FreeRTOS** and **Zephyr**.
 
 ### Hardware Design
-![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-1E90FF?style=flat-square) 
-![Interfaces](https://img.shields.io/badge/-Interfaces-4682B4?style=flat-square&logo=ieee&logoColor=white) 
-![Signal Integrity](https://img.shields.io/badge/-Signal%20Integrity-2E8B57?style=flat-square) 
+![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-1E90FF?style=flat-square)
+![Interfaces](https://img.shields.io/badge/-Interfaces-4682B4?style=flat-square&logo=ieee&logoColor=white)
+![Signal Integrity](https://img.shields.io/badge/-Signal%20Integrity-2E8B57?style=flat-square)
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-6C0101?style=flat-square&logo=kicad&logoColor=white)
 
 > Designed multi-layer PCBs with DDR memory, MIPI-CSI, and high-speed interfaces for **edge-AI**, **sensor**, and **connectivity** systems.
@@ -94,7 +98,7 @@ Key achievements include:
 
 ## 🧩 Selected Hardware Designs
 
-Below are examples of **professional hardware systems** I designed for industrial and commercial applications.  
+Below are examples of **industrial and commercial hardware systems** I designed, covering embedded control, connectivity, and edge-AI applications.  
 All designs were developed as part of **company projects**, except the **STM32 ADC/DAC Board**, which is open-source and shared with the engineering community.
 
 | Project | Description | Purpose | Repository |
@@ -109,7 +113,6 @@ All designs were developed as part of **company projects**, except the **STM32 A
 
 > In these projects, I was responsible for full-cycle hardware development — including schematic design, PCB layout, power optimization, signal integrity, and board bring-up testing.
 
-
 ---
 
 ## 🏢 Current Work
@@ -120,9 +123,12 @@ My work focuses on **thermal optimization, signal integrity, and modular scalabi
 ---
 
 ### 💬 Summary
-Proficient in **embedded firmware**, **RTOS development**, and **Linux system integration**.  
-Combining low-level hardware expertise with automation in **Python** and **shell scripting**, I build efficient pipelines for **IoT, computer vision, and intelligent devices** that bridge **hardware, software, and AI**.
 
+Proficient in **embedded firmware**, **RTOS development**, and **Linux system integration**.  
+Combining low-level hardware expertise with automation in **Python** and **shell scripting**, I build efficient pipelines for **IoT, computer vision, and intelligent devices** that bridge **hardware, software, and AI**.  
+Always driven by innovation, I aim to connect **embedded design and AI systems** to create intelligent, efficient, and accessible technology.
+
+---
 
 # Giving Back To Community
 
