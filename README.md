@@ -74,12 +74,13 @@ Key aspects included:
 > I frequently use **Python** and **shell scripting (.sh)** for automation, AI model integration, and system orchestration across embedded Linux boards.
 
 ### Embedded Systems
-![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=arduino)
-![ARM MCU](https://img.shields.io/badge/-ARM%20MCU-white?style=flat-square&logo=arm)
-![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=linux)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-white?style=flat-square&logo=freertos)
-![Zephyr RTOS](https://img.shields.io/badge/-Zephyr%20RTOS-white?style=flat-square&logo=zephyr)
-![Yocto Project](https://img.shields.io/badge/-Yocto%20Project-white?style=flat-square&logo=yocto)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ARM MCU](https://img.shields.io/badge/-ARM%20MCU-0091BD?style=flat-square&logo=arm&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-2C2255?style=flat-square&logo=freertos&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/-Zephyr%20RTOS-092E6E?style=flat-square&logo=zephyrproject&logoColor=white)
+![Yocto Project](https://img.shields.io/badge/-Yocto%20Project-35495E?style=flat-square&logo=yoctoproject&logoColor=white)
+
 
 > Experienced in **bare-metal firmware**, **RTOS-based** systems, and **Linux embedded distributions** for IoT and edge AI platforms.
 
