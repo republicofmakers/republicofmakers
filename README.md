@@ -1,5 +1,3 @@
-# Republic of Makers Repo #
-
 # Republic of Makers
 
 **Ceyhun Pempeci — Full-Stack Embedded Systems Engineer**
