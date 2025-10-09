@@ -57,7 +57,7 @@ Key achievements include:
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-2C2255?style=flat-square&logo=freertos&logoColor=white)
 ![Zephyr RTOS](https://img.shields.io/badge/-Zephyr%20RTOS-092E6E?style=flat-square&logo=zephyrproject&logoColor=white)
 ![Yocto Project](https://img.shields.io/badge/-Yocto%20Project-35495E?style=flat-square&logo=yoctoproject&logoColor=white)
-![Buildroot](https://img.shields.io/badge/-Buildroot-6C9D32?style=flat-square&logo=linux&logoColor=white)
+![Buildroot](https://img.shields.io/badge/-Buildroot-6C9D32?style=flat-square)
 
 > Skilled in building and customizing embedded Linux distributions using **Yocto Project** and **Buildroot**, and developing **RTOS**-based firmware with **FreeRTOS** and **Zephyr**.
 
