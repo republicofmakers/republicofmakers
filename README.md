@@ -117,48 +117,6 @@ Proficient in **embedded firmware**, **Linux system integration**, and **AI edge
 I combine low-level hardware expertise with high-level automation in **Python** and **shell scripting**, creating efficient pipelines for **IoT, computer vision, and intelligent device systems**.
 
 
-# Career
-
-| Title            | Name of Institute                | School Links                    | Timelines                        |  
-|------------------|----------------------------------|----------------------------------|----------------------------------|
-| **High School**          | Suleyman Demiral Anatolian High School     | [Click](https://sdal06.meb.k12.tr/) | 2011.09 - 2015.06 | 
-| **Language School**      | Hankuk University Korean Language School  | [Click](https://www.hufs.ac.kr/hufs/index.do) | 2016.03 - 2017.02 | 
-| **University(Bachelor)** | Hankuk University Department of Electronics Engineering | [Click](https://ee.hufs.ac.kr/ee/index.do) | 2017.03 - 2021.03  | 
-
-### Thesis / Graduation Project
-Graduation Thesis: **Angle of Arrival Estimation Algorithms Using Received Signal Strength Indicator**  <br>
-In my thesis, I explored ways to improve indoor positioning systems using low-cost ESP32 module and directional antennas. My research involved designing an antenna multiplexer with Pi and L-type impedance matching circuits, where the impedance values were determined using a network analyzer and smith chart to achieve better performance. I also implemented trigonometric algorithms for Angle of Arrival (AoA) estimation in C code, focusing on accurate and efficient signal processing. This work showed the potential of RSSI-based algorithms for reliable AoA estimation, offering a scalable and affordable approach for outdoor positioning with applications in areas like logistics, healthcare, and smart infrastructure. [Click](https://github.com/republicofmakers/Thesis-Angle-of-Arrival-Estimation-Algorithms-Using-Received-Signal-Strength-Indicator)
-
-
-<br>
-<br>
-
-
-**Skills**
-* ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
-![Verilog/SystemVerilog](https://img.shields.io/badge/-Verilog/SystemVerilog-white?style=flat-square&logo=V)
-* 🗺 Embedded: ![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=Arduino)
-![ARM MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=Arm)
-![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=Linux)
-* ⚡ Hardware: ![power](https://img.shields.io/badge/-PowerCircuitryDesign-00629B?style=flat-square)
-![interface](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
-* 🚀 Digital Core: 
-![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
-![M-Series](https://img.shields.io/badge/-ARM-76B900?style=flat-square)
-
-**Favorite Tools**
-
-* ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
-![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
-* ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
-![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=Xilinx)
-* ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) 
-![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
-* ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
-
-
-
-
 ## Check Out My PCB Designs
 
 | Title            | Description                      | Purpose                          | Repo  Link                       | 
