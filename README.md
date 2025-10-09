@@ -15,8 +15,7 @@ Curious by nature and disciplined by training, I combine hands-on electronics de
 
 ## 👤 About Me
 
-Born in 1997 in Turkey, I developed an early curiosity for how things work and pursued engineering to turn that curiosity into innovation.  
-After completing secondary education in Ankara, I moved abroad to expand my horizons and technical expertise.
+Born in 1997 in Turkey, I’ve always been curious about how things work — a curiosity that naturally evolved into a passion for engineering and innovation.
 
 I hold a **Bachelor’s degree in Electronics Engineering** from **Hankuk University of Foreign Studies (HUFS)** in South Korea — a journey that strengthened my engineering foundation, adaptability, and global perspective.  
 Nearly all of my studies were **funded through scholarships**, reflecting my dedication, discipline, and consistent academic excellence.
@@ -132,7 +131,7 @@ Always driven by innovation, I aim to connect **embedded design and AI systems**
 
 ---
 
-📫 **Contact:** [LinkedIn](https://kr.linkedin.com/in/ceyhun-pempeci-48a60127a/en) | [GitHub](https://github.com/republicofmakers)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/ceyhun-pempeci-48a60127a/) | [GitHub](https://github.com/republicofmakers)
 
 ---
 
