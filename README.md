@@ -14,7 +14,7 @@ Curious by nature and disciplined by training, I combine hands-on electronics de
 
 ## 👤 About Me
 
-Born in 1997 in Turkey, I grew up in a small village near Ankara, where my curiosity for how things work first took shape. After completing secondary education in Ankara’s city center, I moved abroad to pursue my ambitions.
+Born in 1997 in Turkey, I developed a strong curiosity for how things work at an early age. After completing secondary education in Ankara, I moved abroad to pursue my ambitions in engineering.
 
 I hold a **Bachelor’s degree in Electronics Engineering** from **Hankuk University of Foreign Studies (HUFS)** in South Korea — a journey that strengthened my technical expertise, adaptability, and global perspective.  
 Nearly all of my studies were **funded through scholarships**, reflecting my dedication, discipline, and consistent academic excellence.
