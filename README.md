@@ -1,36 +1,105 @@
 # Republic of Makers Repo #
 
-My name is Ceyhun Pempeci. I am a full-stack embedded systems engineer.
+# Republic of Makers
 
+**Ceyhun Pempeci — Full-Stack Embedded Systems Engineer**
 
-Here is more information , if you wanna know more about my career and completed projects. -> [Click](https://github.com/republicofmakers/Career)
+I’m an engineer who designs and builds complete embedded systems — from hardware schematics to production-ready firmware.  
+Curious by nature and disciplined by training, I combine hands-on electronics design with strong software integration skills to bring reliable, real-world products to life.
 
+If you’d like to explore my professional background and completed projects, visit my detailed portfolio:  
+👉 [Career & Projects](https://github.com/republicofmakers/Career)
 
+---
 
+## About Me
 
-# Who am I?
+Born in 1997 in Turkey, I grew up in a small village near Ankara, where my curiosity for how things work first took shape. After completing secondary education in Ankara’s city center, I moved abroad to pursue my ambitions.
 
-My name is Ceyhun Pempeci, born in 1997 in Turkey. I grew up in a small village near Ankara, where I developed a deep curiosity about how things work — a curiosity that eventually led me into the world of electronics. After completing my secondary education in Ankara’s city center, I moved abroad to pursue my ambitions.
+I hold a **Bachelor’s degree in Electronics Engineering** from **Hankuk University of Foreign Studies (HUFS)** in South Korea — a journey that strengthened my technical expertise, adaptability, and global perspective.  
+Nearly all of my studies were **funded through scholarships**, reflecting my dedication, discipline, and consistent academic excellence.
 
-I earned my Bachelor’s degree in Electronics Engineering from Hankuk University of Foreign Studies (HUFS) in South Korea. Studying abroad strengthened not only my technical expertise but also my adaptability, global mindset, and ability to thrive in diverse environments.
+I’m passionate about **electronics and embedded systems**, transforming ideas into robust hardware and software solutions. Beyond engineering, I actively practice **martial arts**, which reinforce my focus and perseverance, and I enjoy **3D printing** as a creative outlet that bridges design and practical engineering.
 
-Throughout my education, I funded nearly all of my studies through scholarships, a testament to my dedication, discipline, and consistent academic excellence.
+Driven by curiosity and determination, I continuously seek opportunities to **innovate, collaborate, and deliver** technology that makes a meaningful impact.
 
-Professionally and personally, I am passionate about electronics engineering, where I enjoy turning ideas into tangible systems — from embedded designs to full hardware solutions. Beyond engineering, I actively practice martial arts, which instills focus, mental strength, and perseverance. I also pursue 3D printing, blending creativity with engineering precision to bring my concepts to life.
+---
 
-Driven by curiosity and determination, I continually seek opportunities to innovate, collaborate, and contribute to meaningful projects that connect technology and real-world impact.
+## Maker Projects & Interests
 
-
-### Hobbies
-| Title            | Description                      | Repo  Links                      | 
-|------------------|----------------------------------|----------------------------------|
-| **Electronics**  | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Electronics)|
-| **Sports**       | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Sports)|
-| **3D Printing**  | Please click to link to see more information    | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)|
+| Category | Overview | Repository |
+|-----------|-----------|-------------|
+| **Electronics** | Hardware projects, prototypes, and embedded experiments. | [Explore →](https://github.com/republicofmakers/Electronics) |
+| **Sports** | Martial arts and fitness tracking projects. | [Explore →](https://github.com/republicofmakers/Sports) |
+| **3D Printing** | Custom mechanical designs and prototypes. | [Explore →](https://github.com/republicofmakers/3D-Printing) |
 
 <br>
 <br>
 
+
+# Career
+
+## 🎓 Education
+
+| Level | Institution | Link | Period |
+|:------|:-------------|:------:|:--------|
+| **High School** | Süleyman Demirel Anatolian High School | [Visit →](https://sdal06.meb.k12.tr/) | 2011.09 – 2015.06 |
+| **Language School** | Hankuk University of Foreign Studies — Korean Language Program | [Visit →](https://www.hufs.ac.kr/hufs/index.do) | 2016.03 – 2017.02 |
+| **Bachelor’s Degree** | Hankuk University of Foreign Studies — Dept. of Electronics Engineering | [Visit →](https://ee.hufs.ac.kr/ee/index.do) | 2017.03 – 2021.03 |
+
+---
+
+## 📘 Thesis / Graduation Project
+
+**Title:** *Angle of Arrival Estimation Algorithms Using Received Signal Strength Indicator (RSSI)*  
+**Repository:** [Thesis Project →](https://github.com/republicofmakers/Thesis-Angle-of-Arrival-Estimation-Algorithms-Using-Received-Signal-Strength-Indicator)
+
+In my thesis, I developed a low-cost **Angle of Arrival (AoA)** estimation system using an **ESP32 module** with **directional antennas**.  
+Key aspects included:
+- Designed an **antenna multiplexer** featuring Pi- and L-type impedance-matching networks.  
+- Used a **network analyzer** and **Smith chart** to fine-tune matching values.  
+- Implemented **C-based trigonometric algorithms** for accurate AoA estimation.  
+- Demonstrated that RSSI-based methods can deliver **scalable, cost-efficient positioning**, suitable for **logistics, healthcare, and smart infrastructure** applications.
+
+---
+
+## 🧠 Technical Skills
+
+### Programming & Digital Design
+![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c)
+![Verilog/SystemVerilog](https://img.shields.io/badge/-Verilog/SystemVerilog-white?style=flat-square&logo=verilog)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
+![Shell](https://img.shields.io/badge/-Shell-white?style=flat-square&logo=gnu-bash)
+
+### Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=arduino)
+![ARM MCU](https://img.shields.io/badge/-ARM%20MCU-white?style=flat-square&logo=arm)
+![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=linux)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-white?style=flat-square&logo=freertos)
+
+### Hardware Design
+![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-00629B?style=flat-square)
+![Interfaces](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=ieee)
+![Signal Integrity](https://img.shields.io/badge/-Signal%20Integrity-00629B?style=flat-square)
+![PCB Design](https://img.shields.io/badge/-PCB%20Design-00629B?style=flat-square&logo=kicad)
+
+### Digital Cores
+![RISC-V](https://img.shields.io/badge/-RISC–V-F6B21A?style=flat-square)
+![ARM Cortex-M](https://img.shields.io/badge/-ARM%20Cortex–M-76B900?style=flat-square)
+![FPGA](https://img.shields.io/badge/-FPGA-E01F27?style=flat-square&logo=xilinx)
+
+---
+
+## 🧰 Favorite Tools
+
+| Category | Tools |
+|-----------|--------|
+| **MCUs & SoCs** | ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=espressif) |
+| **FPGA & Logic** | ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=xilinx) ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=lattice-semiconductor) |
+| **Development** | ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square) |
+| **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) ![Altium](https://img.shields.io/badge/-Altium-FFD500?style=flat-square) |
+
+---
 
 # Career
 
