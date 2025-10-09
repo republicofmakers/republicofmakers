@@ -60,7 +60,6 @@ Key aspects included:
 - Demonstrated that RSSI-based methods can deliver **scalable, cost-efficient positioning**, suitable for **logistics, healthcare, and smart infrastructure** applications.
 
 ---
-
 ## 🧠 Technical Skills
 
 ### Programming & Digital Design
@@ -75,12 +74,16 @@ Key aspects included:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ARM MCU](https://img.shields.io/badge/-ARM%20MCU-0091BD?style=flat-square&logo=arm&logoColor=white)
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+> Experienced in **bare-metal firmware**, **RTOS-based**, and **Linux embedded systems** for IoT and edge AI platforms.
+
+### Operating Systems
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-2C2255?style=flat-square&logo=freertos&logoColor=white)
 ![Zephyr RTOS](https://img.shields.io/badge/-Zephyr%20RTOS-092E6E?style=flat-square&logo=zephyrproject&logoColor=white)
 ![Yocto Project](https://img.shields.io/badge/-Yocto%20Project-35495E?style=flat-square&logo=yoctoproject&logoColor=white)
+![Buildroot](https://img.shields.io/badge/-Buildroot-6C9D32?style=flat-square&logo=linux&logoColor=white)
 
-
-> Experienced in **bare-metal firmware**, **RTOS-based** systems, and **Linux embedded distributions** for IoT and edge AI platforms.
+> Skilled in building and customizing embedded Linux distributions using **Yocto Project** and **Buildroot**, and developing **RTOS**-based firmware using **FreeRTOS** and **Zephyr**.
 
 ### Hardware Design
 ![Power Circuits](https://img.shields.io/badge/-Power%20Circuit%20Design-00629B?style=flat-square)
@@ -94,7 +97,7 @@ Key aspects included:
 ![RISC-V](https://img.shields.io/badge/-RISC–V-F6B21A?style=flat-square)
 ![ARM Cortex-M](https://img.shields.io/badge/-ARM%20Cortex–M-76B900?style=flat-square)
 ![FPGA](https://img.shields.io/badge/-FPGA-E01F27?style=flat-square&logo=xilinx)
-![NPU](https://img.shields.io/badge/-Neural%20Processing%20Units-FF6F00?style=flat-square&logo=nvidia)
+![NPU](https://img.shields.io/badge/-Neural%20Processing%20Units-white?style=flat-square&logo=nvidia&logoColor=76B900)
 
 > Hands-on experience with **Rockchip NPUs**, **NVIDIA Jetson**, **Hailo accelerators**, and **Broadcom (Raspberry Pi)** platforms for real-time vision and edge AI.
 
@@ -114,7 +117,7 @@ Key aspects included:
 
 ### 💬 Summary
 Proficient in **embedded firmware**, **RTOS development**, and **Linux system integration**.  
-I combine low-level hardware expertise with high-level automation in **Python** and **shell scripting**, creating efficient pipelines for **IoT, computer vision, and intelligent devices**.
+I combine low-level hardware expertise with high-level automation in **Python** and **shell scripting**, creating efficient pipelines for **IoT, com**
 
 ## Check Out My PCB Designs
 
