@@ -20,19 +20,25 @@ I'm proud to have funded nearly all of my education through scholarships—a ref
 
 What I enjoy most is working with electronics, which I pursue both professionally and as a hobby. My second passion is martial arts, which brings discipline and focus into my life. Third is 3D printing, which I enjoy as a way to combine creativity with practical engineering.
 
+
+# Hobbies
+| Title            | Description                      | Repo  Links                      | 
+|------------------|----------------------------------|----------------------------------|
+| **Electronics**  | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Electronics)|
+| **Sports**       | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Sports)|
+| **3D Printing**  | Please click to link to see more information    | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)|
+
 <br>
 <br>
 
-# Education
+
+# Career
 
 | Title            | Name of Institute                | School Links                    | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **High School**          | Suleyman Demiral Anatolian High School     | [Click](https://sdal06.meb.k12.tr/) | 2011.09 - 2015.06 | 
 | **Language School**      | Hankuk University Korean Language School  | [Click](https://www.hufs.ac.kr/hufs/index.do) | 2016.03 - 2017.02 | 
 | **University(Bachelor)** | Hankuk University Department of Electronics Engineering | [Click](https://ee.hufs.ac.kr/ee/index.do) | 2017.03 - 2021.03  | 
-
-
-
 
 ### Thesis / Graduation Project
 Graduation Thesis: **Angle of Arrival Estimation Algorithms Using Received Signal Strength Indicator**  <br>
@@ -42,16 +48,6 @@ In my thesis, I explored ways to improve indoor positioning systems using low-co
 <br>
 <br>
 
-# Hobbies
-| Title            | Description                      | Repo  Links                      | 
-|------------------|----------------------------------|----------------------------------|
-| **Electronics**  | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Electronics)|
-| **Sports**       | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Sports)|
-| **3D Printing**  | Please click to link to see more information    | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)|
-
-
-
-# Career
 
 **Skills**
 * ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
@@ -75,24 +71,11 @@ In my thesis, I explored ways to improve indoor positioning systems using low-co
 ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
 * ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
 
-| Title                  | Description                                                                                                                | Company                          | Repo Link                       |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|
-| **Project Management Assistant** | Participated in project coordination, documentation, and technical tracking for multiple railway system initiatives.            | Hyundai / Rotem (Korea)          | [Click](https://github.com/republicofmakers/Operational-Works-Project-management) |
-| **Hardware Engineer**           | Designed a secure NFC-enabled locker system with BLE and Wi‑Fi support for gyms, hotels, and public facilities.                  | Yilmazlar / Freelance (Turkey)   | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller) |
-| **Hardware Engineer**           | Developed a smart door access system integrating TFT display, NFC, BLE, and Wi‑Fi for secure and interactive control.              | Yilmazlar / Freelance (Turkey)   | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller) |
-| **Hardware Engineer**           | Developed a low-cost IoT medical device using ESP32 that performs 3D thermal scanning of objects for diagnostic applications.     | Geniecup (Korea)                 | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device) |
-| **Hardware Engineer**           | Designed a 4-layer control board using PADs Mentor with a TMS320F28335 MCU to manage a BMS system in a short-term project.       | Hyundai Inverter Solution (Korea)| [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |
-| **Hardware Engineer**           | Designed and built an AI-based camera system for real-time accident detection, integrating embedded vision and neural processing. | ONDAI AI Inc. (Korea)            | [Click](https://github.com/republicofmakers/Industrial-Works-AI-Camera) |
-
-
 I am currently working at **ONDAI AI Inc.** as a hardware engineer, where I lead the design and development of commercial AI camera systems optimized for edge intelligence and machine vision.
 
 
-# Giving Back To Community
 
-I’ve created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my commitment to open learning and collaboration. While I’ve learned from senior engineers, I am now an experienced engineer specializing in IoT and AI—focused on building innovative, reliable solutions and continuously improving my skills. With perseverance and hard work, I aim to grow further in this field. Along the way, I remain committed to supporting junior engineers by sharing helpful resources and guidance to make their journey into the field easier and more accessible.
-
-### PCB Designs
+### Check Out My PCB Designs
 
 | Title            | Description                      | Purpose                          | Repo  Link                       | 
 |------------------|----------------------------------|----------------------------------|----------------------------------|
@@ -109,6 +92,9 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 <br>
 <br>
 
+# Giving Back To Community
+
+I’ve created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my commitment to open learning and collaboration. While I’ve learned from senior engineers, I am now an experienced engineer specializing in IoT and AI—focused on building innovative, reliable solutions and continuously improving my skills. With perseverance and hard work, I aim to grow further in this field. Along the way, I remain committed to supporting junior engineers by sharing helpful resources and guidance to make their journey into the field easier and more accessible.
 
 ### Xiao Series (Arduino IDE)
 
