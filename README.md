@@ -96,8 +96,8 @@ Key aspects included:
 |-----------|--------|
 | **MCUs & SoCs** | ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=espressif) |
 | **FPGA & Logic** | ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=xilinx) ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=lattice-semiconductor) |
-| **Development** | ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square) |
-| **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) ![Altium](https://img.shields.io/badge/-Altium-FFD500?style=flat-square) |
+| **Development Environments** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide) ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square) |
+| **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) 
 
 ---
 
