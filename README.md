@@ -123,12 +123,20 @@ My work focuses on **thermal optimization, signal integrity, and modular scalabi
 
 ---
 
-## 🌍 Giving Back to the Community
+## 🧭 Project Archive
 
-I actively share my work to support other engineers and makers.  
-You can explore all my open-source projects — from microcontroller firmware to AI camera hardware — here:
+</div>
 
-🔗 [**Project Archive →**](https://github.com/republicofmakers/Project-Archive)
+I’ve shared over **200 open-source repositories** covering **embedded systems**, **AI at the edge**, and **hardware design** — ranging from microcontroller firmware to complete Linux-based AI camera systems.  
+To explore all my public work in one place:
+
+<div align="center">
+
+🔗 [**Visit the Project Archive →**](https://github.com/republicofmakers/Project-Archive)
+
+</div>
+
+> The archive includes categorized repositories for **STM32**, **ESP32**, **RK3588**, **Jetson**, **FPGA**, **LoRa**, **MQTT**, and more — organized for learning, innovation, and community growth.
 
 ---
 
