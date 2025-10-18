@@ -93,7 +93,7 @@ Key achievements include:
 | **AI & Edge Platforms** | ![NVIDIA Jetson](https://img.shields.io/badge/-Jetson-white?style=flat-square&logo=nvidia&logoColor=76B900) ![Hailo](https://img.shields.io/badge/-Hailo-white?style=flat-square&logoColor=000000) ![RK3588](https://img.shields.io/badge/-RK3588-white?style=flat-square&logoColor=0078D7) |
 | **FPGA & Logic** | ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=xilinx) ![Lattice](https://img.shields.io/badge/-Lattice-F6B21A?style=flat-square&logo=lattice-semiconductor) |
 | **Development Environments** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide) ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square) |
-| **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) ![Altium](https://img.shields.io/badge/-Altium-FFD500?style=flat-square) |
+| **EDA & Simulation** | ![KiCad](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=kicad) ![LTspice](https://img.shields.io/badge/-LTspice-0081CB?style=flat-square) |
 
 ---
 
