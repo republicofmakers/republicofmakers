@@ -2,7 +2,7 @@
 
 # Republic of Makers
 
-**Ceyhun Pempeci — Full-Stack Embedded Systems Engineer**
+**Ceyhun Pempeci — Embedded Hardware Engineer**
 
 I design and build complete embedded systems — from hardware schematics to production-ready firmware.  
 Curious by nature and disciplined by training, I combine hands-on electronics design with strong software integration skills to deliver reliable, real-world products.
