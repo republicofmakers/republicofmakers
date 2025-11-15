@@ -95,7 +95,6 @@ All designs were developed as part of **company projects**, except the **STM32 A
 | **ESP32 Locker Control** | NFC/BLE-based access controller | Smart locker and door control | [View →](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller) |
 | **ESP32 Screen with NFC** | TFT touch display integrated with NFC | Industrial control panel | [View →](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller) |
 | **ESP32 Medical Device** | Thermal imaging and data logging system | Contactless medical temperature scanner | [View →](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device) |
-| **TI MCU SOM for BMS** | MCU-based system-on-module design | Battery management system controller | [View →](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |
 | **STM32 ADC / DAC Board** | Mixed-signal interface hardware | **Open-source** educational platform | [View →](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC) |
 | **Xilinx Zynq FPGA Board** | Digital design and SoC development board | FPGA system prototyping | [View →](https://github.com/republicofmakers/HW-KICAD-FPGA-XILINX-ZYNQ-7010) |
 | **Edge AI Camera** | Multi-core AI vision hardware | Edge AI camera for real-time image analysis | [View →](https://github.com/republicofmakers/Industrial-Works-AI-Camera) |
