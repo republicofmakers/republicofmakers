@@ -20,24 +20,12 @@ Born in 1997 in Turkey, I’ve always been curious about how things work — a c
 I hold a **Bachelor’s degree in Electronics Engineering** from **Hankuk University of Foreign Studies (HUFS)** in South Korea — a journey that strengthened my engineering foundation, adaptability, and global perspective.  
 Nearly all of my studies were **funded through scholarships**, reflecting my dedication, discipline, and consistent academic excellence.
 
+**Thesis:** Angle of Arrival Estimation Algorithms Using Received Signal Strength Indicator (RSSI)  
+
 Passionate about **electronics and embedded systems**, I focus on transforming ideas into robust hardware and software products.  
 Beyond engineering, I practice **martial arts** for discipline and focus, and enjoy **3D printing** as a creative way to merge design and practical engineering.
 
 Driven by curiosity and determination, I continually seek opportunities to **innovate, collaborate, and deliver** technology that creates real-world impact.
-
----
-
-## 📘 Thesis / Graduation Project
-
-**Title:** *Angle of Arrival Estimation Algorithms Using Received Signal Strength Indicator (RSSI)*  
-**Repository:** [Thesis Project →](https://github.com/republicofmakers/Thesis-Angle-of-Arrival-Estimation-Algorithms-Using-Received-Signal-Strength-Indicator)
-
-In my thesis, I developed a low-cost **Angle of Arrival (AoA)** estimation system using an **ESP32 module** with **directional antennas**.  
-Key achievements include:
-- Designed an **antenna multiplexer** with Pi- and L-type impedance-matching networks.  
-- Tuned matching values using a **network analyzer** and **Smith chart**.  
-- Implemented **C-based trigonometric algorithms** for AoA estimation.  
-- Demonstrated that RSSI-based methods can deliver **scalable, cost-efficient positioning** for **logistics, healthcare, and smart infrastructure**.
 
 ---
 
