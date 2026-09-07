@@ -61,7 +61,7 @@ I am all about **electronics and embedded systems**, I focus on **transforming i
 
 ---
 
-## 🛠️ Ongoing Hobby Projects
+## 🛠️ Ongoing Personal Projects
 
 | Project | Description | Purpose | Repository |
 |----------|--------------|----------|-------------|
