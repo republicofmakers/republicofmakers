@@ -61,16 +61,11 @@ I am all about **electronics and embedded systems**, I focus on **transforming i
 
 ---
 
-## 🛠️ Ongoing Personal Projects
-
 | Project | Description | Purpose | Repository |
 |----------|--------------|----------|-------------|
 | **STM32 ADC / DAC Board** | Mixed-signal interface hardware | ADC / DAC integration with STM32 | [View →](https://github.com/republicofmakers/HW-KICAD-MCU-STM32-External-ADC-DAC) |
 | **Xilinx Zynq FPGA Board** | Digital design and SoC development board | FPGA system prototyping (ongoing) | [View →](https://github.com/republicofmakers/HW-KICAD-FPGA-XILINX-ZYNQ-7010) |
 | **x86 Mini PC with AI / PoE / GPIO** | Compact AI-powered mini PC (Intel N100) | Custom secondary AI system | [View →](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC) |
-| **Panelized MCU Programmer / Tester** | Programming/testing multiple PCBs with pogo pins | Batch MCU programming & testing (ongoing) | [View →](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer) |
-
-**Important:** These are personal/hobby projects. Industrial and company work portfolio available on request — see contact links below.
 
 ---
 
